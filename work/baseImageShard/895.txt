@@ -1,0 +1,3 @@
+cuda
+10.2-cudnn8-runtime-ubuntu18.04
+['nni__Dockerfile202106030.dockerfile', 'nni__Dockerfile202106040.dockerfile', 'nni__Dockerfile202112140.dockerfile']

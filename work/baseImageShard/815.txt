@@ -1,0 +1,3 @@
+tomcat
+9-jdk17-temurin-focal
+['convertigo_docker_aks_Dockerfile202207010.dockerfile', 'convertigo_docker_aks_Dockerfile202208020.dockerfile', 'convertigo_docker_aks_Dockerfile202209150.dockerfile']

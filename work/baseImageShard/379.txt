@@ -1,0 +1,3 @@
+ruby
+0-${VARIANT}
+['rails_.devcontainer_Dockerfile202108210.dockerfile', 'rails_.devcontainer_Dockerfile202108230.dockerfile', 'rails_.devcontainer_Dockerfile202108231.dockerfile', 'rails_.devcontainer_Dockerfile202109220.dockerfile', 'rails_.devcontainer_Dockerfile202110130.dockerfile', 'rails_.devcontainer_Dockerfile202111160.dockerfile', 'rails_.devcontainer_Dockerfile202111161.dockerfile', 'rails_.devcontainer_Dockerfile202206220.dockerfile', 'rails_.devcontainer_Dockerfile202209100.dockerfile']

@@ -1,0 +1,3 @@
+static
+latest
+['gum__Dockerfile202207090.dockerfile', 'kubernetes_staging_src_k8s.io_pod-security-admission_webhook_Dockerfile202110280.dockerfile']

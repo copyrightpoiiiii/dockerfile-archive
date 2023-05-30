@@ -1,0 +1,3 @@
+open-liberty
+kernel-ubi-min
+['ci.docker_build_test-stock-quote_Dockerfile201911040.dockerfile', 'ci.docker_build_test-stock-trader_Dockerfile201911040.dockerfile']

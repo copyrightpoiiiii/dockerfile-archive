@@ -1,0 +1,35 @@
+command:
+  providerFor:
+    - gpgconf
+  prefix: SC-GPGCONF
+  options: &options
+    booleans:
+      - --list-components
+      - --check-programs
+      - --list-options
+      - --change-options
+      - --check-options
+      - --apply-defaults
+      - --list-dirs
+      - -v, --verbose
+      - -n, --dry-run
+      - -r, --runtime
+    paths:
+      - --list-config
+      - --check-config
+  scenarios:
+    - cmd: $0 
+      mustHave:
+        - --list-components
+      options: *options
+      name: SC-GPGCONF-LIST
+    - cmd: $0 <component>
+      mustHave:
+        - --list-options
+      options: *options
+      name: SC-GPGCONF-LIST-OPTION
+    - cmd: $0 <component>
+      mustHave:
+        - --change-options
+      options: *options
+      name: SC-GPGCONF-SHOW-OPTION

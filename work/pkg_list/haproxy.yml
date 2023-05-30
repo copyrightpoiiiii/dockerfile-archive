@@ -1,0 +1,29 @@
+command:
+  providerFor:
+    - haproxy
+  prefix: SC-HAPROXY
+  options: &options
+    booleans:
+      - -d
+      - -D
+      - -q
+      - -V
+      - -c
+      - -s, -l
+      - -dk
+      - -ds
+      - -de
+      - -db
+    strings:
+      - -m
+      - -n
+    arrays:
+      - -sf
+      - -st
+    paths:
+      - -f
+      - -p
+  scenarios:
+    - cmd: $0
+      options: *options
+      name: SC-HAPROXY

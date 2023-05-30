@@ -1,0 +1,57 @@
+command:
+  providerFor:
+    - set
+    - setx
+  prefix: SC-SET
+  options: &options
+    booleans:
+      - -a
+      - -b
+      - -e
+      - -f
+      - -h
+      - -k
+      - -m
+      - -n
+      - -p
+      - -t
+      - -u
+      - -v
+      - -x
+      - -B
+      - -C
+      - -E
+      - -H 
+      - -P
+      - -T
+      - +a
+      - +b
+      - +e
+      - +f
+      - +h
+      - +k
+      - +m
+      - +n
+      - +p
+      - +t
+      - +u
+      - +v
+      - +x
+      - +B
+      - +C
+      - +E
+      - +H 
+      - +P
+      - +T
+      - --
+    arrays:
+      - -o
+      - +o
+  scenarios:
+    - cmd: $0 [args]
+      options: *options
+      name: SC-SET
+    - cmd: $0 -o
+      name: SC-SET-UNSPECIFIED-OUTPUT
+    - cmd: $0 +o
+      name: SC-SET-SPECIFIED-OUTPUT

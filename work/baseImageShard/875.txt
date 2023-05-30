@@ -1,0 +1,3 @@
+cassandra
+3.11
+['jaeger_plugin_storage_cassandra_Dockerfile201707200.dockerfile', 'jaeger_plugin_storage_cassandra_Dockerfile201807100.dockerfile', 'jaeger_plugin_storage_cassandra_Dockerfile202106040.dockerfile']

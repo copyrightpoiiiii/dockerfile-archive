@@ -1,0 +1,3 @@
+aspnetcore
+1.1
+['eShopOnContainers_src_Services_Payment_Payment.API_Dockerfile201704280.dockerfile', 'eShopOnContainers_src_Web_WebStatus_Dockerfile201703240.dockerfile']

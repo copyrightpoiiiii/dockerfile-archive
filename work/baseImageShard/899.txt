@@ -1,0 +1,3 @@
+centos
+stream8
+['pi-hole_test__centos_8202202040.dockerfile', 'pi-hole_test__centos_8202207070.dockerfile', 'pi-hole_test__centos_8202210090.dockerfile']

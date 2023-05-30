@@ -1,0 +1,3 @@
+ruby
+3.0.2-alpine
+['chatwoot_docker_Dockerfile202108030.dockerfile', 'chatwoot_docker_Dockerfile202108060.dockerfile', 'chatwoot_docker_Dockerfile202108120.dockerfile', 'chatwoot_docker_Dockerfile202108250.dockerfile', 'chatwoot_docker_Dockerfile202109280.dockerfile', 'chatwoot_docker_Dockerfile202202240.dockerfile']

@@ -1,0 +1,3 @@
+alpine
+3.12.0
+['authelia_internal_suites_example_compose_kind_Dockerfile202006010.dockerfile', 'openapi-generator_samples_client_petstore_bash_Dockerfile202104220.dockerfile']

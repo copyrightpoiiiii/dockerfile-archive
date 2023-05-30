@@ -1,0 +1,3 @@
+cuda@sha256
+362e4e25aa46a18dfa834360140e91b61cdb0a3a2796c8e09dadb268b9de3f6b
+['CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201812130.dockerfile', 'CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201901300.dockerfile']

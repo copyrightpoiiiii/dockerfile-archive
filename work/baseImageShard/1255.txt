@@ -1,0 +1,3 @@
+nginx-unprivileged
+latest
+['rancher_tests_validation_tests_Dockerfiles_unprivileged-testcontainer_Dockerfile202101140.dockerfile', 'rancher_tests_validation_tests_Dockerfiles_unprivileged-testcontainer_Dockerfile202110230.dockerfile']

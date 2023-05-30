@@ -1,0 +1,3 @@
+license-check
+0.4.0
+['faas_auth_basic-auth_Dockerfile202201250.dockerfile', 'faas_auth_basic-auth_Dockerfile202202210.dockerfile', 'faas_auth_basic-auth_Dockerfile202205070.dockerfile', 'faas_auth_basic-auth_Dockerfile202205260.dockerfile', 'faas_auth_basic-auth_Dockerfile202208050.dockerfile', 'faas_auth_basic-auth_Dockerfile202208250.dockerfile', 'faas_gateway_Dockerfile202201250.dockerfile', 'faas_gateway_Dockerfile202202210.dockerfile', 'faas_gateway_Dockerfile202205070.dockerfile', 'faas_gateway_Dockerfile202205071.dockerfile', 'faas_gateway_Dockerfile202205260.dockerfile', 'faas_gateway_Dockerfile202207070.dockerfile', 'faas_gateway_Dockerfile202208050.dockerfile']

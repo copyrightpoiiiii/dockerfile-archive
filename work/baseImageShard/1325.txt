@@ -1,0 +1,3 @@
+tomcat
+8.0-jre8-slim
+['xxl-job_xxl-job-admin_Dockerfile201810050.dockerfile', 'xxl-job_xxl-job-admin_Dockerfile201810051.dockerfile']

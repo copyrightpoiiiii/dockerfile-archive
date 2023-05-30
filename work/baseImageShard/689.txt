@@ -1,0 +1,3 @@
+golangci-lint
+${GOLANGCI_LINT_VERSION}
+['compose__Dockerfile202207140.dockerfile', 'compose__Dockerfile202207260.dockerfile', 'compose__Dockerfile202208030.dockerfile', 'compose__Dockerfile202208040.dockerfile']

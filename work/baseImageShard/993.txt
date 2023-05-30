@@ -1,0 +1,3 @@
+openresty
+1.19.3.2-alpine-fat
+['apisix_t_chaos_utils_Dockerfile202206140.dockerfile', 'apisix_t_chaos_utils_Dockerfile202208300.dockerfile']

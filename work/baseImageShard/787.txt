@@ -1,0 +1,3 @@
+ycm-vim-${YCM_PYTHON}
+test
+['YouCompleteMe_test_docker_manual_image_Dockerfile201910220.dockerfile', 'YouCompleteMe_test_docker_manual_image_Dockerfile202005040.dockerfile', 'YouCompleteMe_test_docker_manual_image_Dockerfile202005041.dockerfile']

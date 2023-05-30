@@ -1,0 +1,3 @@
+ubuntu
+cosmic
+['generator-jhipster__Dockerfile201903100.dockerfile', 'generator-jhipster__Dockerfile201903250.dockerfile', 'generator-jhipster__Dockerfile201904010.dockerfile']

@@ -1,0 +1,3 @@
+dotnet
+2.1-runtime-deps-bionic
+['aspnetcore_eng_docker_bionic201906200.dockerfile', 'aspnetcore_eng_docker_bionic201909110.dockerfile']

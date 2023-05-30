@@ -1,0 +1,154 @@
+# -*- mode: dockerfile -*-
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+#
+# Dockerfile for Ubuntu based builds.
+#
+# See docker-compose.yml for supported BASE_IMAGE ARGs and targets.
+
+####################################################################################################
+# The Dockerfile uses a dynamic BASE_IMAGE (for example ubuntu:20.04
+# nvidia/cuda:11.1-cudnn8-devel-ubuntu20.04 etc).
+# On top of BASE_IMAGE we install all dependencies shared by all MXNet build
+# environments into a "base" target. At the end of this file, we can specialize
+# "base" for specific usecases. The target built by docker can be selected via
+# "--target" option or docker-compose.yml
+####################################################################################################
+ARG BASE_IMAGE
+FROM $BASE_IMAGE AS base
+
+WORKDIR /work/deps
+
+RUN export DEBIAN_FRONTEND=noninteractive && \
+    apt-get update && \
+    apt-get install -y wget software-properties-common && \
+    wget -qO - wget https://apt.repos.intel.com/intel-gpg-keys/GPG-PUB-KEY-INTEL-SW-PRODUCTS-2019.PUB | apt-key add - && \
+    apt-add-repository "deb https://apt.repos.intel.com/mkl all main" &&  \
+    apt-get update && \
+    apt-get install -y \
+        ## Utilities
+        curl \
+        unzip \
+        pandoc \
+        ## Development tools
+        cmake \
+        build-essential \
+        ninja-build \
+        git \
+        protobuf-compiler \
+        libprotobuf-dev \
+        clang-6.0 \
+        python-yaml \
+        clang-10 \
+        clang-tidy-10 \
+        g++ \
+        g++-8 \
+        intel-mkl-2020.0-088 \
+        ## Dependencies
+        libgomp1 \
+        libturbojpeg0-dev \
+        libopenblas-dev \
+        libcurl4-openssl-dev \
+        libatlas-base-dev \
+        libzmq3-dev \
+        liblapack-dev \
+        libopencv-dev \
+        libxml2-dev \
+        # BytePS
+        numactl \
+        libnuma-dev \
+        ## Frontend languages
+        # Python
+        python3 \
+        python3-pip \
+        ## Documentation
+        doxygen \
+        pandoc \
+        ## Build-dependencies for ccache 3.7.9
+        autoconf \
+        gperf \
+        libb2-dev \
+        libzstd-dev && \
+    rm -rf /var/lib/apt/lists/*
+
+# ccache 3.7.9 has fixes for caching nvcc outputs
+RUN cd /usr/local/src && \
+    git clone --recursive https://github.com/ccache/ccache.git && \
+    cd ccache && \
+    git checkout v3.7.9 && \
+    ./autogen.sh && \
+    ./configure --disable-man && \
+    make -j$(nproc) && \
+    make install && \
+    cd /usr/local/src && \
+    rm -rf ccache
+
+# RAT License Checker tool
+RUN cd /usr/local/src && \
+    wget https://archive.apache.org/dist/creadur/apache-rat-0.13/apache-rat-0.13-bin.tar.gz && \
+    tar xf apache-rat-0.13-bin.tar.gz
+
+# Python & cmake
+COPY install/requirements /work/
+RUN python3 -m pip install --upgrade pip && \
+    python3 -m pip install cmake==3.16.6 && \
+    python3 -m pip install -r /work/requirements
+
+ARG USER_ID=0
+COPY install/docker_filepermissions.sh /work/
+RUN /work/docker_filepermissions.sh
+
+ENV PYTHONPATH=./python/
+WORKDIR /work/mxnet
+
+COPY runtime_functions.sh /work/
+
+####################################################################################################
+# Specialize base image to install more gpu specific dependencies.
+# The target built by docker can be selected via "--target" option or docker-compose.yml
+####################################################################################################
+FROM base as gpu
+
+# Install TensorRT and CuDNN
+# Use bash as it has better support for string comparisons in if clauses
+SHELL ["/bin/bash", "-c"]
+# We need to redeclare ARG due to
+# https://docs.docker.com/engine/reference/builder/#understand-how-arg-and-from-interact
+ARG BASE_IMAGE
+RUN export SHORT_CUDA_VERSION=${CUDA_VERSION%.*} && \
+    export OS_RELEASE="$(cat /etc/os-release)" && \
+    apt-get update && \
+    if [[ ${OS_RELEASE} == *"Bionic"* ]]; then \
+        if [ ${SHORT_CUDA_VERSION} = 11.0 ]; then \
+            TRT_VERSION="7.2.0-1+cuda11.0"; \
+            TRT_MAJOR_VERSION=7; \
+        elif [ ${SHORT_CUDA_VERSION} = 11.1 ]; then \
+            TRT_VERSION="7.2.1-1+cuda11.1"; \
+            TRT_MAJOR_VERSION=7; \
+        else \
+            echo "ERROR: Cuda ${SHORT_CUDA_VERSION} not yet supported in Dockerfile.build.ubuntu"; \
+            exit 1; \
+        fi; \
+        apt-get install -y libnvinfer${TRT_MAJOR_VERSION}=${TRT_VERSION} \
+                           libnvinfer-dev=${TRT_VERSION} \
+                           libnvinfer-plugin${TRT_MAJOR_VERSION}=${TRT_VERSION} \
+                           libnvinfer-plugin-dev=${TRT_VERSION}; \
+    fi && \
+    apt-get install -y libcudnn8-dev && \
+    rm -rf /var/lib/apt/lists/*
+
+ENV CUDNN_VERSION=8.0.5

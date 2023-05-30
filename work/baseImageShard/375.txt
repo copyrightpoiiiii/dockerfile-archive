@@ -1,0 +1,3 @@
+node
+12.21.0
+['overleaf_services_chat_Dockerfile202103130.dockerfile', 'overleaf_services_clsi_Dockerfile202103130.dockerfile', 'overleaf_services_contacts_Dockerfile202103130.dockerfile', 'overleaf_services_docstore_Dockerfile202103160.dockerfile', 'overleaf_services_document-updater_Dockerfile202103170.dockerfile', 'overleaf_services_document-updater_Dockerfile202104020.dockerfile', 'overleaf_services_notifications_Dockerfile202103180.dockerfile', 'overleaf_services_real-time_Dockerfile202103190.dockerfile', 'wp-calypso_packages_wp-babel-makepot_Dockerfile202102240.dockerfile']

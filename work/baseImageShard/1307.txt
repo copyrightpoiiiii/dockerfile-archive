@@ -1,0 +1,3 @@
+node
+16.14.0-alpine
+['trilium__Dockerfile202202130.dockerfile', 'trilium__Dockerfile202203230.dockerfile']

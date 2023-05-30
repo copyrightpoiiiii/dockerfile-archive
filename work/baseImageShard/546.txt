@@ -1,0 +1,3 @@
+ruby
+2.7-alpine3.13
+['redmine_4.2_alpine_Dockerfile202104030.dockerfile', 'redmine_4.2_alpine_Dockerfile202104031.dockerfile', 'redmine_4.2_alpine_Dockerfile202104270.dockerfile', 'redmine_4.2_alpine_Dockerfile202105010.dockerfile', 'redmine_4.2_alpine_Dockerfile202108010.dockerfile', 'redmine_4.2_alpine_Dockerfile202110100.dockerfile']

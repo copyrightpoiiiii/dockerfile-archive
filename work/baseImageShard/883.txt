@@ -1,0 +1,3 @@
+cuda
+${CUDA_VERSION}-cudnn${CUDNN_VERSION}-devel-ubuntu18.04
+['lightning_dockers_base-cuda_Dockerfile202105200.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202106150.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202107141.dockerfile']

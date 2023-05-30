@@ -1,0 +1,3 @@
+pulumi
+latest
+['pulumi_.devcontainer_Dockerfile202105150.dockerfile', 'pulumi_.devcontainer_Dockerfile202110150.dockerfile', 'pulumi_.devcontainer_Dockerfile202110190.dockerfile', 'pulumi_.devcontainer_Dockerfile202111050.dockerfile', 'pulumi_.devcontainer_Dockerfile202111180.dockerfile', 'pulumi_.devcontainer_Dockerfile202112070.dockerfile']

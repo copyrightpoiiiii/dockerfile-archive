@@ -1,0 +1,3 @@
+ubuntu
+focal-20220531
+['graphql-engine_packaging_graphql-engine-base_ubuntu.dockerfile202206080.dockerfile', 'kubespray__Dockerfile202206150.dockerfile', 'spring-boot_ci_images_ci-image_Dockerfile202206090.dockerfile', 'spring-framework_ci_images_ci-image_Dockerfile202206090.dockerfile', 'spring-framework_ci_images_ci-image_Dockerfile202206091.dockerfile']

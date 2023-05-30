@@ -1,0 +1,3 @@
+golang
+1.15-alpine3.12
+['gitea__Dockerfile202008130.dockerfile', 'gitea__Dockerfile202009280.dockerfile', 'gitea__Dockerfile202010220.dockerfile', 'gitea__Dockerfile202010310.dockerfile']

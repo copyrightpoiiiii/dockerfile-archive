@@ -1,0 +1,32 @@
+command:
+  providerFor:
+    - postgres
+  prefix: SC-POSTGRES
+  options: &options
+    booleans:
+      - -e
+      - -F
+      - -i
+      - -h
+      - -I
+      - -s
+      - --single
+      - -j
+    strings:
+      - -A
+      - -p
+      - -B
+      - -c
+      - -d
+      - -h
+      - -N
+      - -o
+      - -S
+      - --name
+    paths:
+      - -D
+      - -K
+  scenarios:
+    - cmd: $0
+      options: *options
+      name: SC-POSTGRES

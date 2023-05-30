@@ -1,0 +1,3 @@
+uvicorn-gunicorn-fastapi
+python3.6
+['full-stack-fastapi-postgresql_{{cookiecutter.project_slug}}_backend_backend.dockerfile201902230.dockerfile', 'full-stack-fastapi-postgresql_{{cookiecutter.project_slug}}_backend_backend.dockerfile201903110.dockerfile']

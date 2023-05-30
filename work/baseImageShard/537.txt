@@ -1,0 +1,3 @@
+buildpack-deps
+jessie
+['moby_contrib_nnp-test_Dockerfile201603080.dockerfile', 'moby_contrib_syscall-test_Dockerfile201601150.dockerfile', 'moby_contrib_syscall-test_Dockerfile201607280.dockerfile', 'moby_contrib_syscall-test_Dockerfile201611050.dockerfile', 'moby_contrib_syscall-test_Dockerfile201701180.dockerfile', 'moby_contrib_syscall-test_Dockerfile201705090.dockerfile']

@@ -1,0 +1,9 @@
+command:
+  providerFor:
+    - eval
+  prefix: SC-EVAL
+  scenarios:
+    - cmd: $0 [argument...]
+      options: {}
+      name: SC-EVAL
+    

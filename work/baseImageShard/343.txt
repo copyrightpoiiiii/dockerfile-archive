@@ -1,0 +1,3 @@
+golang
+1.13.4
+['argo-workflows__Dockerfile202102041.dockerfile', 'argo-workflows__Dockerfile202102042.dockerfile', 'beats_auditbeat_Dockerfile201911130.dockerfile', 'beats_heartbeat_Dockerfile201911130.dockerfile', 'beats_x-pack_functionbeat_Dockerfile201911130.dockerfile', 'gitleaks__Dockerfile201911180.dockerfile', 'gitleaks__Dockerfile201911181.dockerfile', 'gitleaks__Dockerfile201912180.dockerfile', 'grafana_devenv_docker_blocks_prometheus_random_data_Dockerfile201911210.dockerfile']

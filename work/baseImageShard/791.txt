@@ -1,0 +1,3 @@
+standalone-chrome
+latest
+['aspnetcore_src_Components_benchmarkapps_Wasm.Performance_local.dockerfile202010160.dockerfile', 'aspnetcore_src_Components_benchmarkapps_Wasm.Performance_local.dockerfile202010270.dockerfile', 'aspnetcore_src_Components_benchmarkapps_Wasm.Performance_local.dockerfile202109210.dockerfile']

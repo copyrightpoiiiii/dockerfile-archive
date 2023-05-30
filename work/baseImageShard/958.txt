@@ -1,0 +1,3 @@
+kibana
+${ELASTIC_VERSION}
+['90DaysOfDevOps_ja_Days_Monitoring_Elastic Stack_kibana_Dockerfile202205060.dockerfile', 'docker-elk_kibana_Dockerfile202202280.dockerfile']

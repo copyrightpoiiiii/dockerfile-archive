@@ -1,0 +1,3 @@
+ruby
+2.7.0-alpine
+['chatwoot_docker_Dockerfile202004050.dockerfile', 'chatwoot_docker_Dockerfile202005010.dockerfile']

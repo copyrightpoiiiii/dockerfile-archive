@@ -1,0 +1,3 @@
+wordpress
+5.9
+['gatsby_integration-tests_gatsby-source-wordpress_docker_wordpress_Dockerfile202205040.dockerfile', 'gatsby_integration-tests_gatsby-source-wordpress_docker_wordpress_Dockerfile202205050.dockerfile']

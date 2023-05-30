@@ -1,0 +1,3 @@
+mambaforge
+latest
+['pandas__Dockerfile202208200.dockerfile', 'pandas__Dockerfile202209080.dockerfile']

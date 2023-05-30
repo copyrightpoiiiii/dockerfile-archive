@@ -1,0 +1,3 @@
+node
+6.13.0
+['overleaf_services_clsi_Dockerfile201803140.dockerfile', 'overleaf_services_clsi_Dockerfile201803141.dockerfile', 'overleaf_services_clsi_Dockerfile201803190.dockerfile', 'overleaf_services_clsi_Dockerfile201803191.dockerfile', 'overleaf_services_clsi_Dockerfile201803290.dockerfile']

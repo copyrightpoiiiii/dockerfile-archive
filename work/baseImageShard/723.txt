@@ -1,0 +1,3 @@
+kube-build
+cross
+['kubernetes_build_build-image_Dockerfile201508060.dockerfile', 'kubernetes_build_build-image_Dockerfile201510140.dockerfile', 'kubernetes_build_build-image_Dockerfile201511050.dockerfile', 'kubernetes_build_build-image_Dockerfile201601130.dockerfile']

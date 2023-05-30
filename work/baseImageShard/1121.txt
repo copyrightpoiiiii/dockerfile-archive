@@ -1,0 +1,3 @@
+golang
+1.17.4-alpine
+['goreleaser__Dockerfile202112060.dockerfile', 'nuclei__Dockerfile202112060.dockerfile']

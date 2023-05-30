@@ -1,0 +1,3 @@
+ruby
+2.7-slim-buster
+['diaspora_docker_develop_Dockerfile202207210.dockerfile', 'diaspora_docker_develop_Dockerfile202207211.dockerfile', 'redmine_4.2_Dockerfile202104030.dockerfile', 'redmine_4.2_Dockerfile202104270.dockerfile', 'redmine_4.2_Dockerfile202105010.dockerfile', 'redmine_4.2_Dockerfile202105060.dockerfile', 'redmine_4.2_Dockerfile202105070.dockerfile', 'redmine_4.2_Dockerfile202108010.dockerfile', 'redmine_4.2_Dockerfile202110100.dockerfile']

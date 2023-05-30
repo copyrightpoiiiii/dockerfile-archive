@@ -1,0 +1,3 @@
+eclipse-temurin
+17-jre-alpine
+['jetty.docker_eclipse-temurin_11.0_jre17-alpine_Dockerfile202209150.dockerfile', 'jetty.docker_eclipse-temurin_11.0_jre17-alpine_Dockerfile202209190.dockerfile']

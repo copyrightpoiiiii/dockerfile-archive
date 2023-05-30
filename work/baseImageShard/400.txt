@@ -1,0 +1,3 @@
+golang
+1.17.11
+['beats_auditbeat_Dockerfile202206300.dockerfile', 'beats_heartbeat_Dockerfile202206300.dockerfile', 'beats_metricbeat_Dockerfile202206300.dockerfile', 'beats_packetbeat_Dockerfile202206300.dockerfile', 'beats_x-pack_functionbeat_Dockerfile202206300.dockerfile', 'grpc-gateway_.github_Dockerfile202206020.dockerfile', 'grpc-gateway_.github_plugins_protoc-gen-grpc-gateway_Dockerfile202206020.dockerfile', 'grpc-gateway_.github_plugins_protoc-gen-openapiv2_Dockerfile202206020.dockerfile']

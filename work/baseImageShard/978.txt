@@ -1,0 +1,3 @@
+powershell
+windowsservercore
+['PowerShell_tools_releaseBuild_Images_microsoft_powershell_windowsservercore_Dockerfile201903120.dockerfile', 'PowerShell_tools_releaseBuild_Images_microsoft_powershell_windowsservercore_Dockerfile201904160.dockerfile']

@@ -1,0 +1,3 @@
+base
+${NODE_VERSION}
+['n8n_docker_images_n8n-custom_Dockerfile202208310.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202209010.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202209100.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202209190.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202209230.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202209260.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202210120.dockerfile', 'n8n_docker_images_n8n_Dockerfile202208310.dockerfile', 'n8n_docker_images_n8n_Dockerfile202209010.dockerfile', 'n8n_docker_images_n8n_Dockerfile202209011.dockerfile', 'n8n_docker_images_n8n_Dockerfile202209012.dockerfile']

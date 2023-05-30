@@ -1,0 +1,3 @@
+alpine
+3.12.3
+['authelia_internal_suites_example_compose_kind_Dockerfile202012190.dockerfile', 'authelia_internal_suites_example_compose_samba_Dockerfile202101300.dockerfile']

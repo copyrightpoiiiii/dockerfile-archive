@@ -1,0 +1,3 @@
+golang
+1.8-alpine
+['gitlabhq_vendor_Dockerfile_Golang-alpine201706260.dockerfile', 'gitlabhq_vendor_Dockerfile_Golang-scratch201706260.dockerfile', 'hugo__Dockerfile201702230.dockerfile', 'hugo__Dockerfile201705140.dockerfile', 'hugo__Dockerfile201706140.dockerfile', 'kops_vendor_github.com_docker_distribution_Dockerfile201710020.dockerfile', 'kubesphere_vendor_github.com_docker_distribution_Dockerfile201805230.dockerfile']

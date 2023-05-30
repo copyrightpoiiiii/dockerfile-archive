@@ -1,0 +1,3 @@
+debian
+5b0b1a9a54651bbe9d4d3ee96bbda2b2a1da3d2fa198ddebbced46dfdca7f216
+['mattermost-server_build_Dockerfile202208130.dockerfile', 'mattermost-server_build_Dockerfile202208170.dockerfile', 'mattermost-server_build_Dockerfile202208290.dockerfile', 'mattermost-server_build_Dockerfile202209120.dockerfile', 'mattermost-server_build_Dockerfile202209230.dockerfile', 'mattermost-server_build_Dockerfile202210180.dockerfile']

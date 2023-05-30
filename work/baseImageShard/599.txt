@@ -1,0 +1,3 @@
+alpine
+3.14.5
+['docker-sonarqube_9_community_Dockerfile202204010.dockerfile', 'docker-sonarqube_9_datacenter_app_Dockerfile202204010.dockerfile', 'docker-sonarqube_9_datacenter_search_Dockerfile202204010.dockerfile', 'docker-sonarqube_9_developer_Dockerfile202204010.dockerfile', 'docker-sonarqube_9_enterprise_Dockerfile202204010.dockerfile']

@@ -1,0 +1,3 @@
+p9k
+${base}
+['powerlevel9k_docker_antigen_Dockerfile201707120.dockerfile', 'powerlevel9k_docker_dotfile_Dockerfile201707120.dockerfile', 'powerlevel9k_docker_zim_Dockerfile201707120.dockerfile', 'powerlevel9k_docker_zplugin_Dockerfile201707120.dockerfile', 'powerlevel9k_docker_zpm_Dockerfile201707120.dockerfile', 'powerlevel9k_docker_zshing_Dockerfile201807130.dockerfile', 'powerlevel9k_docker_zulu_Dockerfile201707120.dockerfile']

@@ -1,0 +1,3 @@
+autobahn-testsuite
+latest
+['v_vlib_net_websocket_tests_autobahn_fuzzing_server_Dockerfile202107030.dockerfile', 'v_vlib_net_websocket_tests_autobahn_fuzzing_server_wss_Dockerfile202107030.dockerfile']

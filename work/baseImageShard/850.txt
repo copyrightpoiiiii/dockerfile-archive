@@ -1,0 +1,3 @@
+golang
+alpine3.10
+['gogs__Dockerfile201911260.dockerfile', 'gogs__Dockerfile202002170.dockerfile', 'gogs__Dockerfile202002180.dockerfile']

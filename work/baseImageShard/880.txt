@@ -1,0 +1,3 @@
+php
+${LARADOCK_PHP_VERSION}-alpine3.15
+['laradock_laravel-horizon_Dockerfile202203050.dockerfile', 'laradock_laravel-horizon_Dockerfile202203200.dockerfile', 'laradock_php-worker_Dockerfile202203050.dockerfile']

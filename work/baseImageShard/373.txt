@@ -1,0 +1,3 @@
+node
+14.15-alpine
+['n8n_docker_images_n8n-custom_Dockerfile202102070.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202106060.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202108290.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202111260.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202111270.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202202060.dockerfile', 'n8n_docker_images_n8n_Dockerfile202102070.dockerfile', 'n8n_docker_images_n8n_Dockerfile202106190.dockerfile', 'n8n_docker_images_n8n_Dockerfile202202060.dockerfile']

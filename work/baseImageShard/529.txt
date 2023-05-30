@@ -1,0 +1,3 @@
+golang
+1.14-buster
+['kubo__Dockerfile202002260.dockerfile', 'signoz_pkg_query-service_Dockerfile202101030.dockerfile', 'signoz_pkg_query-service_Dockerfile202107150.dockerfile', 'signoz_pkg_query-service_Dockerfile202108290.dockerfile', 'signoz_pkg_query-service_Dockerfile202109020.dockerfile', 'signoz_pkg_query-service_Dockerfile202202020.dockerfile']

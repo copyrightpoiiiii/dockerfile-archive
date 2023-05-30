@@ -1,0 +1,1 @@
+FROM postgres:latest@sha256:a6316ecbc88fd8f5cad3ebd5fb8c9ac163cea19f0b290840a5148a1223bad9cf

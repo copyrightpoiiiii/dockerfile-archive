@@ -1,0 +1,3 @@
+node
+${NODE_VERSION}-bullseye-slim
+['prefect__Dockerfile202202230.dockerfile', 'prefect__Dockerfile202202231.dockerfile', 'prefect__Dockerfile202202232.dockerfile', 'prefect__Dockerfile202206080.dockerfile', 'prefect__Dockerfile202206081.dockerfile', 'prefect__Dockerfile202206150.dockerfile', 'prefect__Dockerfile202206151.dockerfile', 'prefect__Dockerfile202206152.dockerfile', 'prefect__Dockerfile202206153.dockerfile', 'prefect__Dockerfile202206154.dockerfile', 'prefect__Dockerfile202206155.dockerfile', 'prefect__Dockerfile202206156.dockerfile', 'prefect__Dockerfile202206157.dockerfile', 'prefect__Dockerfile202209010.dockerfile']

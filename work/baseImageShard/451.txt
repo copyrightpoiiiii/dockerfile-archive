@@ -1,0 +1,3 @@
+detectron2
+v0
+['detectron2_docker_deploy202012290.dockerfile', 'detectron2_docker_deploy202012310.dockerfile', 'detectron2_docker_deploy202103050.dockerfile', 'detectron2_docker_deploy202103080.dockerfile', 'detectron2_docker_deploy202106240.dockerfile', 'detectron2_docker_deploy202110220.dockerfile', 'detectron2_docker_deploy202111230.dockerfile']

@@ -1,0 +1,9 @@
+command:
+  providerFor:
+    - test
+  prefix: SC-TEST
+  scenarios:
+    - cmd: $0 [EXPRESSION...]
+      options: {}
+      name: SC-TEST
+    

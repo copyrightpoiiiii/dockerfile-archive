@@ -1,0 +1,3 @@
+nginx-php-fpm
+1.5.3
+['showdoc__Dockerfile201809010.dockerfile', 'showdoc__Dockerfile201809011.dockerfile', 'showdoc__Dockerfile201811170.dockerfile', 'showdoc__Dockerfile201909030.dockerfile', 'showdoc__Dockerfile202011190.dockerfile', 'showdoc__Dockerfile202012170.dockerfile', 'showdoc__Dockerfile202012173.dockerfile', 'showdoc__Dockerfile202012174.dockerfile', 'showdoc__Dockerfile202012190.dockerfile', 'showdoc__Dockerfile202012191.dockerfile', 'showdoc__Dockerfile202012192.dockerfile']

@@ -1,0 +1,3 @@
+debian
+stretch-20200908-slim
+['grafana_scripts_build_ci-build_Dockerfile202009230.dockerfile', 'grafana_scripts_build_ci-build_Dockerfile202010120.dockerfile', 'grafana_scripts_build_ci-build_Dockerfile202010160.dockerfile']

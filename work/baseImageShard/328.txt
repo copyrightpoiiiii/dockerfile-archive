@@ -1,0 +1,3 @@
+pio
+latest
+['predictionio_docker_jupyter_Dockerfile201811020.dockerfile', 'predictionio_tests_Dockerfile201702180.dockerfile', 'predictionio_tests_Dockerfile201702190.dockerfile', 'predictionio_tests_Dockerfile201702191.dockerfile', 'predictionio_tests_Dockerfile201702270.dockerfile', 'predictionio_tests_Dockerfile201702271.dockerfile', 'predictionio_tests_Dockerfile201703080.dockerfile', 'predictionio_tests_Dockerfile201703210.dockerfile', 'predictionio_tests_Dockerfile201703211.dockerfile', 'predictionio_tests_Dockerfile201706060.dockerfile']

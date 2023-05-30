@@ -1,0 +1,3 @@
+cadvisor
+v0.26.1
+['keycloak_testsuite_performance_monitoring_cadvisor_Dockerfile201709260.dockerfile', 'keycloak_testsuite_performance_monitoring_cadvisor_Dockerfile201711300.dockerfile']

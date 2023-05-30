@@ -1,0 +1,3 @@
+ubuntu
+focal-20221019
+['spring-boot_ci_images_ci-image-jdk19_Dockerfile202210270.dockerfile', 'spring-boot_ci_images_ci-image_Dockerfile202210270.dockerfile']

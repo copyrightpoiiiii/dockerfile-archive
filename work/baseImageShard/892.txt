@@ -1,0 +1,3 @@
+windowsservercore
+1809
+['mongo_4.2_windows_windowsservercore-1809_Dockerfile201912040.dockerfile', 'mongo_4.2_windows_windowsservercore-1809_Dockerfile201912090.dockerfile', 'mongo_4.2_windows_windowsservercore-1809_Dockerfile202001250.dockerfile']

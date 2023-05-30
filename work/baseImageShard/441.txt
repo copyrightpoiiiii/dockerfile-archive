@@ -1,0 +1,3 @@
+golang
+1.17.1
+['beats_auditbeat_Dockerfile202110110.dockerfile', 'beats_heartbeat_Dockerfile202110110.dockerfile', 'beats_metricbeat_Dockerfile202110110.dockerfile', 'beats_packetbeat_Dockerfile202110110.dockerfile', 'beats_x-pack_functionbeat_Dockerfile202110110.dockerfile', 'dokku_tests_apps_gogrpc_Dockerfile202110040.dockerfile', 'logstash_docker_data_golang_Dockerfile202110020.dockerfile']

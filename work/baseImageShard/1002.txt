@@ -1,0 +1,3 @@
+dotnet
+latest
+['aspnetcore_.devcontainer_Dockerfile202109230.dockerfile', 'labs_windows_aspnet-web_webserver_Dockerfile201609260.dockerfile']

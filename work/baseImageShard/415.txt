@@ -1,0 +1,3 @@
+harbor-registry-base
+${harbor_base_image_version}
+['harbor_make_photon_registry_Dockerfile201911120.dockerfile', 'harbor_make_photon_registry_Dockerfile201911121.dockerfile', 'harbor_make_photon_registry_Dockerfile201912170.dockerfile', 'harbor_make_photon_registry_Dockerfile202004070.dockerfile', 'harbor_make_photon_registry_Dockerfile202004080.dockerfile', 'harbor_make_photon_registry_Dockerfile202004140.dockerfile', 'harbor_make_photon_registry_Dockerfile202008050.dockerfile', 'harbor_make_photon_registry_Dockerfile202106030.dockerfile']

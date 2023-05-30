@@ -1,0 +1,3 @@
+node
+6.11.2
+['realm-java_tools_sync_test_server_Dockerfile201709180.dockerfile', 'realm-java_tools_sync_test_server_Dockerfile201710130.dockerfile', 'realm-java_tools_sync_test_server_Dockerfile201710160.dockerfile', 'realm-java_tools_sync_test_server_Dockerfile201710230.dockerfile']

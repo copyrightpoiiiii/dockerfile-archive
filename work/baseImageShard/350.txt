@@ -1,0 +1,3 @@
+debian
+8.5
+['charts_test_Dockerfile201608310.dockerfile', 'charts_test_Dockerfile201608311.dockerfile', 'charts_test_Dockerfile201609090.dockerfile', 'charts_test_Dockerfile201609100.dockerfile', 'charts_test_Dockerfile201609101.dockerfile', 'charts_test_Dockerfile201609130.dockerfile', 'charts_test_Dockerfile201609131.dockerfile', 'charts_test_Dockerfile201609150.dockerfile', 'charts_test_Dockerfile201705050.dockerfile']

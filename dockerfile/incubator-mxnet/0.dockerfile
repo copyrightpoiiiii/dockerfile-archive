@@ -28,7 +28,7 @@
 # "base" for specific usecases. The target built by docker can be selected via
 # "--target" option or docker-compose.yml
 ####################################################################################################
-ARG BASE_IMAGE
+ARG BASE_IMAGE=ubuntu:20.04
 FROM $BASE_IMAGE AS base
 
 WORKDIR /work/deps

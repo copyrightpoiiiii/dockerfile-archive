@@ -1,0 +1,3 @@
+golang
+1.11-alpine3.10
+['faas_auth_basic-auth_Dockerfile201908220.dockerfile', 'faas_auth_basic-auth_Dockerfile201908221.dockerfile', 'faas_auth_basic-auth_Dockerfile201912270.dockerfile']

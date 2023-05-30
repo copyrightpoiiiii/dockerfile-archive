@@ -1,0 +1,3 @@
+golang
+1.19-windowsservercore-ltsc2022
+['caddy-docker_2.6_windows-builder_ltsc2022_Dockerfile202209060.dockerfile', 'caddy-docker_2.6_windows-builder_ltsc2022_Dockerfile202209180.dockerfile', 'caddy-docker_2.6_windows-builder_ltsc2022_Dockerfile202209210.dockerfile', 'caddy-docker_2.6_windows-builder_ltsc2022_Dockerfile202209220.dockerfile', 'caddy-docker_2.6_windows-builder_ltsc2022_Dockerfile202210140.dockerfile']

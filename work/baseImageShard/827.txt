@@ -1,0 +1,3 @@
+aspnetcore
+1.1.2
+['eShopOnContainers_src_Services_Basket_Basket.API_Dockerfile201705260.dockerfile', 'eShopOnContainers_src_Services_Catalog_Catalog.API_Dockerfile201705260.dockerfile', 'eShopOnContainers_src_Web_WebStatus_Dockerfile201705260.dockerfile']

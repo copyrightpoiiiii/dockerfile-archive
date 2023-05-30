@@ -1,0 +1,3 @@
+ubuntu_16_0_4
+latest
+['skaffold_deploy_webhook_Dockerfile201811300.dockerfile', 'skaffold_deploy_webhook_Dockerfile201812100.dockerfile', 'skaffold_deploy_webhook_Dockerfile201902060.dockerfile', 'skaffold_deploy_webhook_Dockerfile201902210.dockerfile', 'skaffold_deploy_webhook_Dockerfile201903160.dockerfile']

@@ -1,0 +1,3 @@
+python
+3.9.7-slim-buster
+['freqtrade__Dockerfile202109010.dockerfile', 'freqtrade__Dockerfile202109070.dockerfile']

@@ -1,0 +1,3 @@
+ruby
+2.6-stretch
+['gitlabhq_qa_Dockerfile201912110.dockerfile', 'gitlabhq_qa_Dockerfile201912200.dockerfile', 'gitlabhq_qa_Dockerfile202003170.dockerfile', 'gitlabhq_qa_Dockerfile202006020.dockerfile', 'gitlabhq_qa_Dockerfile202007150.dockerfile', 'gitlabhq_qa_Dockerfile202007170.dockerfile', 'gitlabhq_qa_Dockerfile202009030.dockerfile', 'gitlabhq_qa_Dockerfile202009170.dockerfile']

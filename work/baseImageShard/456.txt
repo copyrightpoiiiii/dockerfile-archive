@@ -1,0 +1,3 @@
+node
+8-slim
+['hackathon-starter__Dockerfile201803220.dockerfile', 'hackathon-starter__Dockerfile201804300.dockerfile', 'mongo-express-docker__Dockerfile201802010.dockerfile', 'mongo-express-docker__Dockerfile201803070.dockerfile', 'mongo-express-docker__Dockerfile201803230.dockerfile', 'mongo-express-docker__Dockerfile201806260.dockerfile', 'mongo-express-docker__Dockerfile201807120.dockerfile']

@@ -1,0 +1,3 @@
+ubuntu
+bionic-20180821
+['servo_etc_taskcluster_docker_base.dockerfile201809280.dockerfile', 'servo_etc_taskcluster_docker_base.dockerfile201810090.dockerfile', 'servo_etc_taskcluster_docker_base.dockerfile201904020.dockerfile', 'servo_etc_taskcluster_docker_base.dockerfile201909070.dockerfile', 'servo_etc_taskcluster_docker_base.dockerfile201911200.dockerfile', 'servo_etc_taskcluster_docker_base.dockerfile201912110.dockerfile', 'servo_etc_taskcluster_docker_base.dockerfile202002140.dockerfile']

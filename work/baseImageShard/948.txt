@@ -1,0 +1,3 @@
+centos
+6
+['xgboost_jvm-packages_dev_Dockerfile201907160.dockerfile', 'xgboost_jvm-packages_dev_Dockerfile201912200.dockerfile', 'xgboost_jvm-packages_dev_Dockerfile202004120.dockerfile']

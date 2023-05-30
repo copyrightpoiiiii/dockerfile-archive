@@ -1,0 +1,3 @@
+buildpack-deps
+focal-curl
+['electron-builder_docker_base_Dockerfile202105110.dockerfile', 'electron-builder_docker_base_Dockerfile202105140.dockerfile', 'electron-builder_docker_base_Dockerfile202106020.dockerfile', 'electron-builder_docker_base_Dockerfile202201170.dockerfile', 'electron-builder_docker_base_Dockerfile202209020.dockerfile']

@@ -1,0 +1,3 @@
+$BASE_IMG
+latest
+['kubeflow_components_example-notebook-servers_codeserver-python_Dockerfile202207020.dockerfile', 'kubeflow_components_example-notebook-servers_codeserver_Dockerfile202207020.dockerfile', 'kubeflow_components_example-notebook-servers_jupyter-pytorch-full_cpu202207020.dockerfile', 'kubeflow_components_example-notebook-servers_jupyter-pytorch_cuda202207020.dockerfile', 'kubeflow_components_example-notebook-servers_jupyter-tensorflow_cuda202207020.dockerfile', 'kubeflow_components_example-notebook-servers_rstudio-tidyverse_Dockerfile202207020.dockerfile']

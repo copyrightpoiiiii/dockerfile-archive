@@ -1,0 +1,3 @@
+base-deps
+latest"$GPU"
+['ray_docker_ray-deps_Dockerfile202008270.dockerfile', 'ray_docker_ray-deps_Dockerfile202009030.dockerfile', 'ray_docker_ray-deps_Dockerfile202009040.dockerfile']

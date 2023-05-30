@@ -1,0 +1,3 @@
+ubuntu
+$version
+['brew__Dockerfile202005030.dockerfile', 'brew__Dockerfile202005031.dockerfile', 'brew__Dockerfile202005210.dockerfile', 'brew__Dockerfile202005260.dockerfile', 'brew__Dockerfile202006120.dockerfile', 'brew__Dockerfile202102280.dockerfile', 'brew__Dockerfile202108040.dockerfile', 'brew__Dockerfile202108120.dockerfile', 'brew__Dockerfile202108140.dockerfile', 'brew__Dockerfile202108180.dockerfile', 'brew__Dockerfile202108181.dockerfile', 'brew__Dockerfile202108182.dockerfile', 'brew__Dockerfile202108183.dockerfile', 'brew__Dockerfile202109151.dockerfile']

@@ -1,0 +1,3 @@
+maven
+3-jdk-8-alpine
+['halo__Dockerfile201901160.dockerfile', 'halo__Dockerfile201903010.dockerfile', 'halo__Dockerfile201904030.dockerfile']

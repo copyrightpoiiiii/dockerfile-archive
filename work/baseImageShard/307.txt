@@ -1,0 +1,3 @@
+node
+8
+['TypeScript_tests_cases_docker_xterm.js_Dockerfile201906280.dockerfile', 'mean__Dockerfile201906100.dockerfile', 'mean__Dockerfile201906101.dockerfile', 'microservices-demo_src_currencyservice_Dockerfile201806230.dockerfile', 'microservices-demo_src_currencyservice_Dockerfile201806300.dockerfile', 'microservices-demo_src_currencyservice_Dockerfile201809200.dockerfile', 'microservices-demo_src_paymentservice_Dockerfile201806220.dockerfile', 'microservices-demo_src_paymentservice_Dockerfile201809200.dockerfile', 'send__Dockerfile201706233.dockerfile', 'send__Dockerfile201706234.dockerfile']

@@ -1,0 +1,3 @@
+node
+6.9.5
+['overleaf_services_document-updater_Dockerfile201805230.dockerfile', 'overleaf_services_document-updater_Dockerfile201901040.dockerfile', 'overleaf_services_filestore_Dockerfile201805180.dockerfile', 'overleaf_services_filestore_Dockerfile201805220.dockerfile', 'overleaf_services_filestore_Dockerfile201806130.dockerfile', 'overleaf_services_filestore_Dockerfile201812050.dockerfile', 'overleaf_services_real-time_Dockerfile201805230.dockerfile']

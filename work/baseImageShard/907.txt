@@ -1,0 +1,3 @@
+$DOCKER_IMAGE_BASE_TEST
+latest
+['ray_ci_docker_base.build202209220.dockerfile', 'ray_ci_docker_base.ml202209220.dockerfile', 'ray_ci_docker_test202209220.dockerfile']

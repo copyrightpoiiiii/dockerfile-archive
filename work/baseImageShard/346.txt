@@ -1,0 +1,3 @@
+debian
+9.8
+['awx_tools_elastic_elasticsearch_Dockerfile201611300.dockerfile', 'awx_tools_elastic_logstash_Dockerfile201611300.dockerfile', 'awx_tools_elastic_logstash_Dockerfile201703080.dockerfile', 'docker-elk_elasticsearch_Dockerfile201605010.dockerfile', 'docker-elk_elasticsearch_Dockerfile201605150.dockerfile', 'docker-elk_elasticsearch_Dockerfile201606150.dockerfile', 'docker-elk_elasticsearch_Dockerfile201610290.dockerfile', 'docker-elk_logstash_Dockerfile201607070.dockerfile', 'docker-elk_logstash_Dockerfile201610290.dockerfile']

@@ -1,0 +1,3 @@
+builder
+$IMAGE_VERSION
+['electron-builder_docker_wine-chrome_Dockerfile202201110.dockerfile', 'electron-builder_docker_wine-mono_Dockerfile202201110.dockerfile', 'electron-builder_docker_wine_Dockerfile202201110.dockerfile', 'electron-builder_docker_wine_Dockerfile202204250.dockerfile', 'electron-builder_docker_wine_Dockerfile202206070.dockerfile', 'electron-builder_docker_wine_Dockerfile202209020.dockerfile']

@@ -1,0 +1,3 @@
+node
+8.9.4-alpine
+['MFE-starter__Dockerfile201802280.dockerfile', 'MFE-starter__Dockerfile201803050.dockerfile', 'shields__Dockerfile201801160.dockerfile', 'shields__Dockerfile201805300.dockerfile', 'shields__Dockerfile201810200.dockerfile', 'shields__Dockerfile201811160.dockerfile', 'shields__Dockerfile201811180.dockerfile', 'shields__Dockerfile201901210.dockerfile']

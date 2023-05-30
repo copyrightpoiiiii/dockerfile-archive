@@ -1,0 +1,3 @@
+node
+16.15.0-slim
+['signoz_frontend_Dockerfile202205200.dockerfile', 'signoz_frontend_Dockerfile202205201.dockerfile', 'signoz_frontend_Dockerfile202209140.dockerfile']

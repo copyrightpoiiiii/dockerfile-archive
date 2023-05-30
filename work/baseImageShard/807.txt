@@ -1,0 +1,3 @@
+ceph
+master
+['ceph_src_cephadm_box_docker_ceph_Dockerfile202110180.dockerfile', 'ceph_src_cephadm_box_docker_ceph_Dockerfile202110181.dockerfile', 'ceph_src_cephadm_box_docker_ceph_Dockerfile202112150.dockerfile']

@@ -1,0 +1,3 @@
+${IMAGE_BASE_NAME}
+base-${BASE_IMAGE_HASH}
+['rasa__Dockerfile202101150.dockerfile', 'rasa__Dockerfile202101261.dockerfile']

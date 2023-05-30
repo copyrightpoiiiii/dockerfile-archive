@@ -1,0 +1,3 @@
+cuda
+11.6.2-cudnn8-devel-ubuntu20.04
+['dalle-mini_Docker_Dockerfile202205310.dockerfile', 'dalle-mini_Docker_Dockerfile202206100.dockerfile', 'dalle-mini_Docker_Dockerfile202207230.dockerfile']

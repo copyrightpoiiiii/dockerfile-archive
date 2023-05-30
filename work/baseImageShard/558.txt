@@ -1,0 +1,3 @@
+cuda
+8.0-cudnn6-devel-ubuntu14.04
+['CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201707180.dockerfile', 'CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201711110.dockerfile', 'CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201711170.dockerfile', 'CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201711171.dockerfile', 'CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201711180.dockerfile']

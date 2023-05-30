@@ -1,0 +1,3 @@
+prereqs
+ubuntu-18.04-20220421022739-9c434db
+['runtime_src_libraries_Common_tests_System_Net_EnterpriseTests_setup_apacheweb_Dockerfile202205050.dockerfile', 'runtime_src_libraries_Common_tests_System_Net_EnterpriseTests_setup_kdc_Dockerfile202205050.dockerfile']

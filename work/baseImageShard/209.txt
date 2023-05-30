@@ -1,0 +1,3 @@
+node
+16-alpine3.14
+['grafana__Dockerfile202108200.dockerfile', 'grafana__Dockerfile202108240.dockerfile', 'grafana__Dockerfile202108260.dockerfile', 'grafana__Dockerfile202108310.dockerfile', 'grafana__Dockerfile202109020.dockerfile', 'grafana__Dockerfile202109021.dockerfile', 'grafana__Dockerfile202109090.dockerfile', 'grafana__Dockerfile202110190.dockerfile', 'grafana__Dockerfile202110260.dockerfile', 'grafana__Dockerfile202110280.dockerfile', 'grafana__Dockerfile202111040.dockerfile', 'grafana__Dockerfile202111041.dockerfile', 'grafana__Dockerfile202111200.dockerfile', 'grafana__Dockerfile202111201.dockerfile', 'grafana__Dockerfile202112010.dockerfile']

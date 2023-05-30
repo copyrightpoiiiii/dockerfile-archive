@@ -1,0 +1,3 @@
+php
+7.2-fpm-alpine
+['docker-adminer_4_fastcgi_Dockerfile201802100.dockerfile', 'docker-adminer_4_fastcgi_Dockerfile201802200.dockerfile', 'docker-adminer_4_fastcgi_Dockerfile201804080.dockerfile', 'docker-adminer_4_fastcgi_Dockerfile201806230.dockerfile', 'docker-adminer_4_fastcgi_Dockerfile201806231.dockerfile', 'docker-adminer_4_fastcgi_Dockerfile201806290.dockerfile', 'docker-adminer_4_fastcgi_Dockerfile201810210.dockerfile', 'docker-adminer_4_fastcgi_Dockerfile201811240.dockerfile', 'docker-adminer_4_fastcgi_Dockerfile201901241.dockerfile', 'mediawiki-docker_1.31_fpm-alpine_Dockerfile202008090.dockerfile', 'mediawiki-docker_1.31_fpm-alpine_Dockerfile202009250.dockerfile', 'mediawiki-docker_1.31_fpm-alpine_Dockerfile202010060.dockerfile']

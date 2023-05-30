@@ -1,0 +1,3 @@
+golang
+1.15.10
+['beats_auditbeat_Dockerfile202103180.dockerfile', 'beats_heartbeat_Dockerfile202103180.dockerfile', 'beats_metricbeat_Dockerfile202103180.dockerfile', 'beats_packetbeat_Dockerfile202103180.dockerfile', 'beats_x-pack_functionbeat_Dockerfile202103180.dockerfile', 'nginx-proxy__Dockerfile202104010.dockerfile', 'nginx-proxy__Dockerfile202104011.dockerfile', 'nginx-proxy__Dockerfile202104260.dockerfile', 'nginx-proxy__Dockerfile202104270.dockerfile', 'nginx-proxy__Dockerfile202104290.dockerfile', 'nginx-proxy__Dockerfile202106091.dockerfile', 'nginx-proxy__Dockerfile202106092.dockerfile', 'nginx-proxy__Dockerfile202106093.dockerfile']

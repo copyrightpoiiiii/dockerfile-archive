@@ -1,0 +1,3 @@
+node
+${NODE_VERSION}-alpine
+['n8n_docker_images_n8n-base_Dockerfile202208310.dockerfile', 'n8n_docker_images_n8n-base_Dockerfile202209260.dockerfile']

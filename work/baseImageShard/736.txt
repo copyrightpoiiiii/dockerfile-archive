@@ -1,0 +1,3 @@
+${WINDOWS_BASE_IMAGE}
+${WINDOWS_BASE_IMAGE_TAG}
+['moby_contrib_busybox_Dockerfile202004030.dockerfile', 'moby_contrib_busybox_Dockerfile202004031.dockerfile', 'moby_contrib_busybox_Dockerfile202208260.dockerfile', 'moby_contrib_busybox_Dockerfile202210250.dockerfile']

@@ -1,0 +1,11 @@
+command:
+  providerFor:
+    - a2enmod
+  prefix: SC-A2ENMOD
+  options: &options
+    booleans:
+      - -q, --quiet
+  scenarios:
+    - cmd: $0 <MODULE>
+      options: *options
+      name: SC-A2ENMOD

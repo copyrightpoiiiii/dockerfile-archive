@@ -1,0 +1,3 @@
+standalone-chrome
+3.141.59-mercury
+['aspnetcore_src_Components_benchmarkapps_Wasm.Performance_local.dockerfile202001140.dockerfile', 'aspnetcore_src_Components_benchmarkapps_Wasm.Performance_local.dockerfile202001141.dockerfile', 'aspnetcore_src_Components_benchmarkapps_Wasm.Performance_local.dockerfile202003100.dockerfile', 'aspnetcore_src_Components_benchmarkapps_Wasm.Performance_local.dockerfile202006300.dockerfile']

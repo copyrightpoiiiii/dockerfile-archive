@@ -1,0 +1,3 @@
+rust
+${RUST_VERSION}-slim-bullseye
+['vector_scripts_integration_Dockerfile202112280.dockerfile', 'vector_scripts_integration_Dockerfile202202280.dockerfile', 'vector_scripts_integration_Dockerfile202203110.dockerfile', 'vector_scripts_integration_Dockerfile202204280.dockerfile', 'vector_scripts_integration_Dockerfile202204281.dockerfile', 'vector_scripts_integration_Dockerfile202205310.dockerfile', 'vector_scripts_integration_Dockerfile202206040.dockerfile', 'vector_scripts_integration_Dockerfile202206150.dockerfile', 'vector_scripts_integration_Dockerfile202207150.dockerfile', 'vector_scripts_integration_Dockerfile202209240.dockerfile']

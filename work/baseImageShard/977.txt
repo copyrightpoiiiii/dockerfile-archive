@@ -1,0 +1,3 @@
+powershell
+ubuntu-18.04
+['PowerShell_tools_releaseBuild_Images_microsoft_powershell_ubuntu18.04_Dockerfile201901170.dockerfile', 'PowerShell_tools_releaseBuild_Images_microsoft_powershell_ubuntu18.04_Dockerfile201906210.dockerfile']

@@ -1,0 +1,3 @@
+cuda-torch
+latest
+['waifu2x__Dockerfile201609020.dockerfile', 'waifu2x__Dockerfile201609021.dockerfile', 'waifu2x__Dockerfile201609022.dockerfile', 'waifu2x__Dockerfile201702070.dockerfile']

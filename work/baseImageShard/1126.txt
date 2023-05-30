@@ -1,0 +1,3 @@
+debian
+buster-20210511-slim
+['graphql-engine_packaging_graphql-engine-base_debian.dockerfile202203220.dockerfile', 'graphql-engine_packaging_graphql-engine-base_debian.dockerfile202204180.dockerfile']

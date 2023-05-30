@@ -1,0 +1,3 @@
+develop
+220902-jammy
+['photoprism__Dockerfile202209020.dockerfile', 'photoprism__Dockerfile202209021.dockerfile']

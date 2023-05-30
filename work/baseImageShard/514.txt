@@ -1,0 +1,3 @@
+${TF_SERVING_BUILD_IMAGE}
+latest
+['google-research_scann_tf_serving_Dockerfile202102090.dockerfile', 'google-research_scann_tf_serving_Dockerfile202105220.dockerfile', 'google-research_scann_tf_serving_Dockerfile202108240.dockerfile', 'google-research_scann_tf_serving_Dockerfile202112070.dockerfile', 'google-research_scann_tf_serving_Dockerfile202202150.dockerfile', 'google-research_scann_tf_serving_Dockerfile202209160.dockerfile']

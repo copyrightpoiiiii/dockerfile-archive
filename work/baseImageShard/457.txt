@@ -1,0 +1,3 @@
+huginn-single-process
+latest
+['huginn_docker_multi-process_Dockerfile201601240.dockerfile', 'huginn_docker_multi-process_Dockerfile201601250.dockerfile', 'huginn_docker_test_Dockerfile201705240.dockerfile', 'huginn_docker_test_Dockerfile201710120.dockerfile', 'huginn_docker_test_Dockerfile201710121.dockerfile', 'huginn_docker_test_Dockerfile202201230.dockerfile', 'huginn_docker_test_Dockerfile202201231.dockerfile']

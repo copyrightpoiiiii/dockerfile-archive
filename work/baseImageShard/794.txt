@@ -1,0 +1,3 @@
+golang
+1.16.2-alpine
+['authelia__Dockerfile202103130.dockerfile', 'authelia__Dockerfile202103260.dockerfile', 'authelia__Dockerfile202104010.dockerfile']

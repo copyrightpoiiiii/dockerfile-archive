@@ -1,0 +1,3 @@
+kibana
+${ELK_VERSION}
+['docker-elk_kibana_Dockerfile201711170.dockerfile', 'docker-elk_kibana_Dockerfile201905070.dockerfile', 'docker-elk_kibana_Dockerfile202002260.dockerfile']

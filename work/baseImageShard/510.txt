@@ -1,0 +1,3 @@
+alpine
+${IMAGE_VERSION}
+['glances_docker-files_alpine202205240.dockerfile', 'glances_docker-files_alpine202205260.dockerfile', 'glances_docker-files_alpine202209150.dockerfile', 'glances_docker-files_alpine202209240.dockerfile', 'glances_docker-files_alpine202209241.dockerfile', 'glances_docker-files_alpine202210180.dockerfile']

@@ -1,0 +1,3 @@
+ruby-node
+2-8-stretch
+['forem__Dockerfile201810120.dockerfile', 'forem__Dockerfile201810200.dockerfile']

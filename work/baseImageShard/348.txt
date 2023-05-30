@@ -1,0 +1,3 @@
+node
+12-slim
+['budibase_packages_server_Dockerfile202111100.dockerfile', 'hackathon-starter__Dockerfile202001030.dockerfile', 'hackathon-starter__Dockerfile202110020.dockerfile', 'highlight.js__Dockerfile202010030.dockerfile', 'highlight.js__Dockerfile202010180.dockerfile', 'istio_samples_bookinfo_src_ratings_Dockerfile201905070.dockerfile', 'istio_samples_bookinfo_src_ratings_Dockerfile201907230.dockerfile', 'luxon_docker_Dockerfile202002100.dockerfile', 'luxon_docker_Dockerfile202002110.dockerfile']

@@ -1,0 +1,3 @@
+centos
+7.6.1810
+['eos_.cicd_platforms_pinned_centos-7.7-pinned.dockerfile201912020.dockerfile', 'eos_.cicd_platforms_unpinned_centos-7.7-unpinned.dockerfile201912020.dockerfile', 'gin-vue-admin_server_Dockerfile202004230.dockerfile', 'gin-vue-admin_server_Dockerfile202004240.dockerfile', 'gin-vue-admin_server_Dockerfile202004241.dockerfile', 'gin-vue-admin_server_Dockerfile202004282.dockerfile', 'tikv__Dockerfile202010230.dockerfile', 'tikv__Dockerfile202103260.dockerfile', 'tikv__Dockerfile202111190.dockerfile']

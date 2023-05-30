@@ -1,0 +1,3 @@
+nginx
+1.17.9-alpine
+['appsmith_app_client_Dockerfile202003180.dockerfile', 'appsmith_app_client_Dockerfile202007070.dockerfile', 'appsmith_app_client_Dockerfile202007160.dockerfile', 'appsmith_app_client_Dockerfile202010160.dockerfile', 'appsmith_app_client_Dockerfile202011240.dockerfile']

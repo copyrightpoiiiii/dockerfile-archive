@@ -1,0 +1,3 @@
+ubi
+latest
+['cockroach_build_deploy_Dockerfile202009260.dockerfile', 'cockroach_build_deploy_Dockerfile202010100.dockerfile']

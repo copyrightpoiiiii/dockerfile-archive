@@ -1,0 +1,3 @@
+cuda
+10.0-cudnn7-runtime-ubuntu18.04
+['avatarify-python__Dockerfile202007100.dockerfile', 'avatarify-python__Dockerfile202007110.dockerfile', 'avatarify-python__Dockerfile202010040.dockerfile', 'avatarify-python__Dockerfile202101160.dockerfile', 'avatarify-python__Dockerfile202108050.dockerfile', 'first-order-model__Dockerfile202004130.dockerfile', 'first-order-model__Dockerfile202004250.dockerfile', 'first-order-model__Dockerfile202008110.dockerfile']

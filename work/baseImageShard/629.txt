@@ -1,0 +1,3 @@
+node
+17.9.1-bullseye-slim
+['novu_apps_api_Dockerfile202207051.dockerfile', 'novu_apps_web_Dockerfile202207051.dockerfile', 'novu_apps_widget_Dockerfile202207051.dockerfile', 'novu_apps_ws_Dockerfile202207051.dockerfile', 'novu_libs_embed_Dockerfile202207051.dockerfile']

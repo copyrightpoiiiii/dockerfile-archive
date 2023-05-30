@@ -1,0 +1,14 @@
+command:
+  providerFor:
+    - awk
+  prefix: SC-AWK
+  optionsAll: &optionsAll
+    strings:
+      - -F
+      - -v
+    paths:
+      - -f
+  scenarios:
+    - cmd: $0 <program>
+      options: *optionsAll
+      name: SC-AWK

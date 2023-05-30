@@ -1,0 +1,3 @@
+node
+10.15-slim
+['RSSHub__Dockerfile201903270.dockerfile', 'RSSHub__Dockerfile201906180.dockerfile', 'RSSHub__Dockerfile201906270.dockerfile', 'RSSHub__Dockerfile201908030.dockerfile']

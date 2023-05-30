@@ -1,0 +1,3 @@
+node
+8.7-alpine
+['k6__Dockerfile201710150.dockerfile', 'k6__Dockerfile201710170.dockerfile']

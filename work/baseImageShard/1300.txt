@@ -1,0 +1,3 @@
+node
+12.18
+['traefik_webui_Dockerfile202008040.dockerfile', 'traefik_webui_Dockerfile202009070.dockerfile']

@@ -1,0 +1,3 @@
+debian
+sid-slim
+['dive__Dockerfile201911050.dockerfile', 'dive__Dockerfile201911051.dockerfile']

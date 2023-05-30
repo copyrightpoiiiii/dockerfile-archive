@@ -1,0 +1,3 @@
+base
+0-${VARIANT}
+['argo-workflows_.devcontainer_Dockerfile202205120.dockerfile', 'tauri_.devcontainer_Dockerfile202206060.dockerfile', 'tauri_.devcontainer_Dockerfile202208280.dockerfile']

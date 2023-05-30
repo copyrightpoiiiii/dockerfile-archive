@@ -1,0 +1,3 @@
+node
+14.18.1-alpine
+['reaction_apps_reaction_Dockerfile202209200.dockerfile', 'reaction_apps_reaction_Dockerfile202209210.dockerfile', 'reaction_apps_reaction_Dockerfile202209211.dockerfile', 'reaction_apps_reaction_Dockerfile202209212.dockerfile', 'trilium__Dockerfile202110150.dockerfile', 'trilium__Dockerfile202111140.dockerfile', 'verdaccio__Dockerfile202110160.dockerfile', 'verdaccio__Dockerfile202111080.dockerfile', 'verdaccio__Dockerfile202111200.dockerfile']

@@ -1,0 +1,3 @@
+cuda
+10.0-cudnn7-devel-ubuntu18.04
+['apollo_docker_build_dev.x86_64.dockerfile201910290.dockerfile', 'apollo_docker_build_dev.x86_64.dockerfile201910310.dockerfile', 'apollo_docker_build_dev.x86_64.dockerfile202001210.dockerfile', 'apollo_docker_build_dev.x86_64.dockerfile202001211.dockerfile', 'apollo_docker_build_dev.x86_64.dockerfile202004230.dockerfile', 'apollo_docker_build_dev.x86_64.dockerfile202004250.dockerfile', 'incubator-mxnet_ci_docker_Dockerfile.build.jetson202004150.dockerfile', 'ml-agents__Dockerfile202010150.dockerfile', 'nni_examples_trials_systems_auto_tuning_opevo_Dockerfile202011130.dockerfile']

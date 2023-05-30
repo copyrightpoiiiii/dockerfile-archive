@@ -1,0 +1,3 @@
+miniforge3
+4.11.0-0
+['pandas__Dockerfile202202180.dockerfile', 'pandas__Dockerfile202203051.dockerfile']

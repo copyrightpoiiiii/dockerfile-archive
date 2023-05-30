@@ -1,0 +1,3 @@
+base-deps
+nightly"$BASE_IMAGE"
+['ray_docker_ray-deps_Dockerfile202110260.dockerfile', 'ray_docker_ray-deps_Dockerfile202110270.dockerfile', 'ray_docker_ray-deps_Dockerfile202112170.dockerfile', 'ray_docker_ray-deps_Dockerfile202207120.dockerfile', 'ray_docker_ray-deps_Dockerfile202207130.dockerfile', 'ray_docker_ray-deps_Dockerfile202210200.dockerfile']

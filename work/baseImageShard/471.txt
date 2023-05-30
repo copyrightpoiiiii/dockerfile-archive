@@ -1,0 +1,3 @@
+node
+14.17
+['redash__Dockerfile202108020.dockerfile', 'redash__Dockerfile202108190.dockerfile', 'redash__Dockerfile202110290.dockerfile', 'redash__Dockerfile202112160.dockerfile', 'redash__Dockerfile202203020.dockerfile', 'redash__Dockerfile202204290.dockerfile', 'redash__Dockerfile202208240.dockerfile']

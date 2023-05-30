@@ -1,0 +1,3 @@
+debian
+$DEBIAN-slim
+['docker-varnish_fresh_debian_Dockerfile202107314.dockerfile', 'docker-varnish_stable_debian_Dockerfile202107314.dockerfile']

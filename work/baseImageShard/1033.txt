@@ -1,0 +1,3 @@
+debian
+9.8-slim
+['cockroach_build_deploy_Dockerfile201903130.dockerfile', 'cockroach_build_deploy_Dockerfile202001220.dockerfile']

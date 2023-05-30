@@ -1,0 +1,3 @@
+eclipse-temurin
+11-jre-jammy
+['flink-docker_1.14_scala_2.11-java11-ubuntu_Dockerfile202209050.dockerfile', 'flink-docker_1.14_scala_2.11-java11-ubuntu_Dockerfile202209270.dockerfile', 'flink-docker_1.14_scala_2.12-java11-ubuntu_Dockerfile202209050.dockerfile', 'flink-docker_1.14_scala_2.12-java11-ubuntu_Dockerfile202209270.dockerfile', 'flink-docker_1.15_scala_2.12-java11-ubuntu_Dockerfile202209050.dockerfile']

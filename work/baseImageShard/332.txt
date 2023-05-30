@@ -1,0 +1,3 @@
+web-vault@sha256
+29a4fa7bf3790fff9d908b02ac5a154913491f4bf30c95b87b06d8cf1c5516b5
+['vaultwarden_docker_amd64_Dockerfile202109050.dockerfile', 'vaultwarden_docker_amd64_Dockerfile202109130.dockerfile', 'vaultwarden_docker_arm64_Dockerfile202108220.dockerfile', 'vaultwarden_docker_arm64_Dockerfile202109050.dockerfile', 'vaultwarden_docker_arm64_Dockerfile202109130.dockerfile', 'vaultwarden_docker_armv6_Dockerfile202109050.dockerfile', 'vaultwarden_docker_armv6_Dockerfile202109130.dockerfile', 'vaultwarden_docker_armv7_Dockerfile202108220.dockerfile', 'vaultwarden_docker_armv7_Dockerfile202109050.dockerfile', 'vaultwarden_docker_armv7_Dockerfile202109130.dockerfile']

@@ -1,0 +1,3 @@
+skywalking-cli
+$SKYWALKING_CLI_VERSION
+['skywalking_docker_data-generator_Dockerfile202204230.dockerfile', 'skywalking_docker_oap_Dockerfile202111170.dockerfile', 'skywalking_docker_oap_Dockerfile202201250.dockerfile']

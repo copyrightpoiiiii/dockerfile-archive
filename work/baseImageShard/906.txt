@@ -1,0 +1,3 @@
+base_container
+latest
+['qmk_firmware__Dockerfile201907150.dockerfile', 'qmk_firmware__Dockerfile201907151.dockerfile', 'qmk_firmware_util_vagrant_Dockerfile201907160.dockerfile']

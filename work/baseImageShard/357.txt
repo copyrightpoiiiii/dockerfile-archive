@@ -1,0 +1,3 @@
+node
+8.9.1
+['distroless_examples_nodejs_Dockerfile201712080.dockerfile', 'overleaf_services_filestore_Dockerfile201801160.dockerfile', 'overleaf_services_filestore_Dockerfile201803240.dockerfile', 'overleaf_services_filestore_Dockerfile201803241.dockerfile', 'overleaf_services_filestore_Dockerfile201803242.dockerfile', 'overleaf_services_filestore_Dockerfile201803243.dockerfile', 'overleaf_services_filestore_Dockerfile201803244.dockerfile', 'overleaf_services_filestore_Dockerfile201803245.dockerfile', 'overleaf_services_filestore_Dockerfile201803246.dockerfile']

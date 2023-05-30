@@ -1,0 +1,3 @@
+busybox-${OS}-${ARCH}
+latest
+['prometheus__Dockerfile201904150.dockerfile', 'prometheus__Dockerfile201910170.dockerfile', 'prometheus__Dockerfile202012170.dockerfile', 'prometheus__Dockerfile202109300.dockerfile']

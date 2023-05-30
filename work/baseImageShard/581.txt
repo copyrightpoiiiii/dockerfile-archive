@@ -1,0 +1,3 @@
+eclipse-temurin
+6bb47aba5cebd4cb5ae09b64a54bcaf4fa5903dde0526a664e0b20528336075b
+['bonita-distrib_docker_Dockerfile202201070.dockerfile', 'bonita-distrib_docker_Dockerfile202202080.dockerfile', 'bonita-distrib_docker_Dockerfile202203091.dockerfile', 'bonita-distrib_docker_Dockerfile202203092.dockerfile', 'bonita-distrib_docker_Dockerfile202203093.dockerfile']

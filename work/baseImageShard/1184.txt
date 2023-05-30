@@ -1,0 +1,3 @@
+go-runner
+v2.3.1-go1.17.2-bullseye.0
+['kubernetes_cluster_images_kubemark_Dockerfile202111050.dockerfile', 'kubernetes_cluster_images_kubemark_Dockerfile202205310.dockerfile']

@@ -1,0 +1,3 @@
+openjdk
+8u232-jre-stretch
+['graphql-engine_community_sample-apps_realtime-location-tracking_Dockerfile201901170.dockerfile', 'parse-server__Dockerfile201805190.dockerfile', 'seata_distribution_Dockerfile201912130.dockerfile', 'seata_distribution_Dockerfile202106180.dockerfile', 'typescript-eslint_tests_performance_fixtures_lint-real-repo_Dockerfile201907250.dockerfile']

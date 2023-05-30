@@ -1,0 +1,3 @@
+node
+4
+['dokku_tests_apps_dockerfile-dokku-scale_Dockerfile201905190.dockerfile', 'dokku_tests_apps_dockerfile-noexpose_Dockerfile201602190.dockerfile', 'dokku_tests_apps_dockerfile-procfile-bad_Dockerfile201810120.dockerfile', 'dokku_tests_apps_dockerfile-procfile_Dockerfile201604260.dockerfile', 'dokku_tests_apps_dockerfile_Dockerfile201602190.dockerfile', 'dokku_tests_apps_dockerfile_Dockerfile201607070.dockerfile']

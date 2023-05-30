@@ -1,0 +1,3 @@
+node
+14.19.3-alpine
+['Rocket.Chat_ee_apps_account-service_Dockerfile202209230.dockerfile', 'Rocket.Chat_ee_apps_authorization-service_Dockerfile202209230.dockerfile', 'Rocket.Chat_ee_apps_ddp-streamer_Dockerfile202207080.dockerfile', 'Rocket.Chat_ee_apps_ddp-streamer_Dockerfile202209230.dockerfile', 'Rocket.Chat_ee_apps_presence-service_Dockerfile202209160.dockerfile', 'Rocket.Chat_ee_apps_stream-hub-service_Dockerfile202209230.dockerfile']

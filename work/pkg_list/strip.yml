@@ -1,0 +1,39 @@
+command:
+  providerFor:
+    - strip
+  prefix: SC-STRIP
+  options: &options
+    booleans:
+      - -s,--strip-all
+      - -S, -g, -d, --strip-debug
+      - --strip-dwo
+      - -M, --merge-notes
+      - --no-merge-notes
+      - -w, --wildcard
+      - -x, --discard-all
+      - -x, --discard-all
+      - --remove-relocations
+      - -D, --enable-deterministic-archives
+      - -U, --disable-deterministic-archives
+      - --keep-file-symbols
+      - --only-keep-debug
+      - -v , --verbose
+      - -V, --version
+      - --help
+      - --info
+    strings:
+      - --keep-section
+      - --remove-relocations
+    paths:
+      - -F, --target
+      - -I, --input-target
+      - -O, --output-target
+      - -K, --keep-symbol
+      - -N, --strip-symbol
+      - -R, --remove-section
+      - -o
+  scenarios:
+    - cmd: $0 [objfile...]
+      options: *options
+      name: SC-STRIP
+    

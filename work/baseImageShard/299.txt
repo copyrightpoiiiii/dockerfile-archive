@@ -1,0 +1,3 @@
+java
+8
+['mall-learning_mall-tiny-arthas2_src_main_arthas_Dockerfile202205240.dockerfile', 'mall-learning_mall-tiny-arthas2_src_main_docker_Dockerfile202205240.dockerfile', 'mall-learning_mall-tiny-arthas_src_main_docker_Dockerfile202007020.dockerfile', 'mall-learning_mall-tiny-deploy_deploy_Dockerfile202206190.dockerfile', 'mall-learning_mall-tiny-docker-file_src_main_docker_Dockerfile201906160.dockerfile', 'mall-learning_mall-tiny-docker-plugin_Dockerfile202012060.dockerfile', 'mall-learning_mall-tiny-drone_Dockerfile202104260.dockerfile', 'mall-learning_mall-tiny-fabric_Dockerfile202008290.dockerfile', 'mall-learning_mall-tiny-gitlab_Dockerfile202107190.dockerfile', 'mall_document_sh_Dockerfile202008080.dockerfile', 'mall_document_sh_Dockerfile202010180.dockerfile']

@@ -1,0 +1,3 @@
+dynamodb-local
+latest
+['examples_aws-node-http-api-dynamodb-local_dynamodb_Dockerfile202109140.dockerfile', 'examples_aws-node-rest-api-with-dynamodb-and-offline_dynamodb_Dockerfile202010020.dockerfile']

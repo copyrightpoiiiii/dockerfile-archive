@@ -1,0 +1,3 @@
+znc
+small
+['znc-docker_full_Dockerfile201702040.dockerfile', 'znc-docker_full_Dockerfile201702041.dockerfile', 'znc-docker_full_Dockerfile201702042.dockerfile']

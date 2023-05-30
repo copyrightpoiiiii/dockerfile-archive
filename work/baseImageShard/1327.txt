@@ -1,0 +1,3 @@
+apache-php7
+latest
+['yii2_tests_mssql_Dockerfile201703060.dockerfile', 'yii2_tests_mssql_Dockerfile201810040.dockerfile']

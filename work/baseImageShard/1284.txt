@@ -1,0 +1,3 @@
+node
+10.15.3-alpine
+['statsd__Dockerfile201904020.dockerfile', 'verdaccio__Dockerfile201904140.dockerfile']

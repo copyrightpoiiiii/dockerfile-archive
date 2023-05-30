@@ -1,0 +1,3 @@
+cuda
+${CUDA_VERSION}-devel-ubuntu20.04
+['clip-as-service_Dockerfiles_server202206200.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202203120.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202203180.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202203210.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202203211.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202204110.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202204220.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202205020.dockerfile', 'lightning_dockers_base-cuda_Dockerfile202205040.dockerfile']

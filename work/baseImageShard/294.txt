@@ -1,0 +1,3 @@
+golang
+1.6
+['hugo__Dockerfile201603100.dockerfile', 'hugo__Dockerfile201604200.dockerfile', 'kops_vendor_github.com_docker_distribution_Dockerfile201607050.dockerfile', 'kops_vendor_github.com_docker_distribution_Dockerfile201703160.dockerfile', 'tidb__Dockerfile201604080.dockerfile', 'tidb__Dockerfile201604090.dockerfile', 'tidb__Dockerfile201604100.dockerfile', 'tidb__Dockerfile201604130.dockerfile', 'tidb__Dockerfile201604210.dockerfile', 'tidb__Dockerfile201605070.dockerfile', 'tidb__Dockerfile201607290.dockerfile']

@@ -1,0 +1,3 @@
+golang
+1.16.6-buster
+['kubo__Dockerfile202108040.dockerfile', 'kubo__Dockerfile202108140.dockerfile']

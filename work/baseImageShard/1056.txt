@@ -1,0 +1,3 @@
+ubi-minimal
+8.4
+['docker-consul_ubi_Dockerfile202108100.dockerfile', 'docker-consul_ubi_Dockerfile202108170.dockerfile']

@@ -1,0 +1,3 @@
+ubuntu
+wily
+['slate__Dockerfile201510120.dockerfile', 'slate__Dockerfile201510121.dockerfile']

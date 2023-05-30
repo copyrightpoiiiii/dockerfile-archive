@@ -1,0 +1,3 @@
+node
+12.22.1-alpine3.12
+['cube.js_packages_cubejs-docker_dev-alpine202104240.dockerfile', 'cube.js_packages_cubejs-docker_dev-alpine202105270.dockerfile', 'cube.js_packages_cubejs-docker_dev-alpine202107010.dockerfile', 'cube.js_packages_cubejs-docker_latest-alpine202104240.dockerfile']

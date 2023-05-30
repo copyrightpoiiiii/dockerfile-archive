@@ -1,0 +1,3 @@
+base-docker
+latest
+['openalpr__Dockerfile201411090.dockerfile', 'openalpr__Dockerfile201411100.dockerfile']

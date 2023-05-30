@@ -1,0 +1,3 @@
+debian
+bookworm
+['buildpack-deps_debian_bookworm_curl_Dockerfile202112100.dockerfile', 'buildpack-deps_debian_bookworm_scm_Dockerfile202112100.dockerfile', 'dockerfiles_dockerfiles_bookworm-non-free_Dockerfile202203150.dockerfile', 'dockerfiles_dockerfiles_bookworm-non-free_Dockerfile202203151.dockerfile', 'dockerfiles_dockerfiles_bookworm-non-free_Dockerfile202203160.dockerfile', 'dockerfiles_dockerfiles_bookworm-non-free_Dockerfile202207200.dockerfile']

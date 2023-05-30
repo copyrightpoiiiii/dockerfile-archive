@@ -1,0 +1,3 @@
+cpp
+0-${VARIANT}
+['TDengine_.devcontainer_Dockerfile202112150.dockerfile', 'TDengine_.devcontainer_Dockerfile202201170.dockerfile', 'TDengine_.devcontainer_Dockerfile202204140.dockerfile', 'TDengine_.devcontainer_Dockerfile202204260.dockerfile']

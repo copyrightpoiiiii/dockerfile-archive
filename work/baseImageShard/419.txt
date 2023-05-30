@@ -1,0 +1,3 @@
+logstash-base
+latest
+['logstash__Dockerfile201709150.dockerfile', 'logstash__Dockerfile201709151.dockerfile', 'logstash__Dockerfile201711070.dockerfile', 'logstash__Dockerfile201711071.dockerfile', 'logstash__Dockerfile201711300.dockerfile', 'logstash__Dockerfile201711301.dockerfile', 'logstash__Dockerfile201804240.dockerfile', 'logstash__Dockerfile201808110.dockerfile']

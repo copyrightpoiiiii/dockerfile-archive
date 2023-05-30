@@ -1,0 +1,3 @@
+alpine-node
+12
+['vuetify__Dockerfile201907230.dockerfile', 'vuetify__Dockerfile201911210.dockerfile', 'vuetify__Dockerfile201912110.dockerfile']

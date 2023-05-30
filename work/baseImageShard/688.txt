@@ -1,0 +1,3 @@
+$BAZEL_IMAGE
+latest
+['cockroach_pkg_cmd_roachprod_docker_Dockerfile202110210.dockerfile', 'cockroach_pkg_cmd_roachprod_docker_Dockerfile202111170.dockerfile', 'cockroach_pkg_cmd_roachprod_docker_Dockerfile202207250.dockerfile', 'cockroach_pkg_cmd_roachprod_docker_Dockerfile202209080.dockerfile']

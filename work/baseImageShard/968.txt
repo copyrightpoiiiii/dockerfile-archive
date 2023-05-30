@@ -1,0 +1,3 @@
+paddle
+latest-gpu-cuda10.0-cudnn7-dev
+['PaddleOCR_deploy_docker_hubserving_cpu_Dockerfile202012090.dockerfile', 'PaddleOCR_deploy_docker_hubserving_gpu_Dockerfile202012090.dockerfile']

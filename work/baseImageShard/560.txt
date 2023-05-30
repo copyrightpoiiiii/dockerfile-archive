@@ -1,0 +1,3 @@
+alpine-node
+9
+['NeteaseCloudMusicApi__Dockerfile201801250.dockerfile', 'NeteaseCloudMusicApi__Dockerfile201801260.dockerfile', 'NeteaseCloudMusicApi__Dockerfile201801261.dockerfile', 'NeteaseCloudMusicApi__Dockerfile201801262.dockerfile', 'NeteaseCloudMusicApi__Dockerfile201811070.dockerfile']

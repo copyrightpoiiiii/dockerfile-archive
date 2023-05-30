@@ -1,0 +1,3 @@
+java-jolokia
+7
+['beats_metricbeat_module_jolokia__meta_Dockerfile201702140.dockerfile', 'beats_metricbeat_module_jolokia__meta_Dockerfile201702240.dockerfile', 'beats_metricbeat_module_jolokia__meta_Dockerfile201708310.dockerfile', 'beats_metricbeat_module_jolokia__meta_Dockerfile201804200.dockerfile']

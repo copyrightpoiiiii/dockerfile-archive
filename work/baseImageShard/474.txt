@@ -1,0 +1,3 @@
+dotnet
+2.0.5-runtime
+['server_util_Setup_Dockerfile201802220.dockerfile', 'server_util_Setup_Dockerfile201803240.dockerfile', 'server_util_Setup_Dockerfile201803241.dockerfile', 'server_util_Setup_Dockerfile201803242.dockerfile', 'server_util_Setup_Dockerfile201803243.dockerfile', 'server_util_Setup_Dockerfile201803260.dockerfile', 'server_util_Setup_Dockerfile201803281.dockerfile']

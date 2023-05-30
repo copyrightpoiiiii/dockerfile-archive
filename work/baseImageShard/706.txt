@@ -1,0 +1,3 @@
+node
+8.15.1-alpine
+['forem__Dockerfile201903190.dockerfile', 'forem__Dockerfile201905030.dockerfile', 'forem__Dockerfile201906180.dockerfile', 'forem__Dockerfile201907230.dockerfile']

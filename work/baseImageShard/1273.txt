@@ -1,0 +1,3 @@
+osxcross
+latest
+['shellcheck_build_darwin.x86_64_Dockerfile202102230.dockerfile', 'shellcheck_build_darwin.x86_64_Dockerfile202103090.dockerfile']

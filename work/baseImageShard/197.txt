@@ -1,0 +1,3 @@
+node
+16.2.0-alpine
+['docs__Dockerfile202106240.dockerfile', 'docs__Dockerfile202107150.dockerfile', 'docs__Dockerfile202107210.dockerfile', 'docs__Dockerfile202107220.dockerfile', 'docs__Dockerfile202107230.dockerfile', 'docs__Dockerfile202107280.dockerfile', 'docs__Dockerfile202107300.dockerfile', 'docs__Dockerfile202107301.dockerfile', 'docs__Dockerfile202108180.dockerfile', 'docs__Dockerfile202108240.dockerfile', 'docs__Dockerfile202108300.dockerfile', 'docs__Dockerfile202108310.dockerfile', 'docs__Dockerfile202109040.dockerfile', 'docs__Dockerfile202111140.dockerfile', 'docs__Dockerfile202112180.dockerfile', 'docs__Dockerfile202201050.dockerfile']

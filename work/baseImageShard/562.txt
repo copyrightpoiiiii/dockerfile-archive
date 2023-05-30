@@ -1,0 +1,3 @@
+alpine-oraclejdk8
+slim
+['SpringCloudLearning_chapter11-2_eureka-server_Dockerfile201704160.dockerfile', 'SpringCloudLearning_chapter11-2_service-hi_Dockerfile201704160.dockerfile', 'SpringCloudLearning_chapter11_eureka-server_src_main_docker_Dockerfile201704160.dockerfile', 'SpringCloudLearning_chapter11_service-hi_src_main_docker_Dockerfile201704160.dockerfile', 'swagger-codegen_samples_server_petstore_java-pkmst_Dockerfile201712190.dockerfile']

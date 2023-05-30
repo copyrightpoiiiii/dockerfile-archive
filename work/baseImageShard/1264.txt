@@ -1,0 +1,3 @@
+centos
+5
+['rust_src_ci_docker_host-x86_64_dist-i686-linux_Dockerfile202007030.dockerfile', 'rust_src_ci_docker_host-x86_64_dist-x86_64-linux_Dockerfile202007030.dockerfile']

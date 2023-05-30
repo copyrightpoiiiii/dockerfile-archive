@@ -1,0 +1,3 @@
+elasticsearch-oss
+${ELK_VERSION}
+['docker-elk_elasticsearch_Dockerfile201711180.dockerfile', 'docker-elk_elasticsearch_Dockerfile201808140.dockerfile']

@@ -1,0 +1,3 @@
+${BASE_IMAGE}
+${BASE_TAG}
+['beats_dev-tools_packaging_templates_ironbank_heartbeat_Dockerfile202209010.dockerfile', 'beats_dev-tools_packaging_templates_ironbank_metricbeat_Dockerfile202207200.dockerfile', 'kibana_src_dev_build_tasks_os_packages_docker_generator_templates_ironbank_Dockerfile202103100.dockerfile', 'kibana_src_dev_build_tasks_os_packages_docker_generator_templates_ironbank_Dockerfile202106170.dockerfile']

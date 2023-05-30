@@ -1,0 +1,3 @@
+ubuntu
+impish-20211102
+['wekan__Dockerfile202111170.dockerfile', 'wekan__Dockerfile202112180.dockerfile']

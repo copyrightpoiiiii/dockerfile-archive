@@ -1,0 +1,3 @@
+php-nginx
+7.4-alpine
+['showdoc__Dockerfile202012171.dockerfile', 'showdoc__Dockerfile202012172.dockerfile', 'showdoc__Dockerfile202012175.dockerfile', 'showdoc__Dockerfile202101120.dockerfile', 'showdoc__Dockerfile202101280.dockerfile', 'showdoc__Dockerfile202105210.dockerfile', 'showdoc__Dockerfile202105211.dockerfile', 'showdoc__Dockerfile202105212.dockerfile', 'showdoc__Dockerfile202105213.dockerfile', 'showdoc__Dockerfile202105214.dockerfile', 'showdoc__Dockerfile202105220.dockerfile', 'showdoc__Dockerfile202109230.dockerfile', 'showdoc__Dockerfile202109231.dockerfile', 'showdoc__Dockerfile202206200.dockerfile', 'showdoc__Dockerfile202206210.dockerfile', 'showdoc__Dockerfile202206211.dockerfile']

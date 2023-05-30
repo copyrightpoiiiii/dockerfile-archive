@@ -1,0 +1,3 @@
+cross
+aarch64-unknown-linux-gnu
+['vector_scripts_cross_aarch64-unknown-linux-gnu.dockerfile202010080.dockerfile', 'vector_scripts_cross_aarch64-unknown-linux-gnu.dockerfile202103150.dockerfile', 'vector_scripts_cross_aarch64-unknown-linux-gnu.dockerfile202105070.dockerfile']

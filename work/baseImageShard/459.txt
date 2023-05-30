@@ -1,0 +1,3 @@
+golang
+${GOLANG_VERSION}-alpine
+['ingress-nginx_images_test-runner_rootfs_Dockerfile202006271.dockerfile', 'ingress-nginx_images_test-runner_rootfs_Dockerfile202007010.dockerfile', 'ingress-nginx_images_test-runner_rootfs_Dockerfile202009030.dockerfile', 'ingress-nginx_images_test-runner_rootfs_Dockerfile202010300.dockerfile', 'ingress-nginx_images_test-runner_rootfs_Dockerfile202205250.dockerfile', 'ingress-nginx_images_test-runner_rootfs_Dockerfile202206100.dockerfile', 'ingress-nginx_images_test-runner_rootfs_Dockerfile202207180.dockerfile']

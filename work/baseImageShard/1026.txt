@@ -1,0 +1,3 @@
+ruby
+2.5.1
+['cheatsheets__Dockerfile201901200.dockerfile', 'dokku_tests_apps_dockerfile-entrypoint_Dockerfile202008310.dockerfile']

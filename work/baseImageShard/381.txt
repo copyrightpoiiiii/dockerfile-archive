@@ -1,0 +1,3 @@
+base-deps
+nightly"$GPU"
+['ray_docker_ray-deps_Dockerfile202010130.dockerfile', 'ray_docker_ray-deps_Dockerfile202010300.dockerfile', 'ray_docker_ray-deps_Dockerfile202011130.dockerfile', 'ray_docker_ray-deps_Dockerfile202102260.dockerfile', 'ray_docker_ray-deps_Dockerfile202104220.dockerfile', 'ray_docker_ray-deps_Dockerfile202106020.dockerfile', 'ray_docker_ray-deps_Dockerfile202107110.dockerfile', 'ray_docker_ray-deps_Dockerfile202107160.dockerfile', 'ray_docker_ray-deps_Dockerfile202110271.dockerfile']

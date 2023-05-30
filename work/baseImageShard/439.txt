@@ -1,0 +1,3 @@
+openjdk11
+alpine
+['antlr4_docker_Dockerfile202105020.dockerfile', 'antlr4_docker_Dockerfile202111060.dockerfile', 'antlr4_docker_Dockerfile202112150.dockerfile', 'antlr4_docker_Dockerfile202112310.dockerfile', 'antlr4_docker_Dockerfile202204160.dockerfile', 'antlr4_docker_Dockerfile202209050.dockerfile', 'antlr4_docker_Dockerfile202209051.dockerfile']

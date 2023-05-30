@@ -1,0 +1,20 @@
+command:
+  providerFor:
+    - cat
+  prefix: SC-CAT
+  options: &options
+    booleans:
+      - -A, --show-all
+      - -b, --number-nonblank
+      - -e
+      - -E, -show-ends
+      - -n, --number
+      - -s, --squeeze-blank
+      - -t
+      - -T, --show-tabs
+      - -u
+      - -v, --show-nonprinting
+  scenarios:
+    - cmd: $0 [FILE...]
+      options: *options
+      name: SC-CAT

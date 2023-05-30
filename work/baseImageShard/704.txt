@@ -1,0 +1,3 @@
+python
+3.4-slim
+['face_recognition__Dockerfile201703220.dockerfile', 'face_recognition__Dockerfile201708300.dockerfile', 'face_recognition__Dockerfile201710060.dockerfile', 'face_recognition__Dockerfile201802020.dockerfile']

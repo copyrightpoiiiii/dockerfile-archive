@@ -1,0 +1,3 @@
+mysql
+8
+['istio_samples_bookinfo_src_mysql_Dockerfile201709220.dockerfile', 'istio_samples_bookinfo_src_mysql_Dockerfile201801200.dockerfile']

@@ -1,0 +1,3 @@
+ubuntu-12-04-gcc
+v10.1.0
+['typesense_docker_development202102060.dockerfile', 'typesense_docker_development202108010.dockerfile', 'typesense_docker_development202108090.dockerfile', 'typesense_docker_development202112030.dockerfile', 'typesense_docker_development202112040.dockerfile', 'typesense_docker_development202112041.dockerfile', 'typesense_docker_development202112042.dockerfile', 'typesense_docker_development202112060.dockerfile', 'typesense_docker_development202112100.dockerfile', 'typesense_docker_development202112290.dockerfile', 'typesense_docker_development202206190.dockerfile']

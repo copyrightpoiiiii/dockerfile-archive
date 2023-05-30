@@ -1,0 +1,3 @@
+alpine
+3.12.1
+['authelia_internal_suites_example_compose_kind_Dockerfile202010230.dockerfile', 'authelia_internal_suites_example_compose_samba_Dockerfile202011270.dockerfile', 'micro__Dockerfile202010260.dockerfile', 'micro__Dockerfile202010261.dockerfile', 'micro__Dockerfile202011150.dockerfile', 'micro__Dockerfile202011151.dockerfile', 'micro__Dockerfile202101250.dockerfile', 'micro__Dockerfile202112290.dockerfile', 'micro__Dockerfile202208160.dockerfile', 'micro_test_Dockerfile202010260.dockerfile', 'micro_test_Dockerfile202010261.dockerfile']

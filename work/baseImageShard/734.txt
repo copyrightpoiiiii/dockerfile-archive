@@ -1,0 +1,3 @@
+openblas
+ubuntu20.04-20220914-179ea77
+['milvus_build_docker_builder_cpu_ubuntu20.04_Dockerfile202209150.dockerfile', 'milvus_build_docker_builder_cpu_ubuntu20.04_Dockerfile202209170.dockerfile', 'milvus_build_docker_milvus_ubuntu20.04_Dockerfile202209160.dockerfile', 'milvus_build_docker_milvus_ubuntu20.04_Dockerfile202209210.dockerfile']

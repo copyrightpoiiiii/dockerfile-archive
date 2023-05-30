@@ -1,0 +1,3 @@
+node
+12.18-alpine
+['umami__Dockerfile202008190.dockerfile', 'umami__Dockerfile202008210.dockerfile', 'umami__Dockerfile202008220.dockerfile', 'umami__Dockerfile202008230.dockerfile', 'umami__Dockerfile202009200.dockerfile', 'umami__Dockerfile202009220.dockerfile', 'umami__Dockerfile202009230.dockerfile', 'umami__Dockerfile202009240.dockerfile', 'umami__Dockerfile202009241.dockerfile', 'umami__Dockerfile202105080.dockerfile']

@@ -1,0 +1,3 @@
+php
+7.2-alpine
+['docker-adminer_4_Dockerfile201802100.dockerfile', 'docker-adminer_4_Dockerfile201802200.dockerfile', 'docker-adminer_4_Dockerfile201804080.dockerfile', 'docker-adminer_4_Dockerfile201806230.dockerfile', 'docker-adminer_4_Dockerfile201806231.dockerfile', 'docker-adminer_4_Dockerfile201806290.dockerfile', 'docker-adminer_4_Dockerfile201810210.dockerfile', 'docker-adminer_4_Dockerfile201811240.dockerfile', 'docker-adminer_4_Dockerfile201901241.dockerfile']

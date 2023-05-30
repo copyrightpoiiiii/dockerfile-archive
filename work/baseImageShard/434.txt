@@ -1,0 +1,3 @@
+golang
+1.19.0
+['SpaceVim_bundle_vim-go_Dockerfile202209270.dockerfile', 'grpc-gateway_.github_Dockerfile202208030.dockerfile', 'grpc-gateway_.github_Dockerfile202208080.dockerfile', 'grpc-gateway_.github_plugins_protoc-gen-grpc-gateway_Dockerfile202208030.dockerfile', 'grpc-gateway_.github_plugins_protoc-gen-openapiv2_Dockerfile202208030.dockerfile', 'ingress-nginx_images_kube-webhook-certgen_rootfs_Dockerfile202208270.dockerfile', 'vim-go__Dockerfile202208080.dockerfile']

@@ -1,0 +1,14 @@
+ARG SDK_BASE_IMAGE=mcr.microsoft.com/dotnet/nightly/sdk:5.0-buster-slim
+FROM $SDK_BASE_IMAGE
+
+WORKDIR /app
+COPY . .
+
+ARG CONFIGURATION=Release
+RUN dotnet build -c $CONFIGURATION
+
+EXPOSE 5001
+
+ENV CONFIGURATION=$CONFIGURATION
+ENV HTTPSTRESS_ARGS=''
+CMD dotnet run --no-build -c $CONFIGURATION -- $HTTPSTRESS_ARGS

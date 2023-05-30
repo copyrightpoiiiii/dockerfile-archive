@@ -1,0 +1,3 @@
+node
+8.15.0
+['distroless_examples_nodejs_Dockerfile201901290.dockerfile', 'distroless_examples_nodejs_node-express_Dockerfile201910020.dockerfile', 'traefik__exp201903190.dockerfile', 'traefik__exp201903191.dockerfile', 'traefik__exp201904010.dockerfile', 'traefik__exp201908120.dockerfile', 'traefik__exp201908260.dockerfile', 'traefik__exp201909030.dockerfile', 'traefik__exp201909040.dockerfile', 'traefik_webui_Dockerfile201902010.dockerfile', 'traefik_webui_Dockerfile201902050.dockerfile', 'traefik_webui_Dockerfile201902060.dockerfile', 'traefik_webui_Dockerfile201907150.dockerfile', 'traefik_webui_Dockerfile201908270.dockerfile']

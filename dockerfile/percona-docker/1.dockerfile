@@ -22,7 +22,7 @@ FROM redhat/ubi8-minimal
 LABEL name="Percona XtraBackup" \
  release="2.4" \
  vendor="Percona" \
- summary="Percona XtraBackup is an open-source hot backup utility for MySQL - based servers that doesn¡¯t lock your database during the backup" \
+ summary="Percona XtraBackup is an open-source hot backup utility for MySQL - based servers that doesn't lock your database during the backup" \
  description="Percona XtraBackup works with MySQL, MariaDB, and Percona Server. It supports completely non-blocking backups of InnoDB, XtraDB, and HailDB storage engines. In addition, it can back up the following storage engines by briefly pausing writes at the end of the backup: MyISAM, Merge, and Archive, including partitioned tables, triggers, and database options." \
  maintainer="Percona Development <info@percona.com>"
 

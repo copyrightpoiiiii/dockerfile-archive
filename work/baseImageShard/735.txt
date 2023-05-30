@@ -1,0 +1,3 @@
+minio
+latest
+['minio__Dockerfile202106060.dockerfile', 'minio__Dockerfile202112030.dockerfile', 'minio__Dockerfile202112140.dockerfile', 'minio__Dockerfile202202030.dockerfile']

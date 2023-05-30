@@ -1,0 +1,3 @@
+soak-builder@sha256
+c51a7091de2caebaa690e17f37dbfed4d4059dcdf5114a5596e8ca9b5ef494f3
+['vector_soaks_Dockerfile202203250.dockerfile', 'vector_soaks_Dockerfile202204010.dockerfile', 'vector_soaks_Dockerfile202204270.dockerfile', 'vector_soaks_Dockerfile202204280.dockerfile', 'vector_soaks_Dockerfile202205240.dockerfile', 'vector_soaks_Dockerfile202206070.dockerfile', 'vector_soaks_Dockerfile202206220.dockerfile', 'vector_soaks_Dockerfile202209240.dockerfile']

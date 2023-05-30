@@ -1,0 +1,3 @@
+docker-static-website
+latest
+['awesome-mac__Dockerfile202206240.dockerfile', 'linux-command__Dockerfile202206240.dockerfile']

@@ -1,0 +1,3 @@
+node
+10-slim
+['RSSHub__Dockerfile201912200.dockerfile', 'RSSHub__Dockerfile202002010.dockerfile', 'RSSHub__Dockerfile202003190.dockerfile', 'RSSHub__Dockerfile202004290.dockerfile', 'RSSHub__Dockerfile202009250.dockerfile', 'RSSHub__Dockerfile202009251.dockerfile', 'RSSHub__Dockerfile202009252.dockerfile', 'RSSHub__Dockerfile202010210.dockerfile', 'gatsby_.github_actions_gatsby-site-showcase-validator_Dockerfile201905300.dockerfile', 'gatsby_.github_actions_high-priority-prs_Dockerfile201905040.dockerfile', 'gatsby_.github_actions_high-priority-prs_Dockerfile201906070.dockerfile', 'luxon_docker_Dockerfile201807300.dockerfile']

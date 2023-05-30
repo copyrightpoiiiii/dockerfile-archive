@@ -1,0 +1,3 @@
+cassandra
+latest
+['jaeger_plugin_storage_cassandra_Dockerfile201705260.dockerfile', 'jaeger_plugin_storage_cassandra_Dockerfile201707040.dockerfile']

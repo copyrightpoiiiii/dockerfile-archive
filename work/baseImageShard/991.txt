@@ -1,0 +1,3 @@
+alpine
+$ARCH-latest-stable
+['UnblockNeteaseMusic__Dockerfile201907270.dockerfile', 'UnblockNeteaseMusic__Dockerfile201911180.dockerfile']

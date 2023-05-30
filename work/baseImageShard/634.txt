@@ -1,0 +1,3 @@
+mongo
+3
+['piggymetrics_mongodb_Dockerfile201601260.dockerfile', 'piggymetrics_mongodb_Dockerfile201603160.dockerfile', 'piggymetrics_mongodb_Dockerfile201603250.dockerfile', 'piggymetrics_mongodb_Dockerfile201809150.dockerfile', 'piggymetrics_mongodb_Dockerfile201907300.dockerfile']

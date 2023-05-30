@@ -1,0 +1,3 @@
+pytorch_lightning
+XLA-extras-py${PYTHON_VERSION}
+['lightning_dockers_tpu-tests_Dockerfile202007070.dockerfile', 'lightning_dockers_tpu-tests_Dockerfile202007240.dockerfile']

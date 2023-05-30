@@ -1,0 +1,3 @@
+ubuntu
+jammy-20220301
+['docker_images_ros2_nightly_nightly_Dockerfile202203050.dockerfile', 'docker_images_ros2_nightly_nightly_Dockerfile202210040.dockerfile', 'docker_images_ros2_source_devel_Dockerfile202203050.dockerfile']

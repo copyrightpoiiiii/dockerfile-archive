@@ -1,0 +1,3 @@
+ruby
+2.6.5-slim
+['chatwoot_docker_Dockerfile201911240.dockerfile', 'chatwoot_docker_Dockerfile201911260.dockerfile', 'chatwoot_docker_Dockerfile201911290.dockerfile', 'chatwoot_docker_Dockerfile201912050.dockerfile', 'chatwoot_docker_Dockerfile201912230.dockerfile']

@@ -1,0 +1,3 @@
+node
+16.13.1-bullseye-slim
+['thingsboard_msa_js-executor_docker_Dockerfile202112150.dockerfile', 'thingsboard_msa_js-executor_docker_Dockerfile202201170.dockerfile', 'thingsboard_msa_web-ui_docker_Dockerfile202112150.dockerfile', 'thingsboard_msa_web-ui_docker_Dockerfile202201170.dockerfile']

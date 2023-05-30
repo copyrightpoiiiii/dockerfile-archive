@@ -1,0 +1,3 @@
+nginx
+1.15-alpine
+['swagger-ui__Dockerfile201808180.dockerfile', 'swagger-ui__Dockerfile201809150.dockerfile', 'swagger-ui__Dockerfile201809151.dockerfile', 'swagger-ui__Dockerfile201811020.dockerfile', 'swagger-ui__Dockerfile201811021.dockerfile', 'swagger-ui__Dockerfile201902020.dockerfile', 'swagger-ui__Dockerfile201902060.dockerfile', 'swagger-ui__Dockerfile201903020.dockerfile', 'swagger-ui__Dockerfile201903060.dockerfile', 'swagger-ui__Dockerfile201907230.dockerfile']

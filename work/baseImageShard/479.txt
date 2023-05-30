@@ -1,0 +1,3 @@
+bootstrap
+mysql57
+['vitess_docker_base_Dockerfile201704140.dockerfile', 'vitess_docker_base_Dockerfile201704150.dockerfile', 'vitess_docker_base_Dockerfile201802280.dockerfile', 'vitess_docker_base_Dockerfile201810200.dockerfile', 'vitess_docker_base_Dockerfile201811150.dockerfile', 'vitess_docker_base_Dockerfile201910220.dockerfile', 'vitess_docker_base_Dockerfile202008260.dockerfile']

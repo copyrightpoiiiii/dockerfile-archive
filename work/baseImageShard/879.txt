@@ -1,0 +1,3 @@
+windowsservercore
+10.0.14393.693
+['labs_windows_modernize-traditional-apps_modernize-aspnet_v1-src_docker_web_Dockerfile201702030.dockerfile', 'labs_windows_modernize-traditional-apps_modernize-aspnet_v2-src_docker_web_Dockerfile201702030.dockerfile', 'labs_windows_modernize-traditional-apps_modernize-aspnet_v3-src_docker_web_Dockerfile201702030.dockerfile']

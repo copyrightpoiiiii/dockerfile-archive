@@ -1,0 +1,3 @@
+openjdk
+18-slim
+['microservices-demo_src_adservice_Dockerfile202209010.dockerfile', 'microservices-demo_src_adservice_Dockerfile202209270.dockerfile', 'microservices-demo_src_adservice_Dockerfile202210031.dockerfile']

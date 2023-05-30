@@ -1,0 +1,47 @@
+pkg:
+    - name: apk
+      cmd:
+          - SC-APK-ADD
+      package:
+          - SC-APK-PACKAGES
+    - name: apt
+      cmd:
+          - SC-APT-INSTALL
+      package:
+          - SC-APT-PACKAGES
+    - name: apt-get
+      cmd:
+          - SC-APT-GET-INSTALL
+      package:
+          - SC-APT-GET-PACKAGES
+    - name: gem
+      cmd:
+          - SC-GEM-INSTALL
+      package:
+          - SC-GEM-GEMS
+    - name: go
+      cmd:
+          - SC-GO-GET
+          - SC-GO-INSTALL
+      package:
+          - SC-GO-PACKAGES
+    - name: npm
+      cmd:
+          - SC-NPM-INSTALL
+      package:
+          - SC-NPM-PACKAGES
+    - name: pip
+      cmd:
+          - SC-PIP-INSTALL
+      package:
+          - SC-PIP-TARGETS
+    - name: yarn
+      cmd:
+          - SC-YARN-INSTALL
+      package:
+          - SC-YARN-MODULES
+    - name: yum
+      cmd:
+          - SC-YUM-INSTALL
+      package:
+          - SC-YUM-PACKAGES

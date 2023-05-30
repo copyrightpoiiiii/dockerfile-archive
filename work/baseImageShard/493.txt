@@ -1,0 +1,3 @@
+golang
+1.15.8
+['beats_auditbeat_Dockerfile202102110.dockerfile', 'beats_heartbeat_Dockerfile202102110.dockerfile', 'beats_metricbeat_Dockerfile202102110.dockerfile', 'beats_packetbeat_Dockerfile202102110.dockerfile', 'beats_x-pack_functionbeat_Dockerfile202102110.dockerfile', 'cilium_images_cilium-docker-plugin_Dockerfile202102232.dockerfile']

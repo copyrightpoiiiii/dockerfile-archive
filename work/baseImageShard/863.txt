@@ -1,0 +1,3 @@
+node
+10.7.0
+['harbor_make_photon_portal_Dockerfile201810180.dockerfile', 'harbor_make_photon_portal_Dockerfile201811290.dockerfile', 'harbor_make_photon_portal_Dockerfile201812130.dockerfile']

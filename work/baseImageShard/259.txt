@@ -1,0 +1,3 @@
+zaqwsx_ipfs-test-img
+latest
+['kubo_test_3nodetest_bootstrap_Dockerfile201501070.dockerfile', 'kubo_test_3nodetest_bootstrap_Dockerfile201502020.dockerfile', 'kubo_test_3nodetest_bootstrap_Dockerfile201504200.dockerfile', 'kubo_test_3nodetest_bootstrap_Dockerfile201908240.dockerfile', 'kubo_test_3nodetest_client_Dockerfile201501070.dockerfile', 'kubo_test_3nodetest_client_Dockerfile201502020.dockerfile', 'kubo_test_3nodetest_client_Dockerfile201504200.dockerfile', 'kubo_test_3nodetest_client_Dockerfile201908240.dockerfile', 'kubo_test_3nodetest_server_Dockerfile201501070.dockerfile', 'kubo_test_3nodetest_server_Dockerfile201502020.dockerfile', 'kubo_test_3nodetest_server_Dockerfile201504200.dockerfile', 'kubo_test_3nodetest_server_Dockerfile201908240.dockerfile']

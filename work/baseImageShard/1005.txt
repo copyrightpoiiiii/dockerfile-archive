@@ -1,0 +1,3 @@
+fedora
+20
+['atom__Dockerfile201410230.dockerfile', 'atom__Dockerfile201410240.dockerfile']

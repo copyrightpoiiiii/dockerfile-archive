@@ -1,0 +1,3 @@
+$GO_IMAGE
+latest
+['containerd_.github_workflows_release_Dockerfile202111120.dockerfile', 'containerd_.github_workflows_release_Dockerfile202202080.dockerfile', 'containerd_.github_workflows_release_Dockerfile202205010.dockerfile', 'containerd_.github_workflows_release_Dockerfile202208060.dockerfile', 'podman_test_tools_vendor_github.com_cpuguy83_go-md2man_v2_Dockerfile202205040.dockerfile']

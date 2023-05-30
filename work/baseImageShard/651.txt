@@ -1,0 +1,3 @@
+php
+7.1-apache
+['vulhub_base_thinkphp_5.0.9_Dockerfile201707040.dockerfile', 'vulhub_base_thinkphp_5.0.9_Dockerfile201707041.dockerfile', 'vulhub_base_thinkphp_5.0.9_Dockerfile201806210.dockerfile', 'vulhub_base_thinkphp_5.0.9_Dockerfile202106050.dockerfile', 'vulhub_base_thinkphp_5.0.9_Dockerfile202207170.dockerfile']

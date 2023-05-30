@@ -1,0 +1,3 @@
+ruby
+2.7.3-buster
+['ToolJet_docker_server202105250.dockerfile', 'ToolJet_docker_server202106090.dockerfile', 'ToolJet_docker_server202106140.dockerfile', 'ToolJet_docker_server202106230.dockerfile', 'ToolJet_docker_server202106240.dockerfile']

@@ -1,0 +1,3 @@
+sdk
+5.0.0-preview.1.20120.5
+['PowerShell_.devcontainer_Dockerfile202003200.dockerfile', 'PowerShell_.devcontainer_Dockerfile202003250.dockerfile']

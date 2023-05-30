@@ -1,0 +1,3 @@
+node
+14-alpine3.12
+['uptime-kuma_docker_alpine-base.dockerfile202110010.dockerfile', 'uptime-kuma_docker_alpine-base.dockerfile202112050.dockerfile', 'uptime-kuma_docker_alpine-base.dockerfile202202260.dockerfile']

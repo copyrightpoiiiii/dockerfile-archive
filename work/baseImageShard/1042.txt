@@ -1,0 +1,3 @@
+tomcat
+9-jdk14-openjdk-buster
+['convertigo_docker_aks_Dockerfile202006090.dockerfile', 'convertigo_docker_aks_Dockerfile202006230.dockerfile']

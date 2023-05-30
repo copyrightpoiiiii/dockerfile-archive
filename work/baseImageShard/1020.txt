@@ -1,0 +1,3 @@
+daemon-base
+latest-master
+['ceph_src_script_kubejacker_Dockerfile201905130.dockerfile', 'ceph_src_script_kubejacker_Dockerfile202012120.dockerfile']

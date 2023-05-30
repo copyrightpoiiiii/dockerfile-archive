@@ -1,0 +1,3 @@
+openjdk11
+alpine-jre
+['appsmith_app_server_Dockerfile201911140.dockerfile', 'appsmith_app_server_Dockerfile202011190.dockerfile', 'appsmith_app_server_Dockerfile202101120.dockerfile', 'metabase_bin_docker_Dockerfile201906180.dockerfile', 'metabase_bin_docker_Dockerfile201906250.dockerfile', 'metabase_bin_docker_Dockerfile201908080.dockerfile', 'metabase_bin_docker_Dockerfile201909120.dockerfile', 'metabase_bin_docker_Dockerfile201912040.dockerfile', 'metabase_bin_docker_Dockerfile202005150.dockerfile', 'metabase_bin_docker_Dockerfile202101300.dockerfile', 'metabase_bin_docker_Dockerfile202103060.dockerfile', 'metabase_bin_docker_Dockerfile202105120.dockerfile']

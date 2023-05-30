@@ -1,0 +1,3 @@
+flask_service
+python-3.10-slim-bullseye
+['envoy_examples_shared_service_Dockerfile202207080.dockerfile', 'envoy_examples_shared_tracing_Dockerfile202203230.dockerfile', 'envoy_examples_shared_tracing_Dockerfile202207080.dockerfile']

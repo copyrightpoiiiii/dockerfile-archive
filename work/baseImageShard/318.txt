@@ -1,0 +1,3 @@
+node
+14.4.0-alpine
+['dgraph_graphql_e2e_custom_logic_cmd_Dockerfile202004290.dockerfile', 'dgraph_graphql_e2e_custom_logic_cmd_Dockerfile202005080.dockerfile', 'dgraph_graphql_e2e_custom_logic_cmd_Dockerfile202209030.dockerfile', 'docker_practice_.travis_Dockerfile202007140.dockerfile', 'docker_practice_.travis_Dockerfile202010140.dockerfile', 'kcptun__Dockerfile202004100.dockerfile', 'kcptun__Dockerfile202004240.dockerfile', 'kcptun__Dockerfile202009300.dockerfile', 'nodebestpractices_sections_examples_dockerfile_Dockerfile202008200.dockerfile', 'nodebestpractices_sections_examples_dockerfile_Dockerfile202008201.dockerfile']

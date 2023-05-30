@@ -1,0 +1,3 @@
+${RESTY_IMAGE_BASE}
+${RESTY_IMAGE_TAG}
+['laradock_openresty_Dockerfile202106230.dockerfile', 'laradock_openresty_Dockerfile202201030.dockerfile', 'laradock_openresty_Dockerfile202207230.dockerfile']

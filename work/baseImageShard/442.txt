@@ -1,0 +1,3 @@
+ruby
+2.5.1-alpine3.7
+['cheatsheets__Dockerfile201806270.dockerfile', 'metasploit-framework__Dockerfile201803300.dockerfile', 'metasploit-framework__Dockerfile201810040.dockerfile', 'metasploit-framework__Dockerfile201810041.dockerfile', 'metasploit-framework__Dockerfile201810042.dockerfile', 'metasploit-framework__Dockerfile201810043.dockerfile', 'metasploit-framework__Dockerfile201810220.dockerfile']

@@ -1,0 +1,3 @@
+pytorch-installer-${PYTORCH_VERSION}
+${DIST}
+['lightning_dockers_ci-runner-hpu_Dockerfile202206090.dockerfile', 'lightning_dockers_ci-runner-hpu_Dockerfile202206210.dockerfile']

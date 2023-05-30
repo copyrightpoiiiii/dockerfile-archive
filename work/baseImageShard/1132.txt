@@ -1,0 +1,3 @@
+php
+7.3-zts-bullseye
+['grpc_tools_dockerfile_test_php73_zts_debian11_x64_Dockerfile202201270.dockerfile', 'grpc_tools_dockerfile_test_php73_zts_debian11_x64_Dockerfile202210050.dockerfile']

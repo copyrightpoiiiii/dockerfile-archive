@@ -1,0 +1,3 @@
+xx
+golang
+['kaniko_vendor_github.com_tonistiigi_fsutil_Dockerfile202201150.dockerfile', 'moby_vendor_github.com_tonistiigi_fsutil_Dockerfile202201180.dockerfile']

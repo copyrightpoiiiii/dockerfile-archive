@@ -1,0 +1,3 @@
+ubuntu
+19.10
+['ClickHouse_docker_test_integration_base_Dockerfile202004180.dockerfile', 'ClickHouse_docker_test_integration_base_Dockerfile202006200.dockerfile', 'ClickHouse_docker_test_integration_base_Dockerfile202007240.dockerfile', 'ClickHouse_docker_test_integration_base_Dockerfile202007270.dockerfile', 'ClickHouse_docker_test_integration_base_Dockerfile202009170.dockerfile', 'quine-relay__Dockerfile201910220.dockerfile']

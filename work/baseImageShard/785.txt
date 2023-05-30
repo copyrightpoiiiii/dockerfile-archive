@@ -1,0 +1,3 @@
+emscripten\emsdk
+2.0.23
+['Telegram__Dockerfile202109010.dockerfile', 'Telegram__Dockerfile202206230.dockerfile', 'Telegram__Dockerfile202208120.dockerfile']

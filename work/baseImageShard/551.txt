@@ -1,0 +1,3 @@
+gliderlabs\logspout
+master
+['socket.io_examples_cluster-haproxy_haproxy_Dockerfile201701160.dockerfile', 'uptime-kuma_docker_alpine-base.dockerfile202203170.dockerfile', 'uptime-kuma_docker_alpine-base.dockerfile202204200.dockerfile', 'uptime-kuma_docker_alpine-base.dockerfile202204290.dockerfile', 'uptime-kuma_docker_alpine-base.dockerfile202207100.dockerfile', 'uptime-kuma_docker_alpine-base.dockerfile202208130.dockerfile']

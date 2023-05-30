@@ -1,0 +1,3 @@
+glibc
+latest
+['ctop__Dockerfile201703100.dockerfile', 'ctop__Dockerfile201703101.dockerfile', 'ctop__Dockerfile201703150.dockerfile', 'ctop__Dockerfile201703151.dockerfile']

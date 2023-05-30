@@ -1,0 +1,3 @@
+kubespray
+${KUBESPRAY_VERSION}
+['kubespray_test-infra_vagrant-docker_Dockerfile202004190.dockerfile', 'kubespray_test-infra_vagrant-docker_Dockerfile202004290.dockerfile', 'kubespray_test-infra_vagrant-docker_Dockerfile202005020.dockerfile', 'kubespray_test-infra_vagrant-docker_Dockerfile202009190.dockerfile', 'kubespray_test-infra_vagrant-docker_Dockerfile202010090.dockerfile', 'kubespray_test-infra_vagrant-docker_Dockerfile202101270.dockerfile', 'kubespray_test-infra_vagrant-docker_Dockerfile202104130.dockerfile', 'kubespray_test-infra_vagrant-docker_Dockerfile202112030.dockerfile', 'kubespray_test-infra_vagrant-docker_Dockerfile202204090.dockerfile']

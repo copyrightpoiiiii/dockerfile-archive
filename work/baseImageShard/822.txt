@@ -1,0 +1,3 @@
+kibana
+latest
+['docker-elk_kibana_Dockerfile201508190.dockerfile', 'docker-elk_kibana_Dockerfile201511020.dockerfile', 'docker-elk_kibana_Dockerfile201511050.dockerfile']

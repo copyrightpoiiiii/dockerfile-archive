@@ -1,0 +1,3 @@
+python
+3.10-alpine3.16
+['certbot_tools_docker_core_Dockerfile202209260.dockerfile', 'satosa-docker_8.1_alpine3.16_Dockerfile202207120.dockerfile', 'satosa-docker_8.1_alpine3.16_Dockerfile202207180.dockerfile', 'satosa-docker_8.1_alpine3.16_Dockerfile202207190.dockerfile', 'satosa-docker_8.1_alpine3.16_Dockerfile202207250.dockerfile']

@@ -1,0 +1,50 @@
+command:
+  providerFor:
+    - update-alternatives
+  prefix: SC-UPDATE-ALTER
+  options: &options
+    booleans:
+      - -q, --quiet
+      - --verbose
+      - --test
+    strings:
+      - --install
+      - --remove
+      - --set
+      - --auto
+      - --display
+      - --config
+    paths:
+      - --altdir
+      - --admindir
+  scenarios:
+    - cmd: $0  [arg...]
+      mustHave:
+        - --install
+      options: *options
+      name: SC-UPDATE-ALTER-INSTALL
+    - cmd: $0  <path>
+      mustHave:
+        - --remove
+      options: *options
+      name: SC-UPDATE-ALTER-REMOVE
+    - cmd: $0  <path>
+      mustHave:
+        - --set
+      options: *options
+      name: SC-UPDATE-ALTER-SET
+    - cmd: $0 
+      mustHave:
+        - --auto
+      options: *options
+      name: SC-UPDATE-ALTER-AUTO
+    - cmd: $0 
+      mustHave:
+        - --display
+      options: *options
+      name: SC-UPDATE-ALTER-DISPLAY
+    - cmd: $0 
+      mustHave:
+        - --config
+      options: *options
+      name: SC-UPDATE-ALTER-CONFIG

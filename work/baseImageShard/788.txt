@@ -1,0 +1,3 @@
+buildpack-deps
+bionic
+['arangodb_3rdParty_lz4_.circleci_images_primary_Dockerfile202204280.dockerfile', 'mars_mars_zstd_.circleci_images_primary_Dockerfile202007070.dockerfile', 'zstd_.circleci_images_primary_Dockerfile201906050.dockerfile']

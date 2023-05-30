@@ -1,0 +1,3 @@
+ubuntu
+12.04
+['nodemon__Dockerfile201509100.dockerfile', 'nodemon__Dockerfile201510190.dockerfile', 'typesense_docker_development201707090.dockerfile', 'typesense_docker_ubuntu-12-04-gcc202102060.dockerfile']

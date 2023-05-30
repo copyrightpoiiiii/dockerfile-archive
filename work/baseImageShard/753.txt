@@ -1,0 +1,3 @@
+rust
+nightly-buster-slim
+['sonic__Dockerfile202006290.dockerfile', 'sonic__Dockerfile202006291.dockerfile', 'sonic__Dockerfile202006292.dockerfile', 'sonic__Dockerfile202006293.dockerfile']

@@ -1,0 +1,3 @@
+adoptopenjdk
+11-jdk-hotspot
+['halo__Dockerfile202101270.dockerfile', 'tutorials_kubernetes-modules_k8s-admission-controller_Dockerfile202209030.dockerfile']

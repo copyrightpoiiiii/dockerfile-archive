@@ -1,0 +1,3 @@
+zipkin-builder
+latest
+['zipkin_docker_Dockerfile201910160.dockerfile', 'zipkin_docker_Dockerfile201910170.dockerfile', 'zipkin_docker_Dockerfile201910171.dockerfile', 'zipkin_docker_Dockerfile201910180.dockerfile']

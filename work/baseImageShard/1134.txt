@@ -1,0 +1,3 @@
+node
+6-slim
+['hackathon-starter__Dockerfile201708190.dockerfile', 'hackathon-starter__Dockerfile201801300.dockerfile']

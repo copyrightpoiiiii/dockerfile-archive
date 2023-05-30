@@ -1,0 +1,3 @@
+node
+12.19
+['cube.js_packages_cubejs-docker_latest202010290.dockerfile', 'cube.js_packages_cubejs-docker_latest202011050.dockerfile', 'cube.js_packages_cubejs-docker_latest202011070.dockerfile', 'cube.js_packages_cubejs-docker_latest202011160.dockerfile', 'cube.js_packages_cubejs-docker_latest202011180.dockerfile', 'cube.js_packages_cubejs-docker_latest202012080.dockerfile', 'cube.js_packages_cubejs-docker_latest202012170.dockerfile', 'n8n_docker_images_n8n-debian_Dockerfile202012200.dockerfile']

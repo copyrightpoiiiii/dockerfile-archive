@@ -1,0 +1,3 @@
+emsdk
+1.39.15
+['tfjs_dockers_release-docker_Dockerfile202008130.dockerfile', 'tfjs_dockers_wasm-docker_Dockerfile202008010.dockerfile', 'tfjs_dockers_wasm-docker_Dockerfile202008130.dockerfile']

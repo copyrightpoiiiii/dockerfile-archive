@@ -1,0 +1,3 @@
+node
+16.5.0
+['harbor_make_photon_portal_Dockerfile202108100.dockerfile', 'harbor_src_portal_docker-build_Dockerfile202108090.dockerfile', 'wp-calypso_packages_wp-babel-makepot_Dockerfile202108020.dockerfile']

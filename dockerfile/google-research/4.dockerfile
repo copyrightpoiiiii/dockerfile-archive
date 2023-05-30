@@ -19,4 +19,4 @@ COPY . .
 RUN pip install -r requirements.txt
 
 # Set the python path
-RUN export PYTHONPATH=$PYTHONPATH:`pwd`
+RUN export PYTHONPATH=$PYTHONPATH:pwd

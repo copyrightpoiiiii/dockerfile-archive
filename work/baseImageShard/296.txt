@@ -1,0 +1,3 @@
+cuda
+$CUDA_VERSION-cudnn7-devel-ubuntu16.04
+['jax_build_Dockerfile201812070.dockerfile', 'jax_build_Dockerfile201812071.dockerfile', 'jax_build_Dockerfile201812072.dockerfile', 'jax_build_Dockerfile201812080.dockerfile', 'jax_build_Dockerfile201812190.dockerfile', 'jax_build_Dockerfile201901180.dockerfile', 'jax_build_Dockerfile201902080.dockerfile', 'jax_build_Dockerfile201902180.dockerfile', 'jax_build_Dockerfile201903270.dockerfile', 'jax_build_Dockerfile201906050.dockerfile', 'jax_build_Dockerfile201908090.dockerfile']

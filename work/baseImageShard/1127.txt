@@ -1,0 +1,3 @@
+openjdk
+11.0.9.1-jdk
+['grpc-java_buildscripts_xds-k8s_test-client202012230.dockerfile', 'grpc-java_buildscripts_xds-k8s_test-server202012230.dockerfile']

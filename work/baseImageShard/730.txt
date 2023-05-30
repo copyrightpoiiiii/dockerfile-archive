@@ -1,0 +1,3 @@
+python
+7bb70ac0176d6a8bdabba60cd8ededd6494605f225365510f7ee5691a4004463
+['localstack__Dockerfile202209200.dockerfile', 'localstack__Dockerfile202209230.dockerfile', 'localstack__Dockerfile202209290.dockerfile', 'localstack__Dockerfile202210030.dockerfile']

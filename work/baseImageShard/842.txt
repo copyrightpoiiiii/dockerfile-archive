@@ -1,0 +1,3 @@
+node
+12.16.1
+['gin-vue-admin_web_Dockerfile202106100.dockerfile', 'gin-vue-admin_web_Dockerfile202107120.dockerfile', 'overleaf_services_filestore_Dockerfile202003040.dockerfile']

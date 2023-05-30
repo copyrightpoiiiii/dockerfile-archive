@@ -1,0 +1,3 @@
+static
+nonroot
+['dapr_docker_Dockerfile202203160.dockerfile', 'dapr_tests_apps_Dockerfile202205200.dockerfile']

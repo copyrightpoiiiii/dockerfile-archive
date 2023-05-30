@@ -1,0 +1,3 @@
+node
+10.9-stretch
+['windows95__Dockerfile201808250.dockerfile', 'windows95__Dockerfile201808251.dockerfile', 'windows95__Dockerfile201808260.dockerfile']

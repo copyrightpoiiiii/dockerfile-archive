@@ -1,0 +1,3 @@
+synapse-workers
+$SYNAPSE_VERSION
+['synapse_docker_complement_Dockerfile202206080.dockerfile', 'synapse_docker_complement_Dockerfile202206150.dockerfile', 'synapse_docker_complement_Dockerfile202209160.dockerfile', 'synapse_docker_complement_Dockerfile202209270.dockerfile']

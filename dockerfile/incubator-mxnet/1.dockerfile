@@ -29,7 +29,7 @@
 # "base" for specific usecases. The target built by docker can be selected via
 # "--target" option or docker-compose.yml
 ####################################################################################################
-ARG BASE_IMAGE
+ARG BASE_IMAGE=centos:7
 FROM $BASE_IMAGE AS base
 
 WORKDIR /work/deps

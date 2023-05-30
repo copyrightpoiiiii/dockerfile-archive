@@ -1,0 +1,3 @@
+node
+18.7.0
+['dragonfly_tests_ioredis202210170.dockerfile', 'dragonfly_tests_node-redis202208130.dockerfile', 'dragonfly_tests_node-redis202208150.dockerfile']

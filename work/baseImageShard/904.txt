@@ -1,0 +1,3 @@
+alpine-glibc
+latest
+['prometheus__Dockerfile201507080.dockerfile', 'prometheus__Dockerfile201509180.dockerfile', 'prometheus__Dockerfile201509181.dockerfile']

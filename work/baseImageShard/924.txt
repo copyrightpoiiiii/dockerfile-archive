@@ -1,0 +1,3 @@
+srs
+ubuntu20
+['srs_trunk_Dockerfile202206150.dockerfile', 'srs_trunk_Dockerfile202206151.dockerfile', 'srs_trunk_Dockerfile202208291.dockerfile']

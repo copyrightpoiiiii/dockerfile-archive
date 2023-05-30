@@ -1,0 +1,3 @@
+${CONSUL_BUILD_IMAGE}
+latest
+['consul_build-support_docker_Consul-Dev.dockerfile201810200.dockerfile', 'consul_build-support_docker_Consul-Dev.dockerfile201904020.dockerfile']

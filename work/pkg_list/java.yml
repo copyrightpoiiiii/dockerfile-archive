@@ -1,0 +1,27 @@
+command:
+  providerFor:
+    - JAVA
+  prefix: SC-JAVA
+  optionsAll: &optionsAll
+    booleans:
+      - -client
+      - -d32
+      - -d64
+      - -disablesystemassertions, -dsa
+      - -enableassertions, -esa
+    arrays:
+      - -disableassertions, -da
+      - -enableassertions, -ea
+    strings:
+      - -javaagent
+    paths:
+      - -jar
+  scenarios:
+    - cmd: $0
+      mustHave:
+        - -jar
+      options: *optionsAll
+      name: SC-JAVA-BUILD-JAR
+    - cmd: $0 <classname>
+      options: *optionsAll
+      name: SC-JAVA-BUILD-CLASS

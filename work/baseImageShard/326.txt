@@ -1,0 +1,3 @@
+node
+6.14.1
+['overleaf_services_chat_Dockerfile201805230.dockerfile', 'overleaf_services_chat_Dockerfile201901040.dockerfile', 'overleaf_services_chat_Dockerfile201901041.dockerfile', 'overleaf_services_clsi_Dockerfile201805250.dockerfile', 'overleaf_services_contacts_Dockerfile201805230.dockerfile', 'overleaf_services_contacts_Dockerfile201901100.dockerfile', 'overleaf_services_docstore_Dockerfile201805230.dockerfile', 'overleaf_services_docstore_Dockerfile201812110.dockerfile', 'overleaf_services_notifications_Dockerfile201805230.dockerfile', 'overleaf_services_notifications_Dockerfile201901090.dockerfile']

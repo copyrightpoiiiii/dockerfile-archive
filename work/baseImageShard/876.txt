@@ -1,0 +1,3 @@
+eclipse-temurin
+8-jre
+['jetty.docker_eclipse-temurin_9.4_jre8_Dockerfile202209120.dockerfile', 'jetty.docker_eclipse-temurin_9.4_jre8_Dockerfile202209190.dockerfile', 'storm-docker_1.2.4_Dockerfile202208060.dockerfile']

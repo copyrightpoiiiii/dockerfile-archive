@@ -1,0 +1,3 @@
+node
+16.13.2-buster-slim
+['tfjs_dockers_release-docker_Dockerfile202201260.dockerfile', 'tfjs_dockers_release-docker_Dockerfile202210120.dockerfile']

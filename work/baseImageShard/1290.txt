@@ -1,0 +1,3 @@
+postgres
+13-bullseye
+['synapse_docker_complement_Dockerfile202207150.dockerfile', 'synapse_docker_complement_Dockerfile202207210.dockerfile']

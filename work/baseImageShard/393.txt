@@ -1,0 +1,3 @@
+javascript-node
+0-${VARIANT}
+['TypeScript_.devcontainer_Dockerfile202102170.dockerfile', 'docs_.devcontainer_Dockerfile202106240.dockerfile', 'docs_.devcontainer_Dockerfile202202080.dockerfile', 'fluentui_.devcontainer_Dockerfile202204040.dockerfile', 'fluentui_.devcontainer_Dockerfile202207180.dockerfile', 'novu_.devcontainer_Dockerfile202112230.dockerfile', 'novu_.devcontainer_Dockerfile202201170.dockerfile', 'zinc_.devcontainer_Dockerfile202203230.dockerfile']

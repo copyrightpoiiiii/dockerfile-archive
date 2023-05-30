@@ -1,0 +1,3 @@
+golang
+1.12.5
+['kind_images_kindnetd_Dockerfile201905140.dockerfile', 'kind_images_kindnetd_Dockerfile201905141.dockerfile', 'kind_images_kindnetd_Dockerfile201906100.dockerfile', 'vitess_examples_are-you-alive_build_dev_Dockerfile202002050.dockerfile']

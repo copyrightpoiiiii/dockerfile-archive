@@ -1,0 +1,3 @@
+golang
+1.18.4-alpine
+['microservices-demo_src_checkoutservice_Dockerfile202207190.dockerfile', 'microservices-demo_src_checkoutservice_Dockerfile202208310.dockerfile', 'microservices-demo_src_productcatalogservice_Dockerfile202207190.dockerfile', 'microservices-demo_src_productcatalogservice_Dockerfile202208310.dockerfile', 'microservices-demo_src_shippingservice_Dockerfile202207190.dockerfile', 'microservices-demo_src_shippingservice_Dockerfile202208310.dockerfile', 'nuclei__Dockerfile202207180.dockerfile', 'nuclei__Dockerfile202207250.dockerfile', 'nuclei__Dockerfile202210111.dockerfile']

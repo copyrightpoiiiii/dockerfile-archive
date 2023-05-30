@@ -1,0 +1,3 @@
+paddle
+2.0.0rc1
+['PaddleOCR_deploy_docker_hubserving_cpu_Dockerfile202101220.dockerfile', 'PaddleOCR_deploy_docker_hubserving_cpu_Dockerfile202101221.dockerfile', 'PaddleOCR_deploy_docker_hubserving_cpu_Dockerfile202101290.dockerfile']

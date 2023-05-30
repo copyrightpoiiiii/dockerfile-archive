@@ -1,0 +1,3 @@
+node
+14.18.2
+['cube.js_packages_cubejs-docker_dev202112141.dockerfile', 'cube.js_packages_cubejs-docker_dev202112152.dockerfile', 'cube.js_packages_cubejs-docker_latest202112141.dockerfile', 'cube.js_packages_cubejs-docker_latest202112152.dockerfile']

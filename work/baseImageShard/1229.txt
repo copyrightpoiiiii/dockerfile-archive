@@ -1,0 +1,3 @@
+sdk
+7.0.100-preview.7
+['microservices-demo_src_cartservice_src_Dockerfile202209010.dockerfile', 'microservices-demo_src_cartservice_src_Dockerfile202209090.dockerfile']

@@ -1,0 +1,3 @@
+kibana
+cf376141e7f543e368055308fa0e64ffe169eb7f8097abc84ba33be4b5c904e4
+['kibana_6_Dockerfile202005140.dockerfile', 'kibana_6_Dockerfile202005141.dockerfile']

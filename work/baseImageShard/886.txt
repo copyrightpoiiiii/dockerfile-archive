@@ -1,0 +1,3 @@
+golang
+1.9.2
+['linguist_tools_grammars_Dockerfile201711300.dockerfile', 'linguist_tools_grammars_Dockerfile201801290.dockerfile', 'vim-go__Dockerfile201711300.dockerfile']

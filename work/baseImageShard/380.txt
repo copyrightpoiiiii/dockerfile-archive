@@ -1,0 +1,3 @@
+${IMAGE_BASE_NAME}
+base-builder-${BASE_BUILDER_IMAGE_HASH}
+['rasa__Dockerfile202101270.dockerfile', 'rasa__Dockerfile202106030.dockerfile', 'rasa__Dockerfile202108250.dockerfile', 'rasa__Dockerfile202108251.dockerfile', 'rasa__Dockerfile202108252.dockerfile', 'rasa__Dockerfile202108253.dockerfile', 'rasa__Dockerfile202108254.dockerfile', 'rasa__Dockerfile202108255.dockerfile', 'rasa__Dockerfile202108260.dockerfile']

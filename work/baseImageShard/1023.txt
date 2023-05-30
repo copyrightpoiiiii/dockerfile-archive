@@ -1,0 +1,3 @@
+ruby
+${VARIANT}
+['chatwoot_.devcontainer_Dockerfile202012090.dockerfile', 'mastodon_.devcontainer_Dockerfile202203130.dockerfile']

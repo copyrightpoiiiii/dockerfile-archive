@@ -1,0 +1,3 @@
+cuda
+10.1-cudnn7-devel
+['detectron2_docker_Dockerfile201912090.dockerfile', 'detectron2_docker_Dockerfile201912130.dockerfile', 'detectron2_docker_Dockerfile201912140.dockerfile', 'detectron2_docker_Dockerfile201912230.dockerfile', 'detectron2_docker_Dockerfile202004120.dockerfile', 'detectron2_docker_Dockerfile202004160.dockerfile', 'detectron2_docker_Dockerfile202004230.dockerfile', 'detectron2_docker_Dockerfile202004280.dockerfile', 'detectron2_docker_Dockerfile202006240.dockerfile', 'detectron2_docker_Dockerfile202006250.dockerfile', 'detectron2_docker_Dockerfile202008150.dockerfile', 'detectron2_docker_Dockerfile202011170.dockerfile', 'detectron2_docker_Dockerfile202012290.dockerfile', 'detectron2_docker_Dockerfile202103050.dockerfile']

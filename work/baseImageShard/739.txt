@@ -1,0 +1,3 @@
+node
+12-stretch
+['nativefier__Dockerfile202006290.dockerfile', 'nativefier__Dockerfile202007180.dockerfile', 'nativefier__Dockerfile202008110.dockerfile', 'nativefier__Dockerfile202101300.dockerfile']

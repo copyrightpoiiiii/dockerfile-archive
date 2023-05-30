@@ -1,0 +1,3 @@
+ubuntu
+bionic-20200403
+['servo_etc_taskcluster_docker_base.dockerfile202004260.dockerfile', 'servo_etc_taskcluster_docker_base.dockerfile202006100.dockerfile']

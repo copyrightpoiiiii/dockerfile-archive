@@ -1,0 +1,3 @@
+java
+0-${VARIANT}
+['Java_.devcontainer_Dockerfile202206240.dockerfile', 'druid_druid-demo-petclinic_.devcontainer_Dockerfile202209190.dockerfile']

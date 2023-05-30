@@ -1,0 +1,3 @@
+debian
+8.9
+['cockroach_build_deploy_Dockerfile201709260.dockerfile', 'cockroach_build_deploy_Dockerfile201710030.dockerfile', 'cockroach_build_deploy_Dockerfile201711110.dockerfile', 'cockroach_build_deploy_Dockerfile201803080.dockerfile']

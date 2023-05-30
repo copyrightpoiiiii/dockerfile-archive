@@ -1,0 +1,3 @@
+gcc
+6
+['distroless_examples_cc_Dockerfile202004280.dockerfile', 'distroless_examples_cc_Dockerfile202104100.dockerfile']

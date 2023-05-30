@@ -1,0 +1,3 @@
+ubuntu-10.04-gcc
+4.9.2
+['typesense_docker_development201707140.dockerfile', 'typesense_docker_development201709140.dockerfile', 'typesense_docker_development201709160.dockerfile']

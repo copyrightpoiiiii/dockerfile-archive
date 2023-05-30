@@ -1,0 +1,3 @@
+ruby
+2.4.4-slim-stretch
+['diaspora_docker_develop_Dockerfile201810290.dockerfile', 'diaspora_docker_develop_Dockerfile202011041.dockerfile']

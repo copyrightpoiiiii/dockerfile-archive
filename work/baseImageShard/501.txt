@@ -1,0 +1,3 @@
+tomcat
+9-jdk16
+['convertigo_docker_aks_Dockerfile202105050.dockerfile', 'convertigo_docker_aks_Dockerfile202105051.dockerfile', 'convertigo_docker_aks_Dockerfile202106150.dockerfile', 'convertigo_docker_aks_Dockerfile202110220.dockerfile', 'convertigo_docker_aks_Dockerfile202110221.dockerfile', 'convertigo_docker_aks_Dockerfile202110222.dockerfile']

@@ -1,0 +1,3 @@
+php
+8.0-alpine
+['docker-adminer_4_Dockerfile202108290.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202101210.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202105200.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202106230.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202107010.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202109280.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202112150.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202201270.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202201280.dockerfile', 'wordpress_cli_php8.0_alpine_Dockerfile202210120.dockerfile']

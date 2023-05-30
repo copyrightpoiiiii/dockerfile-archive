@@ -1,0 +1,3 @@
+$cert_image
+latest
+['jaeger_docker_base_Dockerfile202010200.dockerfile', 'jaeger_docker_base_Dockerfile202203080.dockerfile']

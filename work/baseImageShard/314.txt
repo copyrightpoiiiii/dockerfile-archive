@@ -1,0 +1,3 @@
+debian
+jessie-backports
+['cassandra_3.0_Dockerfile201801030.dockerfile', 'cassandra_3.0_Dockerfile201801210.dockerfile', 'cassandra_3.11_Dockerfile201710110.dockerfile', 'cassandra_3.11_Dockerfile201801030.dockerfile', 'cassandra_3.11_Dockerfile201801210.dockerfile', 'docker-silverpeas-prod__Dockerfile201604260.dockerfile', 'docker-silverpeas-prod__Dockerfile201604270.dockerfile', 'docker-silverpeas-prod__Dockerfile201604280.dockerfile', 'docker-silverpeas-prod__Dockerfile201605020.dockerfile', 'docker-silverpeas-prod__Dockerfile201610180.dockerfile']

@@ -1,0 +1,3 @@
+stateless-test
+latest
+['ClickHouse_docker_test_stateful_Dockerfile202109060.dockerfile', 'ClickHouse_docker_test_stateful_Dockerfile202110280.dockerfile']

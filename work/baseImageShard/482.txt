@@ -1,0 +1,3 @@
+windowsservercore
+latest
+['CNTK_Tests_Install_windows_Dockerfile201702070.dockerfile', 'CNTK_Tests_Install_windows_Dockerfile201702160.dockerfile', 'PowerShell_test_docker_networktest_Dockerfile201704220.dockerfile', 'PowerShell_test_docker_networktest_Dockerfile201710180.dockerfile', 'labs_windows_modernize-traditional-apps_modernize-aspnet_v3-src_docker_save-prospect_Dockerfile201702030.dockerfile', 'moby_contrib_busybox_Dockerfile202004032.dockerfile']

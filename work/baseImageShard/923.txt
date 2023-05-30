@@ -1,0 +1,3 @@
+emsdk
+1.39.19
+['squoosh_codecs_cpp202007290.dockerfile', 'squoosh_codecs_rust202007150.dockerfile', 'squoosh_codecs_rust202007151.dockerfile']

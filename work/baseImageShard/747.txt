@@ -1,0 +1,3 @@
+node
+14.15.4
+['rabbitmq-server_deps_rabbitmq_management_selenium_Dockerfile202208310.dockerfile', 'rabbitmq-server_deps_rabbitmq_management_selenium_Dockerfile202208311.dockerfile', 'rabbitmq-server_deps_rabbitmq_management_selenium_Dockerfile202208312.dockerfile', 'rabbitmq-server_deps_rabbitmq_management_selenium_Dockerfile202208313.dockerfile']

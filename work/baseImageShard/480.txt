@@ -1,0 +1,3 @@
+vscode
+dev
+['vscode_.devcontainer_cache_cache202010080.dockerfile', 'vscode_.devcontainer_cache_cache202108250.dockerfile', 'vscode_.devcontainer_cache_cache202108251.dockerfile', 'vscode_.devcontainer_cache_cache202203170.dockerfile', 'vscode_.devcontainer_cache_cache202203171.dockerfile', 'vscode_.devcontainer_cache_cache202203172.dockerfile', 'vscode_.devcontainer_cache_cache202203173.dockerfile']

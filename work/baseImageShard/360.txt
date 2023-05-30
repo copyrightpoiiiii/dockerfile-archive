@@ -1,0 +1,3 @@
+druiditbase
+latest
+['druid_integration-tests_docker_Dockerfile201711090.dockerfile', 'druid_integration-tests_docker_Dockerfile201802080.dockerfile', 'druid_integration-tests_docker_Dockerfile201802081.dockerfile', 'druid_integration-tests_docker_Dockerfile201808310.dockerfile', 'druid_integration-tests_docker_Dockerfile201809180.dockerfile', 'druid_integration-tests_docker_Dockerfile201809200.dockerfile', 'druid_integration-tests_docker_Dockerfile201810210.dockerfile', 'druid_integration-tests_docker_Dockerfile201810250.dockerfile', 'druid_integration-tests_docker_Dockerfile201901160.dockerfile']

@@ -1,0 +1,3 @@
+golang
+1.16.2-alpine3.13
+['k9s__Dockerfile202103210.dockerfile', 'k9s__Dockerfile202103220.dockerfile']

@@ -1,0 +1,3 @@
+pytorch
+latest
+['EasyOCR__Dockerfile202007230.dockerfile', 'EasyOCR__Dockerfile202009250.dockerfile', 'EasyOCR__Dockerfile202112220.dockerfile']

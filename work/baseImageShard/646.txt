@@ -1,0 +1,3 @@
+node
+16-slim
+['supabase_studio_Dockerfile202209270.dockerfile', 'supabase_studio_Dockerfile202209271.dockerfile', 'supabase_studio_Dockerfile202209280.dockerfile', 'supabase_studio_Dockerfile202209281.dockerfile', 'superset__Dockerfile202210060.dockerfile']

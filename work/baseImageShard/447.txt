@@ -1,0 +1,3 @@
+golang
+1.14-alpine
+['croc__Dockerfile202002290.dockerfile', 'go-ethereum__Dockerfile202004140.dockerfile', 'k6__Dockerfile202004160.dockerfile', 'minio__Dockerfile202008190.dockerfile', 'traefik__build202003240.dockerfile', 'traefik__build202005110.dockerfile', 'traefik__build202007070.dockerfile']

@@ -1,0 +1,3 @@
+ubuntu
+xenial-20170915
+['cockroach_build_bazelbuilder_Dockerfile202101280.dockerfile', 'cockroach_build_builder_Dockerfile202010240.dockerfile', 'cockroach_build_builder_Dockerfile202010310.dockerfile', 'cockroach_build_builder_Dockerfile202011120.dockerfile', 'cockroach_build_builder_Dockerfile202011170.dockerfile', 'cockroach_build_builder_Dockerfile202012090.dockerfile', 'cockroach_build_builder_Dockerfile202101090.dockerfile']

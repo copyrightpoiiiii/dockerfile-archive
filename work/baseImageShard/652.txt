@@ -1,0 +1,3 @@
+ubuntu
+eoan
+['wechaty__Dockerfile202002250.dockerfile', 'wechaty__Dockerfile202004150.dockerfile', 'wechaty__Dockerfile202005250.dockerfile', 'wechaty__Dockerfile202008010.dockerfile', 'wechaty__Dockerfile202011080.dockerfile']

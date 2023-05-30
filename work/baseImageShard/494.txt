@@ -1,0 +1,3 @@
+java
+8-jdk-alpine
+['beats_metricbeat_module_jolokia__meta_Dockerfile201805150.dockerfile', 'beats_metricbeat_module_jolokia__meta_Dockerfile201806040.dockerfile', 'beats_metricbeat_module_jolokia__meta_Dockerfile201906280.dockerfile', 'beats_metricbeat_module_jolokia__meta_Dockerfile201908090.dockerfile', 'beats_metricbeat_module_jolokia__meta_Dockerfile201910010.dockerfile', 'beats_metricbeat_module_jolokia__meta_Dockerfile201911160.dockerfile']

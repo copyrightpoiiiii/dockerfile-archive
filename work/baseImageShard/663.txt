@@ -1,0 +1,3 @@
+gradle
+6.5.0-jdk8
+['Telegram__Dockerfile202010300.dockerfile', 'Telegram__Dockerfile202012230.dockerfile', 'Telegram__Dockerfile202012240.dockerfile', 'Telegram__Dockerfile202104140.dockerfile']

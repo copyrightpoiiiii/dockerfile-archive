@@ -1,0 +1,3 @@
+golang
+1.13-alpine3.11
+['gitea__Dockerfile201912270.dockerfile', 'gitea__Dockerfile202003040.dockerfile', 'webrtc_e2e_Dockerfile202002090.dockerfile']

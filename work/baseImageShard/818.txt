@@ -1,0 +1,3 @@
+python
+rc-alpine3.12
+['diagrams_docker_dev_Dockerfile202007010.dockerfile', 'diagrams_docker_dev_Dockerfile202007130.dockerfile', 'diagrams_docker_dev_Dockerfile202007270.dockerfile']

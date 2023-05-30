@@ -1,0 +1,3 @@
+podman_python
+latest
+['podman_test_compose_env_and_volume_read_Dockerfile202012110.dockerfile', 'podman_test_compose_env_and_volume_read_Dockerfile202012120.dockerfile']

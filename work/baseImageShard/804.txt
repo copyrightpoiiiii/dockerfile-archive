@@ -1,0 +1,3 @@
+centos
+centos6.7
+['canal_docker_Dockerfile201808030.dockerfile', 'canal_docker_Dockerfile201808040.dockerfile', 'canal_docker_Dockerfile201808090.dockerfile']

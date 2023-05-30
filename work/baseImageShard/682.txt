@@ -1,0 +1,3 @@
+adoptopenjdk
+11-jre-hotspot-bionic
+['cassandra_4.0_Dockerfile202008260.dockerfile', 'cassandra_4.0_Dockerfile202008270.dockerfile', 'cassandra_4.0_Dockerfile202009050.dockerfile', 'cassandra_4.0_Dockerfile202009051.dockerfile']

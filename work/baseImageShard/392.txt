@@ -1,0 +1,3 @@
+node
+14.17.3-alpine
+['ToolJet_docker_client202108260.dockerfile', 'ToolJet_docker_client202111200.dockerfile', 'ToolJet_docker_client202201170.dockerfile', 'ToolJet_docker_production202201170.dockerfile', 'ToolJet_docker_production202203150.dockerfile', 'ToolJet_docker_server202201170.dockerfile', 'ToolJet_docker_server202202070.dockerfile', 'ToolJet_docker_server202203150.dockerfile']

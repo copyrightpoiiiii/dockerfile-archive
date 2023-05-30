@@ -1,0 +1,3 @@
+node
+12.22.0
+['signoz_frontend_Dockerfile202203220.dockerfile', 'signoz_frontend_Dockerfile202205100.dockerfile']

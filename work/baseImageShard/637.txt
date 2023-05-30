@@ -1,0 +1,3 @@
+dotnet
+2.0.0-preview2-runtime-jessie
+['server_src_Api_Dockerfile201708050.dockerfile', 'server_src_Api_Dockerfile201708070.dockerfile', 'server_src_Api_Dockerfile201708080.dockerfile', 'server_src_Identity_Dockerfile201708050.dockerfile', 'server_src_Identity_Dockerfile201708070.dockerfile']

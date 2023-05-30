@@ -1,0 +1,3 @@
+golang
+1.7
+['beats_packetbeat_Dockerfile201608190.dockerfile', 'k6__Dockerfile201609300.dockerfile', 'k6__Dockerfile201612020.dockerfile', 'k6__Dockerfile201701270.dockerfile', 'k6__Dockerfile201702110.dockerfile', 'k6__Dockerfile201702210.dockerfile', 'k6__Dockerfile201705100.dockerfile', 'sops__Dockerfile201608250.dockerfile', 'sops__Dockerfile201608251.dockerfile', 'tidb__Dockerfile201703170.dockerfile', 'transfer.sh__Dockerfile201703230.dockerfile']

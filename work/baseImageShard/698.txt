@@ -1,0 +1,3 @@
+logstash
+latest
+['docker-elk_logstash_Dockerfile201606140.dockerfile', 'docker-elk_logstash_Dockerfile201606141.dockerfile', 'docker-elk_logstash_Dockerfile201606142.dockerfile', 'docker-elk_logstash_Dockerfile201607071.dockerfile']

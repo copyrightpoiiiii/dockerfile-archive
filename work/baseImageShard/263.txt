@@ -1,0 +1,3 @@
+golang
+${GO_VERSION}-alpine
+['transfer.sh__Dockerfile201906050.dockerfile', 'transfer.sh__Dockerfile201906230.dockerfile', 'transfer.sh__Dockerfile201911140.dockerfile', 'transfer.sh__Dockerfile202003160.dockerfile', 'transfer.sh__Dockerfile202005180.dockerfile', 'transfer.sh__Dockerfile202006150.dockerfile', 'transfer.sh__Dockerfile202006151.dockerfile', 'transfer.sh__Dockerfile202102190.dockerfile', 'transfer.sh__Dockerfile202107200.dockerfile', 'transfer.sh__Dockerfile202110270.dockerfile', 'transfer.sh__Dockerfile202204030.dockerfile', 'transfer.sh__Dockerfile202208310.dockerfile']

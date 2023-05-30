@@ -1,0 +1,3 @@
+eclipse-temurin
+8-jdk
+['docker-gradle_jdk8_Dockerfile202110040.dockerfile', 'docker-gradle_jdk8_Dockerfile202110310.dockerfile', 'docker-gradle_jdk8_Dockerfile202110311.dockerfile', 'docker-gradle_jdk8_Dockerfile202110312.dockerfile', 'docker-gradle_jdk8_Dockerfile202111110.dockerfile', 'docker-gradle_jdk8_Dockerfile202112020.dockerfile', 'docker-gradle_jdk8_Dockerfile202112150.dockerfile', 'docker-gradle_jdk8_Dockerfile202112220.dockerfile', 'docker-gradle_jdk8_Dockerfile202202090.dockerfile', 'docker-gradle_jdk8_Dockerfile202203100.dockerfile', 'docker-gradle_jdk8_Dockerfile202204010.dockerfile']

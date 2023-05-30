@@ -1,0 +1,3 @@
+rust
+${RUST_VERSION}-${DEBIAN_VERSION}
+['vector_soaks_Dockerfile202110270.dockerfile', 'vector_soaks_Dockerfile202111020.dockerfile', 'vector_soaks_Dockerfile202112160.dockerfile', 'vector_soaks_Dockerfile202201140.dockerfile']

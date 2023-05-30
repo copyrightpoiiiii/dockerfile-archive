@@ -1,0 +1,31 @@
+command:
+  providerFor:
+    - dpkg-divert
+  prefix: SC-DPKG-DIVERT
+  optionsAll: &optionsAll
+    booleans:
+      - --local
+      - --quiet
+      - --rename
+      - --rename
+    strings:
+      - --package
+    paths:
+      - --admindir
+      - --divert
+  scenarios:
+    - cmd: $0 --add
+      options: *optionsAll
+      name: SC-DPKG-DIVERT-ADD
+    - cmd: $0 --remove
+      options: *optionsAll
+      name: SC-DPKG-DIVERT-REMOVE
+    - cmd: $0 --list
+      options: *optionsAll
+      name: SC-DPKG-DIVERT-LIST
+    - cmd: $0 --listpackage
+      options: *optionsAll
+      name: SC-DPKG-DIVERT-LISTPACKAGE
+    - cmd: $0 --truename
+      options: *optionsAll
+      name: SC-DPKG-DIVERT-TRUENAME

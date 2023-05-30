@@ -1,0 +1,3 @@
+fedora21
+4.2.6
+['atom__Dockerfile201607140.dockerfile', 'atom__Dockerfile201607270.dockerfile', 'atom__Dockerfile201704210.dockerfile']

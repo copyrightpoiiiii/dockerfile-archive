@@ -1,0 +1,3 @@
+paddle
+2.0.0-gpu-cuda10.1-cudnn7
+['PaddleOCR_deploy_docker_hubserving_gpu_Dockerfile202102010.dockerfile', 'learnopencv_Optical-Character-Recognition-using-PaddleOCR_PaddleOCR_deploy_docker_hubserving_gpu_Dockerfile202206160.dockerfile']

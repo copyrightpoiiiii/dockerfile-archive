@@ -1,0 +1,15 @@
+command:
+  providerFor:
+    - chroot
+  prefix: SC-CHROOT
+  options: &options
+    booleans:
+      - --help
+      - --version
+    strings:
+      - --userspec
+      - --groups
+  scenarios:
+    - cmd: $0 <newroot> [command, args...]
+      options: *options
+      name: SC-CHROOT

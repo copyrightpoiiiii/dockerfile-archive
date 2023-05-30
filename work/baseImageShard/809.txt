@@ -1,0 +1,3 @@
+open-liberty
+kernel
+['ci.docker_samples_security_Dockerfile202003110.dockerfile', 'ci.docker_samples_security_Dockerfile202004070.dockerfile', 'ci.docker_samples_security_Dockerfile202004071.dockerfile']

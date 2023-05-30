@@ -1,0 +1,3 @@
+alpine
+36553b10a4947067b9fbb7d532951066293a68eae893beba1d9235f7d11a20ad
+['cilium_images_cache_Dockerfile202110190.dockerfile', 'cilium_images_cache_Dockerfile202204110.dockerfile']

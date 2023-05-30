@@ -1,0 +1,3 @@
+node
+12.18.3-alpine
+['kubeflow_components_centraldashboard_Dockerfile202008060.dockerfile', 'verdaccio__Dockerfile202008060.dockerfile', 'verdaccio__Dockerfile202104092.dockerfile', 'verdaccio__Dockerfile202104093.dockerfile', 'verdaccio__Dockerfile202104094.dockerfile']

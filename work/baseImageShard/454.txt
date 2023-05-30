@@ -1,0 +1,3 @@
+fedora
+28
+['etcd_tests_Dockerfile201804100.dockerfile', 'etcd_tests_Dockerfile201804101.dockerfile', 'etcd_tests_Dockerfile201805010.dockerfile', 'etcd_tests_Dockerfile201805100.dockerfile', 'etcd_tests_functional_Dockerfile202010070.dockerfile', 'etcd_tests_functional_Dockerfile202010071.dockerfile', 'etcd_tests_functional_Dockerfile202101220.dockerfile']

@@ -1,0 +1,3 @@
+centos
+centos6
+['cat_docker_Dockerfile201811160.dockerfile', 'cat_docker_Dockerfile201903060.dockerfile', 'cat_docker_Dockerfile202006070.dockerfile', 'cat_docker_Dockerfile202008200.dockerfile', 'cloc_tests_inputs_Dockerfile201612220.dockerfile']

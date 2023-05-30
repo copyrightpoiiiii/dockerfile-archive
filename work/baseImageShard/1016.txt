@@ -1,0 +1,3 @@
+nginx
+stable-alpine
+['awesome-kotlin_app-frontend_Dockerfile202105100.dockerfile', 'awesome-kotlin_app-frontend_Dockerfile202105101.dockerfile']

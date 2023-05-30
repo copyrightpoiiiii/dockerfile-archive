@@ -1,0 +1,3 @@
+spark-test-base
+latest
+['spark_connector_docker_spark-test_master_Dockerfile202203250.dockerfile', 'spark_connector_docker_spark-test_worker_Dockerfile202203250.dockerfile']

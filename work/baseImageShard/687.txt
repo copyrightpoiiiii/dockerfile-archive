@@ -1,0 +1,3 @@
+postgres
+11
+['cockroach_pkg_acceptance_compose_gss_psql_Dockerfile201902250.dockerfile', 'cockroach_pkg_acceptance_compose_gss_psql_Dockerfile201903010.dockerfile', 'cockroach_pkg_acceptance_compose_gss_psql_Dockerfile201906190.dockerfile', 'cockroach_pkg_acceptance_compose_gss_psql_Dockerfile202004230.dockerfile']

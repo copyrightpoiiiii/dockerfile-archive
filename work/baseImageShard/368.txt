@@ -1,0 +1,3 @@
+node
+12.10.0-alpine
+['hoppscotch__Dockerfile201911200.dockerfile', 'hoppscotch__Dockerfile201911260.dockerfile', 'hoppscotch__Dockerfile201911280.dockerfile', 'hoppscotch__Dockerfile202008240.dockerfile', 'hoppscotch__Dockerfile202012010.dockerfile', 'hoppscotch__Dockerfile202102200.dockerfile', 'hoppscotch__Dockerfile202104230.dockerfile', 'hoppscotch__Dockerfile202105270.dockerfile', 'trilium__Dockerfile201909100.dockerfile']

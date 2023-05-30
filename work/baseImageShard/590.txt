@@ -1,0 +1,3 @@
+ubuntu
+artful-20170916
+['cockroach_pkg_acceptance_testdata_Dockerfile201711090.dockerfile', 'cockroach_pkg_acceptance_testdata_Dockerfile201711100.dockerfile', 'cockroach_pkg_acceptance_testdata_Dockerfile201802130.dockerfile', 'cockroach_pkg_acceptance_testdata_Dockerfile201803220.dockerfile', 'cockroach_pkg_acceptance_testdata_Dockerfile201804190.dockerfile']

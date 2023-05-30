@@ -1,0 +1,3 @@
+dotnet
+0-${VARIANT}
+['aspnetcore_.devcontainer_Dockerfile202106150.dockerfile', 'roslyn_.devcontainer_Dockerfile202201260.dockerfile', 'roslyn_.devcontainer_Dockerfile202203020.dockerfile', 'runtime_.devcontainer_libraries_Dockerfile202209210.dockerfile', 'runtime_.devcontainer_wasm_Dockerfile202209210.dockerfile']

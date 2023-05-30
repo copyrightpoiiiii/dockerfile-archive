@@ -1,0 +1,3 @@
+go
+dev
+['bettercap__Dockerfile201801130.dockerfile', 'bettercap__Dockerfile201801131.dockerfile', 'bettercap__Dockerfile201801132.dockerfile', 'bettercap__Dockerfile201801133.dockerfile', 'bettercap__Dockerfile201801134.dockerfile', 'bettercap__Dockerfile201801135.dockerfile', 'bettercap__Dockerfile201801136.dockerfile', 'bettercap__Dockerfile201801140.dockerfile', 'bettercap__Dockerfile201801141.dockerfile', 'bettercap__Dockerfile201802060.dockerfile', 'bettercap__Dockerfile201802061.dockerfile', 'bettercap__Dockerfile201802230.dockerfile', 'bettercap__Dockerfile201803011.dockerfile', 'bettercap__Dockerfile201803012.dockerfile']

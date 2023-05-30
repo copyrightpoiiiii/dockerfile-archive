@@ -1,0 +1,3 @@
+tensorflow
+nightly-devel
+['models_research_object_detection_dockerfiles_android_Dockerfile201807140.dockerfile', 'models_research_object_detection_dockerfiles_android_Dockerfile202004250.dockerfile', 'models_research_object_detection_dockerfiles_android_Dockerfile202005130.dockerfile']

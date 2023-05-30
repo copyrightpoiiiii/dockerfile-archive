@@ -1,0 +1,3 @@
+snapcraft
+stable
+['keeweb_.github_actions_linux-build_Dockerfile202004050.dockerfile', 'keeweb_.github_actions_linux-build_Dockerfile202011200.dockerfile']

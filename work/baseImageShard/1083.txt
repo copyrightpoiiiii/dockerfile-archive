@@ -1,0 +1,3 @@
+python
+2ae2b820fbcf4e1c5354ec39d0c7ec4b3a92cce71411dfde9ed91d640dcdafd8
+['envoy_examples_grpc-bridge_client_Dockerfile202207100.dockerfile', 'envoy_examples_shared_flask_Dockerfile202207080.dockerfile']

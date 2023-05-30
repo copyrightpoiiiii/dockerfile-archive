@@ -1,0 +1,3 @@
+ubuntu
+eoan-20200608
+['servo_etc_taskcluster_docker_base.dockerfile202006290.dockerfile', 'servo_etc_taskcluster_docker_base.dockerfile202011141.dockerfile']

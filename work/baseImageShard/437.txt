@@ -1,0 +1,3 @@
+elixir
+1.10.3
+['analytics__Dockerfile202005260.dockerfile', 'analytics__Dockerfile202005290.dockerfile', 'analytics__Dockerfile202010050.dockerfile', 'analytics__Dockerfile202010060.dockerfile', 'analytics__Dockerfile202010130.dockerfile', 'analytics__Dockerfile202010140.dockerfile', 'analytics__Dockerfile202010150.dockerfile']

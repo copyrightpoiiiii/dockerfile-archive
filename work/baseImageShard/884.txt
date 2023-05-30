@@ -1,0 +1,3 @@
+pytorch_lightning
+base-ipu-py${PYTHON_VERSION}-torch${PYTORCH_VERSION}
+['lightning_dockers_ci-runner-ipu_Dockerfile202206090.dockerfile', 'lightning_dockers_ci-runner-ipu_Dockerfile202206150.dockerfile', 'lightning_dockers_ci-runner-ipu_Dockerfile202210050.dockerfile']

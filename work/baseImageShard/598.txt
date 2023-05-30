@@ -1,0 +1,3 @@
+mageia
+6
+['docker-brew-mageia_build2release_Dockerfile201807260.dockerfile', 'docker-brew-mageia_build2release_Dockerfile201810210.dockerfile', 'docker-brew-mageia_build2release_Dockerfile201810211.dockerfile', 'docker-brew-mageia_build2release_Dockerfile201903180.dockerfile', 'docker-brew-mageia_build2release_Dockerfile201903181.dockerfile']

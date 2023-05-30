@@ -1,0 +1,3 @@
+caffe2
+cuda8-cudnn6-all-options
+['Detectron_docker_Dockerfile201801230.dockerfile', 'Detectron_docker_Dockerfile201801310.dockerfile']

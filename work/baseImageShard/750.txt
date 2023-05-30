@@ -1,0 +1,3 @@
+python
+3.7-slim-bullseye
+['sherlock__Dockerfile202209300.dockerfile', 'sherlock__Dockerfile202209301.dockerfile', 'sherlock__Dockerfile202210010.dockerfile', 'sherlock__Dockerfile202210140.dockerfile']

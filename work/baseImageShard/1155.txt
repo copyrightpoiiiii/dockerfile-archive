@@ -1,0 +1,3 @@
+mongo
+4.0.12-xenial
+['istio_samples_bookinfo_src_mongodb_Dockerfile201909090.dockerfile', 'istio_samples_bookinfo_src_mongodb_Dockerfile202005300.dockerfile']

@@ -1,0 +1,3 @@
+dgraph
+latest
+['dgraph_contrib_standalone_Dockerfile201909210.dockerfile', 'dgraph_contrib_standalone_Dockerfile202002190.dockerfile']

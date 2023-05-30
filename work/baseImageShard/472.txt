@@ -1,0 +1,3 @@
+python
+${PY_VER}-slim-buster
+['sentry_docker_Dockerfile202010060.dockerfile', 'sentry_docker_Dockerfile202010150.dockerfile', 'sentry_docker_Dockerfile202010200.dockerfile', 'sentry_docker_Dockerfile202010201.dockerfile', 'sentry_docker_Dockerfile202010210.dockerfile', 'sentry_docker_Dockerfile202012050.dockerfile', 'sentry_docker_Dockerfile202012051.dockerfile']

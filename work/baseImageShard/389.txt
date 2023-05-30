@@ -1,0 +1,3 @@
+golang
+1.17.7-alpine
+['Cloudreve__Dockerfile202204110.dockerfile', 'goreleaser__Dockerfile202202120.dockerfile', 'goreleaser__Dockerfile202202140.dockerfile', 'goreleaser__Dockerfile202202141.dockerfile', 'microservices-demo_src_checkoutservice_Dockerfile202202260.dockerfile', 'microservices-demo_src_productcatalogservice_Dockerfile202202260.dockerfile', 'microservices-demo_src_shippingservice_Dockerfile202202260.dockerfile', 'nuclei__Dockerfile202202150.dockerfile']

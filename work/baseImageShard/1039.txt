@@ -1,0 +1,3 @@
+nginx
+1.16.1-alpine
+['codesandbox-client__Dockerfile202003191.dockerfile', 'codesandbox-client__Dockerfile202003200.dockerfile']

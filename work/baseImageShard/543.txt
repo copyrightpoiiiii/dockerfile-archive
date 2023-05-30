@@ -1,0 +1,3 @@
+node
+16.12.0-buster
+['qwik_.devcontainer_Dockerfile202202120.dockerfile', 'qwik_.devcontainer_Dockerfile202202150.dockerfile', 'qwik_.devcontainer_Dockerfile202202280.dockerfile', 'qwik_.devcontainer_Dockerfile202203160.dockerfile', 'qwik__Dockerfile202201250.dockerfile', 'qwik__Dockerfile202203290.dockerfile']

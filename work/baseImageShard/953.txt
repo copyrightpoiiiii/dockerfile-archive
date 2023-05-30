@@ -1,0 +1,3 @@
+node
+13.8.0-slim
+['zinc__Dockerfile202207040.dockerfile', 'zinc__Dockerfile202207080.dockerfile', 'zinc__Dockerfile202209080.dockerfile']

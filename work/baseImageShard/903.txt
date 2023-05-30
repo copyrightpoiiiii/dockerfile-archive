@@ -1,0 +1,3 @@
+maven
+3.5.2-jdk-8-alpine
+['profile-summary-for-github__Dockerfile201712170.dockerfile', 'profile-summary-for-github__Dockerfile201801040.dockerfile', 'profile-summary-for-github__Dockerfile201802250.dockerfile']

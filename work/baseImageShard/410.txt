@@ -1,0 +1,3 @@
+golang
+${GO_VER}-alpine
+['fabric_images_tools_Dockerfile201812200.dockerfile', 'fabric_images_tools_Dockerfile201903180.dockerfile', 'fabric_images_tools_Dockerfile201908200.dockerfile', 'fabric_images_tools_Dockerfile201909050.dockerfile', 'fabric_images_tools_Dockerfile201909160.dockerfile', 'fabric_images_tools_Dockerfile201909161.dockerfile', 'fabric_images_tools_Dockerfile201909180.dockerfile', 'fabric_images_tools_Dockerfile201909190.dockerfile']

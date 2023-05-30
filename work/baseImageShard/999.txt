@@ -1,0 +1,3 @@
+openjdk11
+alpine-slim
+['appsmith_app_server_Dockerfile201909170.dockerfile', 'tutorials_security-modules_cas_cas-server_Dockerfile202208200.dockerfile']

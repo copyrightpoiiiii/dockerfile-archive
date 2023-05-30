@@ -1,0 +1,3 @@
+node
+12.13-alpine
+['wiki_dev_build-arm_Dockerfile201912150.dockerfile', 'wiki_dev_build-arm_Dockerfile201912151.dockerfile', 'wiki_dev_build_Dockerfile201912150.dockerfile', 'wiki_dev_build_Dockerfile202001120.dockerfile']

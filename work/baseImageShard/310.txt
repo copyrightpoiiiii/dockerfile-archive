@@ -1,0 +1,3 @@
+golang
+1.13.10
+['beats_auditbeat_Dockerfile202004140.dockerfile', 'beats_auditbeat_Dockerfile202007040.dockerfile', 'beats_heartbeat_Dockerfile202004140.dockerfile', 'beats_heartbeat_Dockerfile202007040.dockerfile', 'beats_metricbeat_Dockerfile202004140.dockerfile', 'beats_metricbeat_Dockerfile202007040.dockerfile', 'beats_packetbeat_Dockerfile202005020.dockerfile', 'beats_packetbeat_Dockerfile202007040.dockerfile', 'beats_x-pack_functionbeat_Dockerfile202004140.dockerfile', 'beats_x-pack_functionbeat_Dockerfile202007040.dockerfile']

@@ -1,0 +1,3 @@
+node
+16.13.1-buster-slim
+['thingsboard_msa_js-executor_docker_Dockerfile202112140.dockerfile', 'thingsboard_msa_js-executor_docker_Dockerfile202112151.dockerfile', 'thingsboard_msa_web-ui_docker_Dockerfile202112140.dockerfile', 'thingsboard_msa_web-ui_docker_Dockerfile202112151.dockerfile']

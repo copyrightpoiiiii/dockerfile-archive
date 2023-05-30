@@ -1,0 +1,41 @@
+command:
+  providerFor:
+    - dpkg-buildpackage
+  prefix: SC-DPKG-BUILDPACKAGE
+  options: &options
+    booleans:
+      - -b
+      - -B
+      - -A
+      - -S
+      - --as-root
+      - -si, -sa, -sd
+      - -v
+      - -D
+      - -d
+      - -nc
+      - -tc
+      - -us
+      - -uc
+      - -z, -Z
+    strings:
+      - -C
+      - -a
+      - -t
+      - -j
+      - -r
+      - -R
+      - -p
+      - -k
+      - -i
+      - -I
+      - -s
+    paths:
+      - -T, --target
+      - -m
+      - -e
+      - --admindir
+  scenarios:
+    - cmd: $0
+      options: *options
+      name: SC-DPKG-BUILDPACKAGE

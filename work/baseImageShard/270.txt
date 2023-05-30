@@ -1,0 +1,3 @@
+ubuntu
+17.10
+['KaTeX_dockers_texcmp_Dockerfile201805090.dockerfile', 'minikube_deploy_iso_minikube-iso_Dockerfile201712080.dockerfile', 'quine-relay__Dockerfile201710210.dockerfile', 'quine-relay__Dockerfile201710211.dockerfile', 'quine-relay__Dockerfile201804180.dockerfile', 'wechaty__Dockerfile201801120.dockerfile', 'wechaty__Dockerfile201801300.dockerfile', 'wechaty__Dockerfile201802210.dockerfile', 'wechaty__Dockerfile201803100.dockerfile', 'wechaty__Dockerfile201803101.dockerfile', 'wechaty__Dockerfile201805271.dockerfile']

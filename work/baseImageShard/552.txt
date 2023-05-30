@@ -1,0 +1,3 @@
+rust
+nightly-slim
+['sonic__Dockerfile201902190.dockerfile', 'sonic__Dockerfile201903190.dockerfile', 'sonic__Dockerfile201903260.dockerfile', 'sonic__Dockerfile201903270.dockerfile', 'sonic__Dockerfile202001090.dockerfile', 'sonic__Dockerfile202006294.dockerfile']

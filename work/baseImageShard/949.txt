@@ -1,0 +1,3 @@
+openjdk
+7-jre-slim
+['xxl-job_xxl-job-admin_Dockerfile201810280.dockerfile', 'xxl-job_xxl-job-admin_Dockerfile201810281.dockerfile', 'xxl-job_xxl-job-admin_Dockerfile201811040.dockerfile']

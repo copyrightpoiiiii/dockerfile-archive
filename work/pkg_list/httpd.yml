@@ -1,0 +1,29 @@
+command:
+  providerFor:
+    - httpd
+  prefix: SC-HTTPD
+  options: &options
+    booleans:
+      - -h
+      - -l
+      - -L
+      - -S
+      - -t
+      - -v
+      - -V
+      - -X
+      - -M
+    strings:
+      - -d
+      - -c, -C
+      - -D
+      - -e
+      - -k
+    paths:
+      - -R
+      - -f
+      - -E
+  scenarios:
+    - cmd: $0
+      options: *options
+      name: SC-HTTPD

@@ -1,0 +1,3 @@
+miniconda3
+4.7.10
+['spleeter_docker_conda.dockerfile201911210.dockerfile', 'spleeter_docker_conda.dockerfile201911220.dockerfile', 'spleeter_docker_conda.dockerfile201911221.dockerfile', 'spleeter_docker_conda.dockerfile202001270.dockerfile']

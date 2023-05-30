@@ -1,0 +1,3 @@
+mariadb
+10.3
+['keycloak_testsuite_performance_db_mariadb_Dockerfile201709260.dockerfile', 'keycloak_testsuite_performance_db_mariadb_Dockerfile201802020.dockerfile']

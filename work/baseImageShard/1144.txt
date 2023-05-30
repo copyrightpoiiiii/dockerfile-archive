@@ -1,0 +1,3 @@
+golang
+alpine3.6
+['hugo__Dockerfile201706280.dockerfile', 'hugo__Dockerfile201707240.dockerfile']

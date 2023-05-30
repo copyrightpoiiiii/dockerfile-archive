@@ -1,0 +1,52 @@
+command:
+  providerFor:
+    - gpg
+  prefix: SC-GPG
+  options: &options
+    booleans:
+      - --version
+      - --verbose
+      - --batch
+      - -y, --yes
+      - --no-tty
+      - --import
+      - --fast-import
+      - -a, --armor
+      - --no-batch
+      - -q, --quiet
+      - --enarmor
+      - --dearmor
+      - -d, --decrypt
+      - --refresh-keys
+      - --gen-key
+      - -k, --list-keys, -list-key
+      - -K, --list-secret-keys, --list-secret-key
+      - --expert, --full-gen-key
+    paths:
+      - --homedir
+      - --options
+      - -o
+      - --send-keys
+    strings:
+      - --trusted-key
+      - --recv-key
+      - --recv
+      - --keyserver
+      - --delete-key
+      - --delete-secret-key
+    arrays:
+      - --export
+      - --export-secret-key
+      - --verify
+      - --recv-keys
+      - --keyserver-options
+  scenarios:
+    - cmd: $0 [targets...]
+      options: *options
+      name: SC-GPG
+    - cmd: $0 --fingerprint <UserID>
+      options: *options
+      name: SC-GPG-PRINT-FINGERPRINT
+    - cmd: $0 --fingerprint
+      options: *options
+      name: SC-GPG-PRINT-ALL

@@ -1,0 +1,14 @@
+command:
+  providerFor:
+    - tee
+  prefix: SC-TEE
+  options: &options
+    booleans:
+      - -a, --append
+      - -i, --ignore-interrupts
+      - --version
+      - --help
+  scenarios:
+    - cmd: $0 [FILE...]
+      options: *options
+      name: SC-TEE

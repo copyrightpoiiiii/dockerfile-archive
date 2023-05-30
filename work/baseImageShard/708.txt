@@ -1,0 +1,3 @@
+golang
+1.13-alpine3.10
+['gitea__Dockerfile201909120.dockerfile', 'gitea__Dockerfile201912050.dockerfile', 'gitea__Dockerfile201912060.dockerfile', 'lazygit__Dockerfile201910270.dockerfile']

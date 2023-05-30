@@ -1,0 +1,3 @@
+debian
+stretch-20201209
+['grafana_scripts_build_ci-build_Dockerfile202101070.dockerfile', 'grafana_scripts_build_ci-build_Dockerfile202102050.dockerfile', 'grafana_scripts_build_ci-build_Dockerfile202102190.dockerfile']

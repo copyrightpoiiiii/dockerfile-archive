@@ -1,0 +1,3 @@
+ruby
+2.5-alpine
+['gitlabhq_vendor_Dockerfile_Ruby-alpine201808080.dockerfile', 'gitlabhq_vendor_Dockerfile_Ruby-alpine201809100.dockerfile', 'gitlabhq_vendor_Dockerfile_Ruby-alpine202103220.dockerfile', 'gitlabhq_vendor_Dockerfile_Ruby-alpine202103230.dockerfile', 'slate__Dockerfile202005110.dockerfile']

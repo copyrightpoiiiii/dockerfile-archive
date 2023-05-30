@@ -1,0 +1,3 @@
+cuda
+8.0-cudnn7-devel-ubuntu14.04
+['apollo_docker_build_dev.x86_64.dockerfile201909180.dockerfile', 'apollo_docker_build_dev.x86_64.dockerfile201909270.dockerfile']

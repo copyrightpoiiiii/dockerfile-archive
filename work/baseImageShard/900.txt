@@ -1,0 +1,3 @@
+flutter
+latest
+['plugins_.ci_Dockerfile201901240.dockerfile', 'plugins_.ci_Dockerfile201903190.dockerfile', 'plugins_.ci_Dockerfile201908280.dockerfile']

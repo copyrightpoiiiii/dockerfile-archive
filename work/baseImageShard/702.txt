@@ -1,0 +1,3 @@
+golang
+d475cef843a02575ebdcb1416d98cd76bab90a5ae8bc2cd15f357fc08b6a329f
+['envoy_examples_ext_authz_auth_grpc-service_Dockerfile202209130.dockerfile', 'goreleaser__Dockerfile202209120.dockerfile', 'goreleaser__Dockerfile202209160.dockerfile', 'goreleaser__Dockerfile202209260.dockerfile']

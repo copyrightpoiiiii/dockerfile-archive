@@ -1,0 +1,3 @@
+tomcat
+9-jdk15
+['convertigo_docker_aks_Dockerfile202010120.dockerfile', 'convertigo_docker_aks_Dockerfile202010121.dockerfile', 'convertigo_docker_aks_Dockerfile202012070.dockerfile', 'convertigo_docker_aks_Dockerfile202012170.dockerfile', 'convertigo_docker_aks_Dockerfile202012171.dockerfile', 'convertigo_docker_aks_Dockerfile202101210.dockerfile', 'convertigo_docker_aks_Dockerfile202102120.dockerfile', 'convertigo_docker_aks_Dockerfile202102260.dockerfile', 'convertigo_docker_aks_Dockerfile202103310.dockerfile', 'convertigo_docker_aks_Dockerfile202104060.dockerfile', 'convertigo_docker_aks_Dockerfile202104140.dockerfile']

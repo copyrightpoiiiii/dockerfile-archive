@@ -1,0 +1,3 @@
+ubuntu-opencv-dlib-torch
+ubuntu_14.04-opencv_2.4.11-dlib_19.0-torch_2016.07.12
+['openface__Dockerfile201607120.dockerfile', 'openface__Dockerfile201607240.dockerfile', 'openface__Dockerfile201607241.dockerfile', 'openface__Dockerfile201705020.dockerfile', 'openface__Dockerfile201705021.dockerfile']

@@ -1,0 +1,3 @@
+zulu-openjdk
+8
+['jetty.docker_azul_zulu-openjdk_9.4_jdk8_Dockerfile202202240.dockerfile', 'jetty.docker_azul_zulu-openjdk_9.4_jdk8_Dockerfile202202241.dockerfile', 'jetty.docker_azul_zulu-openjdk_9.4_jdk8_Dockerfile202203310.dockerfile', 'jetty.docker_azul_zulu-openjdk_9.4_jdk8_Dockerfile202204050.dockerfile', 'jetty.docker_azul_zulu-openjdk_9.4_jdk8_Dockerfile202206280.dockerfile', 'jetty.docker_azul_zulu-openjdk_9.4_jdk8_Dockerfile202209190.dockerfile']

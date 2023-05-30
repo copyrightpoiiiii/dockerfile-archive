@@ -1,0 +1,3 @@
+wildfly
+21.0.2.Final
+['swagger-codegen_samples_server_petstore_jaxrs-resteasy_default_Dockerfile202102270.dockerfile', 'swagger-codegen_samples_server_petstore_jaxrs-resteasy_java8_Dockerfile202102270.dockerfile', 'swagger-codegen_samples_server_petstore_jaxrs-resteasy_joda_Dockerfile202102270.dockerfile']

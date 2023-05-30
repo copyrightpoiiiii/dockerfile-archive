@@ -1,0 +1,3 @@
+python
+3.9.9-slim-bullseye
+['freqtrade__Dockerfile202111230.dockerfile', 'freqtrade__Dockerfile202112090.dockerfile', 'freqtrade__Dockerfile202201130.dockerfile']

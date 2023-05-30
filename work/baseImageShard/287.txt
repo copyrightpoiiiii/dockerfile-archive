@@ -1,0 +1,3 @@
+node
+4-alpine
+['dokku_tests_apps_dockerfile-dokku-scale_Dockerfile202006210.dockerfile', 'dokku_tests_apps_dockerfile-dokku-scale_Dockerfile202006211.dockerfile', 'dokku_tests_apps_dockerfile-noexpose_Dockerfile202006210.dockerfile', 'dokku_tests_apps_dockerfile-noexpose_Dockerfile202006211.dockerfile', 'dokku_tests_apps_dockerfile-procfile-bad_Dockerfile202006210.dockerfile', 'dokku_tests_apps_dockerfile-procfile-bad_Dockerfile202006211.dockerfile', 'dokku_tests_apps_dockerfile-procfile_Dockerfile202006210.dockerfile', 'dokku_tests_apps_dockerfile-procfile_Dockerfile202006211.dockerfile', 'dokku_tests_apps_dockerfile_Dockerfile202006210.dockerfile', 'dokku_tests_apps_dockerfile_Dockerfile202006211.dockerfile', 'dokku_tests_apps_dockerfile_second202107110.dockerfile']

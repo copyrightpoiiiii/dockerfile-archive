@@ -1,0 +1,3 @@
+alpine-node
+6
+['socket.io_examples_cluster-haproxy_server_Dockerfile201701160.dockerfile', 'socket.io_examples_cluster-httpd_server_Dockerfile201701160.dockerfile', 'socket.io_examples_cluster-httpd_server_Dockerfile202101280.dockerfile', 'socket.io_examples_cluster-nginx_server_Dockerfile201701160.dockerfile']

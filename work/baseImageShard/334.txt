@@ -1,0 +1,3 @@
+base
+${VT_BASE_VER}
+['vitess_docker_k8s_Dockerfile202009150.dockerfile', 'vitess_docker_k8s_Dockerfile202009230.dockerfile', 'vitess_docker_k8s_Dockerfile202102260.dockerfile', 'vitess_docker_k8s_Dockerfile202112170.dockerfile', 'vitess_docker_k8s_Dockerfile202201260.dockerfile', 'vitess_docker_k8s_Dockerfile202201280.dockerfile', 'vitess_docker_k8s_Dockerfile202207080.dockerfile', 'vitess_docker_k8s_vtexplain_Dockerfile202102080.dockerfile', 'vitess_docker_k8s_vtexplain_Dockerfile202201260.dockerfile', 'vitess_docker_k8s_vtexplain_Dockerfile202201280.dockerfile']

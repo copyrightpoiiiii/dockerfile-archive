@@ -1,0 +1,3 @@
+rust
+alpine3.14
+['meilisearch__Dockerfile202203260.dockerfile', 'meilisearch__Dockerfile202204110.dockerfile']

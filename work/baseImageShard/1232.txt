@@ -1,0 +1,3 @@
+pytorch
+1.9.1-cuda11.1-cudnn8-runtime
+['mindsdb_docker_mindsdb202210090.dockerfile', 'mindsdb_docker_mindsdb202210100.dockerfile']

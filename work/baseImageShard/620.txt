@@ -1,0 +1,3 @@
+java
+openjdk-8-jre-alpine
+['metabase__Dockerfile201707130.dockerfile', 'metabase__Dockerfile201804190.dockerfile', 'metabase_bin_docker_Dockerfile201604260.dockerfile', 'metabase_bin_docker_Dockerfile201604270.dockerfile', 'metabase_bin_docker_Dockerfile201704180.dockerfile']

@@ -1,0 +1,3 @@
+hhvm
+4.68-latest
+['difftastic_vendor_tree-sitter-hack_bin_docker_Dockerfile202202030.dockerfile', 'difftastic_vendor_tree-sitter-hack_bin_docker_Dockerfile202207120.dockerfile']

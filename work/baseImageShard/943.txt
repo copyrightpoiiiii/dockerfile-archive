@@ -1,0 +1,3 @@
+node
+12.18.4-alpine
+['verdaccio__Dockerfile202009200.dockerfile', 'verdaccio__Dockerfile202010120.dockerfile', 'verdaccio__Dockerfile202104091.dockerfile']

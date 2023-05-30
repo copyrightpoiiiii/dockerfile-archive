@@ -1,0 +1,3 @@
+node
+12.16-alpine
+['n8n_docker_images_n8n-custom_Dockerfile202005150.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202006300.dockerfile', 'n8n_docker_images_n8n-custom_Dockerfile202011190.dockerfile', 'n8n_docker_images_n8n_Dockerfile202003270.dockerfile', 'n8n_docker_images_n8n_Dockerfile202006300.dockerfile']

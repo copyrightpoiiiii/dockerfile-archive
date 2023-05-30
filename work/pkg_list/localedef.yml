@@ -1,0 +1,19 @@
+command:
+  providerFor:
+    - localedef
+  prefix: SC-LOCALEDEF
+  options: &options
+    booleans:
+      - --force
+      - --verbose
+      - --posix
+      - --quiet
+      - --version
+      - --help
+    paths:
+      - -f
+      - -i
+  scenarios:
+    - cmd: $0 <outputpath>
+      options: *options
+      name: SC-LOCALEDEF

@@ -1,0 +1,3 @@
+tensorflow
+1.15.2-gpu-py3
+['models_research_object_detection_dockerfiles_tf1_Dockerfile202006270.dockerfile', 'models_research_object_detection_dockerfiles_tf1_Dockerfile202007110.dockerfile']

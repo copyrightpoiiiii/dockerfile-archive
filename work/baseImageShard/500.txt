@@ -1,0 +1,3 @@
+busybox
+buildroot-2014.02
+['cockroach_build_deploy_Dockerfile201411090.dockerfile', 'cockroach_build_deploy_Dockerfile201411091.dockerfile', 'cockroach_build_deploy_Dockerfile201411100.dockerfile', 'cockroach_build_deploy_Dockerfile201411230.dockerfile', 'cockroach_build_deploy_Dockerfile201412180.dockerfile', 'cockroach_build_deploy_Dockerfile201412211.dockerfile']

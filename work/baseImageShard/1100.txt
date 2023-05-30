@@ -1,0 +1,3 @@
+cuda
+8.0-devel-centos7
+['faiss__Dockerfile201904050.dockerfile', 'faiss__Dockerfile201904080.dockerfile']

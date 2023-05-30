@@ -1,0 +1,3 @@
+debian
+bookworm-slim
+['photoprism_docker_develop_armv7_Dockerfile202203230.dockerfile', 'photoprism_docker_develop_armv7_Dockerfile202204170.dockerfile', 'photoprism_docker_develop_armv7_Dockerfile202204180.dockerfile', 'photoprism_docker_develop_armv7_Dockerfile202204190.dockerfile', 'photoprism_docker_develop_armv7_Dockerfile202205200.dockerfile', 'photoprism_docker_develop_armv7_Dockerfile202207200.dockerfile', 'photoprism_docker_develop_armv7_Dockerfile202207230.dockerfile', 'photoprism_docker_develop_armv7_Dockerfile202209020.dockerfile', 'photoprism_docker_develop_armv7_Dockerfile202209021.dockerfile']

@@ -1,0 +1,3 @@
+ruby
+2.6-slim
+['slate__Dockerfile202005200.dockerfile', 'slate__Dockerfile202008100.dockerfile', 'slate__Dockerfile202010270.dockerfile', 'slate__Dockerfile202104090.dockerfile', 'slate__Dockerfile202204220.dockerfile']

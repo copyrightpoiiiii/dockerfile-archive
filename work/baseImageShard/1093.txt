@@ -1,0 +1,3 @@
+golang
+6bc0fe859a2a28af025f8885fc073996dd14d0371d5c0474aed798317849bc18
+['envoy_examples_grpc-bridge_server_Dockerfile202207180.dockerfile', 'envoy_examples_grpc-bridge_server_Dockerfile202207181.dockerfile']

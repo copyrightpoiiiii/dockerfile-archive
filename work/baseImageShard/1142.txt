@@ -1,0 +1,3 @@
+fedora
+$FEDORA_VERSION
+['hhvm_third-party_watchman_src_watchman_build_package_fedora-env_Dockerfile202210040.dockerfile', 'watchman_watchman_build_package_fedora-env_Dockerfile202210040.dockerfile']

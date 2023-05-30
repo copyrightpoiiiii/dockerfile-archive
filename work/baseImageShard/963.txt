@@ -1,0 +1,3 @@
+php
+7.2.0-cli
+['DesignPatternsPHP__Dockerfile201712270.dockerfile', 'DesignPatternsPHP__Dockerfile201810230.dockerfile']

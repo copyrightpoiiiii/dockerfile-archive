@@ -1,0 +1,3 @@
+websphere-liberty
+19.0.0.5-javaee8
+['istio_samples_bookinfo_src_reviews_reviews-wlpcfg_Dockerfile201907140.dockerfile', 'istio_samples_bookinfo_src_reviews_reviews-wlpcfg_Dockerfile201907230.dockerfile']

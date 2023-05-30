@@ -1,0 +1,3 @@
+nginx
+1.19.3-alpine
+['grafana_devenv_docker_blocks_auth_nginx_proxy_Dockerfile202208290.dockerfile', 'grafana_devenv_docker_blocks_auth_nginx_proxy_mac_Dockerfile202208290.dockerfile', 'grafana_devenv_docker_blocks_auth_prometheus_basic_auth_proxy_Dockerfile202208290.dockerfile']

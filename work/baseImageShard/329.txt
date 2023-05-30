@@ -1,0 +1,3 @@
+ray
+nightly"$BASE_IMAGE"
+['ray_docker_ray-ml_Dockerfile202110260.dockerfile', 'ray_docker_ray-ml_Dockerfile202110270.dockerfile', 'ray_docker_ray-ml_Dockerfile202111030.dockerfile', 'ray_docker_ray-ml_Dockerfile202111040.dockerfile', 'ray_docker_ray-ml_Dockerfile202203030.dockerfile', 'ray_docker_ray-ml_Dockerfile202203180.dockerfile', 'ray_docker_ray-ml_Dockerfile202203250.dockerfile', 'ray_docker_ray-ml_Dockerfile202204300.dockerfile', 'ray_docker_ray-ml_Dockerfile202210200.dockerfile', 'ray_docker_ray-ml_Dockerfile202210201.dockerfile']

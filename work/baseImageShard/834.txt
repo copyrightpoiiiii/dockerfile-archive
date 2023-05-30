@@ -1,0 +1,3 @@
+fedora
+latest
+['fish-shell_docker_fedora202104180.dockerfile', 'fish-shell_docker_fedora202210240.dockerfile', 'ruby_tool_annocheck_Dockerfile202205160.dockerfile']

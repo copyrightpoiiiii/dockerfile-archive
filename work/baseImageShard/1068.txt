@@ -1,0 +1,3 @@
+elasticsearch
+e65762763532f9f6a860a33b30adcbbc0bfcda4a6c595040bbaea60180c012d3
+['elasticsearch_6_Dockerfile201907310.dockerfile', 'elasticsearch_6_Dockerfile201908020.dockerfile']

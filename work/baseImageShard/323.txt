@@ -1,0 +1,3 @@
+alpine
+3.13.10
+['docker-sonarqube_8_community_Dockerfile202205060.dockerfile', 'docker-sonarqube_8_community_Dockerfile202206160.dockerfile', 'docker-sonarqube_8_datacenter_app_Dockerfile202205060.dockerfile', 'docker-sonarqube_8_datacenter_app_Dockerfile202206160.dockerfile', 'docker-sonarqube_8_datacenter_search_Dockerfile202205060.dockerfile', 'docker-sonarqube_8_datacenter_search_Dockerfile202206160.dockerfile', 'docker-sonarqube_8_developer_Dockerfile202205060.dockerfile', 'docker-sonarqube_8_developer_Dockerfile202206160.dockerfile', 'docker-sonarqube_8_enterprise_Dockerfile202205060.dockerfile', 'docker-sonarqube_8_enterprise_Dockerfile202206160.dockerfile']

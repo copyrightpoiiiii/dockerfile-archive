@@ -1,0 +1,3 @@
+minideb
+stretch
+['browsh__Dockerfile201801280.dockerfile', 'browsh__Dockerfile201801300.dockerfile', 'browsh__Dockerfile201802020.dockerfile', 'browsh__Dockerfile201802040.dockerfile', 'browsh__Dockerfile201802080.dockerfile', 'browsh__Dockerfile201802170.dockerfile', 'browsh__Dockerfile201806120.dockerfile', 'browsh__Dockerfile201807100.dockerfile', 'browsh__Dockerfile201807190.dockerfile', 'browsh__Dockerfile201807260.dockerfile', 'browsh__Dockerfile201807261.dockerfile']

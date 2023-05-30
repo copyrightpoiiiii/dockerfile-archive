@@ -1,0 +1,3 @@
+license-check
+0.3.6
+['faas_auth_basic-auth_Dockerfile202002040.dockerfile', 'faas_auth_basic-auth_Dockerfile202002230.dockerfile', 'faas_auth_basic-auth_Dockerfile202012101.dockerfile', 'faas_auth_basic-auth_Dockerfile202012102.dockerfile', 'faas_gateway_Dockerfile202002040.dockerfile', 'faas_gateway_Dockerfile202002230.dockerfile', 'faas_gateway_Dockerfile202003120.dockerfile', 'faas_gateway_Dockerfile202004220.dockerfile', 'faas_gateway_Dockerfile202012101.dockerfile', 'faas_gateway_Dockerfile202012102.dockerfile']

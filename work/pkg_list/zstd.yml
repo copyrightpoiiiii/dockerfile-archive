@@ -1,0 +1,38 @@
+command:
+  providerFor:
+    - zstd
+  prefix: SC-ZSTD
+  options: &options
+    booleans:
+      - -z, --compress
+      - -d, --decompress, --uncompress
+      - -t, --test
+      - -b
+      - -l, --list
+      - -f, --force
+      - -c, --stdout
+      - --rm
+      - -k, --keep
+      - -r
+      - -C, --check
+      - --no-check
+      - -q, --quiet
+      - -q, --quiet
+      - --show-default-cparams
+    strings:
+      - --format
+      - --auto-threads
+    paths:
+      - --filelist
+      - --patch-from
+      - -D
+      - -o
+      - --output-dir-flat
+      - --output-dir-mirror
+    arrays:
+      - --train
+  scenarios:
+    - cmd: $0 <input>
+      options: *options
+      name: SC-ZSTD
+    

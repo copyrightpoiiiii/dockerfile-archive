@@ -1,0 +1,3 @@
+openjdk11
+jre-11.0.10_9-alpine
+['appsmith_app_server_Dockerfile202105170.dockerfile', 'appsmith_app_server_Dockerfile202109210.dockerfile', 'appsmith_app_server_Dockerfile202110090.dockerfile', 'appsmith_app_server_Dockerfile202110200.dockerfile']

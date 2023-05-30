@@ -1,0 +1,3 @@
+ubuntu
+16.10
+['openapi-generator_samples_client_petstore_bash_Dockerfile201703020.dockerfile', 'openapi-generator_samples_client_petstore_bash_Dockerfile201709240.dockerfile', 'openapi-generator_samples_client_petstore_bash_Dockerfile201805080.dockerfile', 'openapi-generator_samples_client_petstore_bash_Dockerfile201911220.dockerfile', 'quine-relay__Dockerfile201610160.dockerfile', 'quine-relay__Dockerfile201610161.dockerfile', 'quine-relay__Dockerfile201703240.dockerfile', 'quine-relay__Dockerfile201704060.dockerfile']

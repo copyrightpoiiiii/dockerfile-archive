@@ -1,0 +1,3 @@
+ruby
+2.6.5-alpine3.10
+['forem__Dockerfile201910170.dockerfile', 'forem__Dockerfile201910280.dockerfile', 'forem__Dockerfile202001240.dockerfile', 'forem__Dockerfile202002110.dockerfile', 'forem__Dockerfile202003300.dockerfile', 'metasploit-framework__Dockerfile201910310.dockerfile', 'metasploit-framework__Dockerfile201912170.dockerfile', 'metasploit-framework__Dockerfile202001100.dockerfile']

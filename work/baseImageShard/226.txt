@@ -1,0 +1,3 @@
+ruby
+2.7-buster
+['gitlabhq_qa_Dockerfile202010240.dockerfile', 'gitlabhq_qa_Dockerfile202011030.dockerfile', 'gitlabhq_qa_Dockerfile202101060.dockerfile', 'gitlabhq_qa_Dockerfile202101210.dockerfile', 'gitlabhq_qa_Dockerfile202102230.dockerfile', 'gitlabhq_qa_Dockerfile202105210.dockerfile', 'gitlabhq_qa_Dockerfile202107070.dockerfile', 'gitlabhq_qa_Dockerfile202107140.dockerfile', 'gitlabhq_qa_Dockerfile202107190.dockerfile', 'gitlabhq_qa_Dockerfile202109030.dockerfile', 'gitlabhq_qa_Dockerfile202112210.dockerfile', 'gitlabhq_qa_Dockerfile202201180.dockerfile', 'gitlabhq_qa_Dockerfile202201181.dockerfile', 'gitlabhq_qa_Dockerfile202201280.dockerfile']

@@ -1,0 +1,3 @@
+cuda
+9.0-cudnn7-devel-ubuntu16.04
+['FastPhotoStyle__Dockerfile201802230.dockerfile', 'FastPhotoStyle__Dockerfile201802240.dockerfile', 'FastPhotoStyle__Dockerfile201802241.dockerfile', 'FastPhotoStyle__Dockerfile201802242.dockerfile', 'pytorch__Dockerfile201802130.dockerfile', 'pytorch__Dockerfile201802131.dockerfile', 'pytorch__Dockerfile201802160.dockerfile', 'pytorch__Dockerfile201803010.dockerfile', 'pytorch__Dockerfile201803200.dockerfile']

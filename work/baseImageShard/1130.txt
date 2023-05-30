@@ -1,0 +1,3 @@
+base-builder@sha256
+5eceb81f57599d63ca7c9a70c8968b23b128119699626ca749017019eb0b523f
+['grpc_tools_dockerfile_test_bazel_Dockerfile202202030.dockerfile', 'grpc_tools_dockerfile_test_bazel_Dockerfile202203140.dockerfile']

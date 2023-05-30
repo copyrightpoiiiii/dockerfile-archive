@@ -1,0 +1,3 @@
+python
+3.7.6-slim
+['jina_Dockerfiles_debianx202009290.dockerfile', 'jina_Dockerfiles_debianx202010040.dockerfile', 'jina_Dockerfiles_debianx202010280.dockerfile', 'jina_Dockerfiles_debianx202011080.dockerfile', 'jina_Dockerfiles_debianx202011090.dockerfile', 'jina_Dockerfiles_debianx202012140.dockerfile', 'jina_Dockerfiles_debianx202012141.dockerfile']

@@ -1,0 +1,3 @@
+golang
+1.11.4-alpine
+['loki_cmd_loki-canary_Dockerfile201908010.dockerfile', 'loki_cmd_loki-canary_Dockerfile201908130.dockerfile', 'loki_cmd_loki-canary_Dockerfile201908131.dockerfile', 'loki_cmd_loki-canary_Dockerfile201908132.dockerfile', 'loki_cmd_loki_Dockerfile201908010.dockerfile', 'loki_cmd_loki_Dockerfile201908130.dockerfile', 'loki_cmd_loki_Dockerfile201908131.dockerfile', 'loki_cmd_loki_Dockerfile201908132.dockerfile']

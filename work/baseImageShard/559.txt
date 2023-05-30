@@ -1,0 +1,3 @@
+python
+0-${VARIANT}
+['ML-For-Beginners_.devcontainer_Dockerfile202111170.dockerfile', 'nerd-fonts_.devcontainer_Dockerfile202006280.dockerfile', 'nerd-fonts_.devcontainer_Dockerfile202112040.dockerfile', 'rasa_.devcontainer_Dockerfile202206070.dockerfile', 'thefuck_.devcontainer_Dockerfile202107200.dockerfile']

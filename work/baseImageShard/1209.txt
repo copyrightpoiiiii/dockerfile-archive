@@ -1,0 +1,3 @@
+logstash
+0ed94c58fd5c706867d19a0b26d769fb9f369ee9a8391b964c39ab388605924d
+['logstash_6_Dockerfile202005140.dockerfile', 'logstash_6_Dockerfile202005141.dockerfile']

@@ -1,0 +1,3 @@
+openjdk
+8u332
+['seata_distribution_Dockerfile202207220.dockerfile', 'seata_distribution_Dockerfile202209070.dockerfile', 'seata_distribution_Dockerfile202209080.dockerfile']

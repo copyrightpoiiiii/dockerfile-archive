@@ -1,0 +1,3 @@
+golang
+1.6.2
+['beats_packetbeat_Dockerfile201606080.dockerfile', 'beats_packetbeat_Dockerfile201608020.dockerfile', 'codis__Dockerfile201607210.dockerfile', 'hugo__Dockerfile201606050.dockerfile', 'hugo__Dockerfile201606080.dockerfile', 'hugo__Dockerfile201610010.dockerfile', 'hugo__Dockerfile201611230.dockerfile', 'hugo__Dockerfile201612290.dockerfile']

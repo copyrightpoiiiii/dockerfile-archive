@@ -1,0 +1,3 @@
+python
+3.8-alpine3.12
+['certbot_tools_docker_core_Dockerfile202007090.dockerfile', 'certbot_tools_docker_core_Dockerfile202008120.dockerfile', 'certbot_tools_docker_core_Dockerfile202011060.dockerfile', 'certbot_tools_docker_core_Dockerfile202012170.dockerfile', 'certbot_tools_docker_core_Dockerfile202102240.dockerfile', 'certbot_tools_docker_core_Dockerfile202103250.dockerfile', 'certbot_tools_docker_core_Dockerfile202103251.dockerfile', 'certbot_tools_docker_core_Dockerfile202105110.dockerfile', 'certbot_tools_docker_core_Dockerfile202203030.dockerfile']

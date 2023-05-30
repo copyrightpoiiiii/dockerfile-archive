@@ -1,0 +1,3 @@
+server
+2017-CU14
+['server_util_MsSql_Dockerfile201905070.dockerfile', 'server_util_MsSql_Dockerfile201907270.dockerfile', 'server_util_MsSql_Dockerfile201907271.dockerfile', 'server_util_MsSql_Dockerfile201911200.dockerfile', 'server_util_MsSql_Dockerfile201911220.dockerfile', 'server_util_MsSql_Dockerfile201911250.dockerfile']

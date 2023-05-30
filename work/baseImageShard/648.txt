@@ -1,0 +1,3 @@
+node
+6.9.1
+['traefik_webui_Dockerfile201611160.dockerfile', 'traefik_webui_Dockerfile201702020.dockerfile', 'traefik_webui_Dockerfile201705100.dockerfile', 'traefik_webui_Dockerfile201804270.dockerfile', 'traefik_webui_Dockerfile201808010.dockerfile']

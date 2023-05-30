@@ -1,0 +1,3 @@
+python
+3.8.6-slim
+['jumpserver__Dockerfile202012030.dockerfile', 'jumpserver__Dockerfile202012080.dockerfile', 'jumpserver__Dockerfile202012110.dockerfile', 'jumpserver__Dockerfile202103110.dockerfile', 'jumpserver__Dockerfile202109060.dockerfile', 'jumpserver__Dockerfile202109090.dockerfile', 'jumpserver__Dockerfile202109160.dockerfile', 'jumpserver__Dockerfile202109170.dockerfile', 'jumpserver__Dockerfile202109230.dockerfile', 'jumpserver__Dockerfile202109240.dockerfile', 'jumpserver__Dockerfile202109270.dockerfile', 'jumpserver__Dockerfile202109271.dockerfile', 'jumpserver__Dockerfile202109280.dockerfile', 'jumpserver__Dockerfile202110140.dockerfile', 'jumpserver__Dockerfile202110260.dockerfile', 'jumpserver__Dockerfile202112060.dockerfile']

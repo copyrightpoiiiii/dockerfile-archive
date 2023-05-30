@@ -1,0 +1,3 @@
+node
+${IMAGE_TAG}
+['backstage_contrib_docker_devops_Dockerfile202104030.dockerfile', 'backstage_contrib_docker_devops_Dockerfile202104050.dockerfile', 'backstage_contrib_docker_devops_Dockerfile202202140.dockerfile', 'backstage_contrib_docker_devops_Dockerfile202202141.dockerfile']

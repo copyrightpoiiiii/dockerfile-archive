@@ -1,0 +1,3 @@
+rust
+nightly
+['blog_os_docker_Dockerfile201712100.dockerfile', 'redox_docker_Dockerfile201709030.dockerfile', 'redox_docker_Dockerfile201709031.dockerfile', 'redox_docker_Dockerfile201710250.dockerfile', 'redox_docker_Dockerfile201801090.dockerfile', 'redox_docker_Dockerfile201810280.dockerfile']

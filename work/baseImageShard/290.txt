@@ -1,0 +1,3 @@
+node
+10-buster-slim
+['etherpad-lite__Dockerfile201911090.dockerfile', 'etherpad-lite__Dockerfile201911091.dockerfile', 'etherpad-lite__Dockerfile201912030.dockerfile', 'etherpad-lite__Dockerfile202004080.dockerfile', 'etherpad-lite__Dockerfile202004190.dockerfile', 'etherpad-lite__Dockerfile202006020.dockerfile', 'etherpad-lite__Dockerfile202006080.dockerfile', 'etherpad-lite__Dockerfile202010060.dockerfile', 'etherpad-lite__Dockerfile202102060.dockerfile', 'etherpad-lite__Dockerfile202102160.dockerfile', 'etherpad-lite__Dockerfile202102180.dockerfile']

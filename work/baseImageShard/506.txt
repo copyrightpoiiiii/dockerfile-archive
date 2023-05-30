@@ -1,0 +1,3 @@
+ubuntu
+20.10
+['etcd_tests_Dockerfile202101300.dockerfile', 'quine-relay__Dockerfile202012280.dockerfile', 'quine-relay__Dockerfile202012281.dockerfile', 'quine-relay__Dockerfile202104250.dockerfile', 'quine-relay__Dockerfile202111031.dockerfile', 'serenity_Toolchain_Dockerfile202012130.dockerfile']

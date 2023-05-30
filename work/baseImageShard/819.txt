@@ -1,0 +1,3 @@
+archlinux
+ce7ccce2c458b875f66a0e33d492ccc2f5495dbf21a7fc9acd261f8f980d4fd5
+['diem_docker_ci_arch_Dockerfile202008290.dockerfile', 'diem_docker_ci_arch_Dockerfile202009090.dockerfile', 'diem_docker_ci_arch_Dockerfile202009270.dockerfile']

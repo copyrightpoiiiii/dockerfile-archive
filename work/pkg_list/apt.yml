@@ -1,0 +1,54 @@
+command:
+  debug: true
+  prefix: SC-APT-GET
+  providerFor:
+    - apt
+  optionsAll: &optionsAll
+    booleans:
+      - -y, --yes
+      - -h, --help
+      - -v, --version
+      - --purge
+      - --auto-remove
+      - --autoremove
+      - --force-yes
+      - --no-install-recommends
+    paths:
+      - -o, --option
+      - -C, --config
+    counts:
+      - -q, --quiet
+  scenarios:
+    - cmd: $0 install [packages...]
+      options: *optionsAll
+      name: SC-APT-GET-INSTALL
+    - cmd: $0 remove [packages...]
+      options: *optionsAll
+      name: SC-APT-GET-REMOVE
+    - cmd: $0 clean
+      options: *optionsAll
+      name: SC-APT-GET-CLEAN
+    - cmd: $0 autoclean
+      options: *optionsAll
+      name: SC-APT-GET-AUTO-CLEAN
+    - cmd: $0 autoremove [packages...]
+      options: *optionsAll
+      name: SC-APT-GET-AUTO-REMOVE
+    - cmd: $0 update
+      options: *optionsAll
+      name: SC-APT-GET-UPDATE
+    - cmd: $0 upgrade [packages...]
+      options: *optionsAll
+      name: SC-APT-GET-UPGRADE
+    - cmd: $0 search <package>
+      options: *optionsAll
+      name: SC-APT-CACHE-SEARCH
+    - cmd: $0 show <package>
+      options: *optionsAll
+      name: SC-APT-CACHE-SHOW
+    - cmd: $0 list
+      options: *optionsAll
+      name: SC-APT-LIST-PKG
+    - cmd: $0 full-upgrade
+      options: *optionsAll
+      name: SC-APT-GET-FULL-UPGRADE

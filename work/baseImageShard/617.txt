@@ -1,0 +1,3 @@
+ubuntu
+focal-20220316
+['kubespray__Dockerfile202203190.dockerfile', 'kubespray__Dockerfile202204130.dockerfile', 'kubespray__Dockerfile202205300.dockerfile', 'spring-boot_ci_images_ci-image_Dockerfile202203240.dockerfile', 'spring-boot_ci_images_ci-image_Dockerfile202203241.dockerfile']

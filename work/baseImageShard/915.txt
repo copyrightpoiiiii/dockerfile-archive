@@ -1,0 +1,3 @@
+server
+2017-CU18-ubuntu-16.04
+['server_util_MsSql_Dockerfile202001230.dockerfile', 'server_util_MsSql_Dockerfile202012080.dockerfile', 'server_util_MsSql_Dockerfile202012210.dockerfile']

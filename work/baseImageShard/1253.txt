@@ -1,0 +1,3 @@
+qmk_cli
+latest
+['qmk_firmware__Dockerfile202108300.dockerfile', 'qmk_firmware_util_vagrant_Dockerfile202108300.dockerfile']

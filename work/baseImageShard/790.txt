@@ -1,0 +1,3 @@
+fedora
+34
+['asciinema_tests_distros_Dockerfile.fedora202111050.dockerfile', 'asciinema_tests_distros_Dockerfile.fedora202111051.dockerfile', 'asciinema_tests_distros_Dockerfile.fedora202202140.dockerfile']

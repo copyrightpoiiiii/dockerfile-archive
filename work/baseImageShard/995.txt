@@ -1,0 +1,3 @@
+apollo
+cyber-x86_64-18.04-20200726_2005
+['apollo_docker_build_dev.x86_64.dockerfile202007270.dockerfile', 'apollo_docker_build_dev.x86_64.dockerfile202007300.dockerfile']

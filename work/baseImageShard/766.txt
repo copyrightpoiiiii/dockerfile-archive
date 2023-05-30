@@ -1,0 +1,3 @@
+web-vault@sha256
+dc94d303def3583af08816e91803f1c42107645612440f474f553f0cb0f97459
+['vaultwarden_docker_amd64_Dockerfile202110190.dockerfile', 'vaultwarden_docker_arm64_Dockerfile202110190.dockerfile', 'vaultwarden_docker_armv6_Dockerfile202110190.dockerfile', 'vaultwarden_docker_armv7_Dockerfile202110190.dockerfile']

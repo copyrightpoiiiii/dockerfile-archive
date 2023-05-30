@@ -1,0 +1,3 @@
+golang
+1.10.0
+['gitleaks__Dockerfile201802230.dockerfile', 'gitleaks__Dockerfile201802231.dockerfile', 'gitleaks__Dockerfile201802280.dockerfile']

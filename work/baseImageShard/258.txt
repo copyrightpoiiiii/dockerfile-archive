@@ -1,0 +1,3 @@
+ray
+${RAY_DOCKER_VERSION}-gpu
+['horovod_docker_horovod-ray_Dockerfile202105220.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202105240.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202106120.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202201180.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202202030.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202203020.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202203021.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202203230.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202204300.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202206010.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202207300.dockerfile', 'horovod_docker_horovod-ray_Dockerfile202210100.dockerfile']

@@ -1,0 +1,3 @@
+node
+14.17.0-buster
+['ToolJet_docker_production202107310.dockerfile', 'ToolJet_docker_server202107311.dockerfile', 'ToolJet_docker_server202108010.dockerfile', 'ToolJet_docker_server202108060.dockerfile']

@@ -1,0 +1,21 @@
+command:
+  providerFor:
+    - touch
+  prefix: SC-TOUCH
+  options: &options
+    booleans:
+      - -a
+      - -c, --no-create
+      - -f
+      - -h, --no-dereference
+      - -m
+    strings:
+      - -d, --date
+      - -t
+      - --time
+    paths:
+      - -r, --reference
+  scenarios:
+    - cmd: $0 [FILE...]
+      options: *options
+      name: SC-TOUCH

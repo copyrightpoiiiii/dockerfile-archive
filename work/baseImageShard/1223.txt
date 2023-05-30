@@ -1,0 +1,3 @@
+eclipse-temurin
+18
+['microservices-demo_src_adservice_Dockerfile202210030.dockerfile', 'microservices-demo_src_adservice_Dockerfile202210190.dockerfile']

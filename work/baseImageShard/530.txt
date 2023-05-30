@@ -1,0 +1,3 @@
+$BUILD_IMAGE
+latest
+['loki_clients_cmd_docker-driver_Dockerfile202104200.dockerfile', 'loki_clients_cmd_docker-driver_Dockerfile202110150.dockerfile', 'loki_clients_cmd_docker-driver_Dockerfile202204060.dockerfile', 'loki_clients_cmd_docker-driver_Dockerfile202208130.dockerfile', 'loki_clients_cmd_docker-driver_Dockerfile202208270.dockerfile', 'loki_clients_cmd_docker-driver_Dockerfile202210050.dockerfile']

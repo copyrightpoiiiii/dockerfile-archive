@@ -1,0 +1,3 @@
+bun-base
+latest
+['bun__Dockerfile202206240.dockerfile', 'bun__Dockerfile202207050.dockerfile', 'bun__Dockerfile202207051.dockerfile', 'bun__Dockerfile202207221.dockerfile']

@@ -1,0 +1,3 @@
+node
+12.13.0-alpine
+['n8n_docker_images_n8n_Dockerfile201910280.dockerfile', 'n8n_docker_images_n8n_Dockerfile201910281.dockerfile', 'n8n_docker_images_n8n_Dockerfile201910290.dockerfile', 'n8n_docker_images_n8n_Dockerfile202001050.dockerfile', 'n8n_docker_images_n8n_Dockerfile202002060.dockerfile', 'trilium__Dockerfile201910250.dockerfile']

@@ -1,0 +1,3 @@
+${BASE_IMAGE_GPU}
+latest
+['apollo_docker_build_dev.aarch64.dockerfile202008040.dockerfile', 'apollo_docker_build_dev.aarch64.dockerfile202008120.dockerfile', 'apollo_docker_build_dev.aarch64.dockerfile202008250.dockerfile', 'apollo_docker_build_dev.aarch64.dockerfile202008260.dockerfile', 'apollo_docker_build_dev.aarch64.dockerfile202008310.dockerfile', 'apollo_docker_build_dev.aarch64.dockerfile202009150.dockerfile', 'apollo_docker_build_dev.aarch64.dockerfile202010190.dockerfile']

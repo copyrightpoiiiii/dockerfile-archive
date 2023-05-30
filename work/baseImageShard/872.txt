@@ -1,0 +1,3 @@
+${E2E_BASE_IMAGE}
+latest
+['ingress-nginx_test_e2e-image_Dockerfile202207090.dockerfile', 'ingress-nginx_test_e2e-image_Dockerfile202207230.dockerfile', 'ingress-nginx_test_e2e-image_Dockerfile202208180.dockerfile']

@@ -1,0 +1,3 @@
+node
+6.9-slim
+['mongo-express-docker__Dockerfile201610190.dockerfile', 'mongo-express-docker__Dockerfile201611130.dockerfile', 'mongo-express-docker__Dockerfile201612230.dockerfile', 'mongo-express-docker__Dockerfile201612280.dockerfile', 'mongo-express-docker__Dockerfile201702070.dockerfile', 'mongo-express-docker__Dockerfile201702270.dockerfile', 'mongo-express-docker__Dockerfile201705310.dockerfile', 'mongo-express-docker__Dockerfile201709031.dockerfile']

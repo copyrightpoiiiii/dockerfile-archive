@@ -1,0 +1,3 @@
+windowsservercore
+1607
+['CNTK_Tests_Install_windows_Dockerfile201908010.dockerfile', 'CNTK_Tests_Install_windows_Dockerfile201908060.dockerfile']

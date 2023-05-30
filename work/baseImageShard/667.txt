@@ -1,0 +1,3 @@
+node
+16.14.0
+['appsmith_app_rts_Dockerfile202206010.dockerfile', 'appsmith_app_rts_Dockerfile202208150.dockerfile', 'appsmith_app_rts_Dockerfile202209120.dockerfile', 'awx_awx_ui_Dockerfile202202150.dockerfile']

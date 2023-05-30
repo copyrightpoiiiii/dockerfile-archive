@@ -1,0 +1,3 @@
+vim
+20
+['ale__Dockerfile202108050.dockerfile', 'ale__Dockerfile202108080.dockerfile', 'ale__Dockerfile202204010.dockerfile', 'ale__Dockerfile202204200.dockerfile', 'ale__Dockerfile202206290.dockerfile', 'ale__Dockerfile202210040.dockerfile']

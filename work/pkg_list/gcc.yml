@@ -1,0 +1,30 @@
+command:
+  providerFor:
+    - gcc
+    - g++
+    - clang
+  prefix: SC-GCC
+  options: &options
+    booleans:
+      - c
+      - -S
+      - -E
+      - -g
+      - -pg
+      - -pedantic
+    strings:
+      - -std
+      - -O
+      - -W
+      - -D
+      - -U
+      - -f
+      - -m
+    paths:
+      - -l
+      - -L
+      - -o
+  scenarios:
+    - cmd: $0 [infile...]
+      options: *options
+      name: SC-GCC

@@ -1,0 +1,3 @@
+python
+3.8.7-alpine3.12
+['mkdocs-material__Dockerfile202101310.dockerfile', 'mkdocs-material__Dockerfile202102140.dockerfile', 'mkdocs-material__Dockerfile202102270.dockerfile', 'mkdocs-material__Dockerfile202103130.dockerfile', 'mkdocs-material__Dockerfile202103140.dockerfile', 'mkdocs-material__Dockerfile202103150.dockerfile']

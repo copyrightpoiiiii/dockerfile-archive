@@ -1,0 +1,3 @@
+x86_64-unknown-linux-gnu
+main
+['vector_scripts_cross_x86_64-unknown-linux-gnu.dockerfile202206140.dockerfile', 'vector_scripts_cross_x86_64-unknown-linux-gnu.dockerfile202206160.dockerfile']

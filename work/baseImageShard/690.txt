@@ -1,0 +1,3 @@
+consul
+${CONSUL_IMAGE_VERSION}
+['consul_build-support_docker_Consul-Dev-Multiarch.dockerfile202208300.dockerfile', 'consul_build-support_docker_Consul-Dev.dockerfile201904130.dockerfile', 'consul_build-support_docker_Consul-Dev.dockerfile201904180.dockerfile', 'consul_build-support_docker_Consul-Dev.dockerfile202104100.dockerfile']

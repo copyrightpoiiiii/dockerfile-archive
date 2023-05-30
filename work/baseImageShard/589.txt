@@ -1,0 +1,3 @@
+tensorrt
+${TENSORRT_VERSION}-py3
+['clip-as-service_Dockerfiles_tensorrt202205110.dockerfile', 'clip-as-service_Dockerfiles_tensorrt202205200.dockerfile', 'clip-as-service_Dockerfiles_tensorrt202206150.dockerfile', 'clip-as-service_Dockerfiles_tensorrt202206200.dockerfile', 'clip-as-service_Dockerfiles_tensorrt202207290.dockerfile']

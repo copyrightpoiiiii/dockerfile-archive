@@ -1,0 +1,15 @@
+command:
+  providerFor:
+    - export
+  prefix: SC-EXPORT
+  options: &options
+    booleans:
+      - -p
+  scenarios:
+    - cmd: $0 <target>
+      options: {}
+      name: SC-EXPORT
+    - cmd: $0
+      mustHave:
+        - -p
+      name: SC-EXPORT-OUTPUT

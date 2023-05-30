@@ -50,9 +50,9 @@ COPY entrypoint.sh /entrypoint.sh
 
 # Expose Aerospike ports
 #
-#   3000 ¨C service port, for client connections
-#   3001 ¨C fabric port, for cluster communication
-#   3002 ¨C mesh port, for cluster heartbeat
+#   3000 service port, for client connections
+#   3001 fabric port, for cluster communication
+#   3002 mesh port, for cluster heartbeat
 #
 EXPOSE 3000 3001 3002
 

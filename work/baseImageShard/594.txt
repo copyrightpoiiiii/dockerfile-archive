@@ -1,0 +1,3 @@
+node
+14.20.0-bullseye-slim
+['cube.js_packages_cubejs-docker_latest-debian-jdk202208190.dockerfile', 'cube.js_packages_cubejs-docker_latest-debian-jdk202209090.dockerfile', 'cube.js_packages_cubejs-docker_latest-debian-jdk202209140.dockerfile', 'cube.js_packages_cubejs-docker_latest202208190.dockerfile', 'cube.js_packages_cubejs-docker_latest202209090.dockerfile']

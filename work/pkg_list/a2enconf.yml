@@ -1,0 +1,18 @@
+command:
+  providerFor:
+    - a2enconf
+  prefix: SC-A2ENCONF
+  options: &options
+    booleans:
+      - -q, --quiet
+      - -m, --maintmode
+      - -p, --purge
+  scenarios:
+    - cmd: $0 [configuration...]
+      mustHave:
+        - -p, --purge
+      options: *options
+      name: SC-A2ENCONF-PURGE
+    - cmd: $0 [configuration...]
+      options: *options
+      name: SC-A2ENCONF-ADD

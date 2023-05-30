@@ -1,0 +1,3 @@
+phantomjs
+latest
+['pyspider__Dockerfile201504110.dockerfile', 'pyspider__Dockerfile201504111.dockerfile', 'pyspider__Dockerfile201504112.dockerfile', 'pyspider__Dockerfile201504113.dockerfile', 'pyspider__Dockerfile201505240.dockerfile', 'pyspider__Dockerfile201505250.dockerfile', 'pyspider__Dockerfile201505270.dockerfile', 'pyspider__Dockerfile201506040.dockerfile', 'pyspider__Dockerfile201506041.dockerfile', 'pyspider__Dockerfile201509300.dockerfile', 'pyspider__Dockerfile201601220.dockerfile', 'pyspider__Dockerfile201604060.dockerfile', 'pyspider__Dockerfile201604070.dockerfile', 'pyspider__Dockerfile201604150.dockerfile', 'pyspider__Dockerfile201605250.dockerfile', 'pyspider__Dockerfile201701170.dockerfile']

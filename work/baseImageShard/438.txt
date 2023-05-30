@@ -1,0 +1,3 @@
+elixir
+1.11.3-erlang-23.2.1-alpine-3.12.1
+['analytics__Dockerfile202101130.dockerfile', 'analytics__Dockerfile202102050.dockerfile', 'analytics__Dockerfile202104130.dockerfile', 'analytics__Dockerfile202104230.dockerfile', 'analytics__Dockerfile202105120.dockerfile', 'analytics__Dockerfile202108230.dockerfile', 'analytics__Dockerfile202108250.dockerfile']

@@ -1,0 +1,3 @@
+node
+14.18.3-bullseye-slim
+['Rocket.Chat_apps_meteor_.docker-mongo_Dockerfile202204060.dockerfile', 'Rocket.Chat_apps_meteor_.docker_Dockerfile202204060.dockerfile']

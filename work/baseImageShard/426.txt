@@ -1,0 +1,3 @@
+mssql-server-linux
+2017-CU4
+['server_util_MsSql_Dockerfile201802220.dockerfile', 'server_util_MsSql_Dockerfile201803240.dockerfile', 'server_util_MsSql_Dockerfile201803241.dockerfile', 'server_util_MsSql_Dockerfile201803260.dockerfile', 'server_util_MsSql_Dockerfile201803270.dockerfile', 'server_util_MsSql_Dockerfile201803271.dockerfile', 'server_util_MsSql_Dockerfile201803272.dockerfile', 'server_util_MsSql_Dockerfile201803281.dockerfile']

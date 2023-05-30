@@ -1,0 +1,3 @@
+anaconda3
+2019.03
+['handson-ml2_docker_Dockerfile201906040.dockerfile', 'handson-ml_docker_Dockerfile201906040.dockerfile', 'handson-ml_docker_Dockerfile201906041.dockerfile', 'handson-ml_docker_Dockerfile201906042.dockerfile', 'handson-ml_docker_Dockerfile201909130.dockerfile']

@@ -1,0 +1,3 @@
+micromamba
+0.14.0
+['jupyterlab__Dockerfile202106300.dockerfile', 'jupyterlab__Dockerfile202107060.dockerfile', 'jupyterlab__Dockerfile202107290.dockerfile', 'jupyterlab__Dockerfile202108280.dockerfile', 'jupyterlab__Dockerfile202203290.dockerfile', 'jupyterlab__Dockerfile202208010.dockerfile']

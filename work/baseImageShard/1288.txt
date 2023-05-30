@@ -1,0 +1,3 @@
+sdk
+2.2
+['swagger-codegen_samples_server_petstore_aspnetcore-v2.2-interface-controller_src_IO.Swagger_Dockerfile202005150.dockerfile', 'swagger-codegen_samples_server_petstore_aspnetcore-v2.2_src_IO.Swagger_Dockerfile202005150.dockerfile']

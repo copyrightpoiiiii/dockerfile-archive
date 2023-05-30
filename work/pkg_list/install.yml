@@ -1,0 +1,45 @@
+command:
+  providerFor:
+    - install
+  prefix: SC-INSTALL
+  options: &options
+    booleans:
+      - -b
+      - -c
+      - -C, --compare
+      - -d, --directory
+      - -D
+      - -p, --preserve-timestamps
+      - -s, --strip
+      - -T, --no-target-directory
+      - -v, --verbose
+      - -P, --preserve-context
+      - --help
+      - --version
+    strings:
+      - -g, --group
+      - -m, --mode
+      - -o, --owner
+      - --strip-program
+      - -S, --suffix
+      - -Z, --context
+    paths:
+      - --backup
+      - -t, --target-directory
+  scenarios:
+    - cmd: $0 [SOURCE...] <DEST>
+      options: *options
+      name: SC-INSTALL
+    - cmd: $0 [SOURCE...] <DEST>
+      options: *options
+      name: SC-INSTALL
+    - cmd: $0 <DEST> [SOURCE...] 
+      mustHave:
+        - -t
+      options: *options
+      name: SC-INSTALL
+    - cmd: $0 [DEST...] 
+      mustHave:
+        - -d
+      options: *options
+      name: SC-INSTALL

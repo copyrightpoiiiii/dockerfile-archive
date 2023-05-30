@@ -1,0 +1,3 @@
+base
+v1.0.4
+['stf__Dockerfile201509280.dockerfile', 'stf__Dockerfile201510101.dockerfile', 'stf__Dockerfile201510102.dockerfile']

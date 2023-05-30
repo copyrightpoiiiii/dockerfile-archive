@@ -1,0 +1,3 @@
+golang
+1.19-alpine
+['caddy-docker_2.6_builder_Dockerfile202209060.dockerfile', 'caddy-docker_2.6_builder_Dockerfile202209180.dockerfile', 'caddy-docker_2.6_builder_Dockerfile202209210.dockerfile', 'caddy-docker_2.6_builder_Dockerfile202209220.dockerfile', 'caddy-docker_2.6_builder_Dockerfile202210140.dockerfile', 'golangci-lint_build_alpine202208210.dockerfile', 'hugo__Dockerfile202210200.dockerfile', 'k6__Dockerfile202209280.dockerfile', 'traefik__build202208090.dockerfile', 'traefik__build202208310.dockerfile', 'traefik__build202210050.dockerfile', 'traefik__build202210120.dockerfile']

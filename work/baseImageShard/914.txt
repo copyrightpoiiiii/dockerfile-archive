@@ -1,0 +1,3 @@
+mssql-server-linux
+latest
+['server_util_MsSql_Dockerfile201708180.dockerfile', 'server_util_MsSql_Dockerfile201708190.dockerfile', 'server_util_MsSql_Dockerfile201708210.dockerfile']

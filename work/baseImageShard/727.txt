@@ -1,0 +1,3 @@
+postgis
+latest
+['laradock_postgres-postgis_Dockerfile201611080.dockerfile', 'laradock_postgres-postgis_Dockerfile201703260.dockerfile', 'laradock_postgres-postgis_Dockerfile201803160.dockerfile', 'laradock_postgres-postgis_Dockerfile202103280.dockerfile']

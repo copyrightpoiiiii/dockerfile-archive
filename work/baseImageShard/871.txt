@@ -1,0 +1,3 @@
+alpine
+3.14.4
+['ingress-nginx_images_nginx_rootfs_Dockerfile202203260.dockerfile', 'ingress-nginx_images_nginx_rootfs_Dockerfile202203310.dockerfile', 'ingress-nginx_images_opentelemetry_rootfs_Dockerfile202203290.dockerfile']

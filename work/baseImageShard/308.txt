@@ -1,0 +1,3 @@
+node
+8.11
+['Vim_build_Dockerfile201803310.dockerfile', 'Vim_build_Dockerfile201810200.dockerfile', 'Vim_build_Dockerfile201810270.dockerfile', 'gitlabhq_vendor_Dockerfile_Node201808080.dockerfile', 'outline__Dockerfile201805130.dockerfile', 'outline__Dockerfile201807010.dockerfile', 'outline__Dockerfile201808140.dockerfile', 'outline__Dockerfile201903310.dockerfile', 'outline__Dockerfile201905200.dockerfile', 'outline__Dockerfile201907300.dockerfile']

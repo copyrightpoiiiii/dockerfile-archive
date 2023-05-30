@@ -1,0 +1,3 @@
+gremlin-server
+latest
+['ent_entc_integration_compose_gremlin-server_Dockerfile201906160.dockerfile', 'ent_entc_integration_compose_gremlin-server_Dockerfile201908270.dockerfile']

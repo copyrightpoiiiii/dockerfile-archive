@@ -1,0 +1,3 @@
+buildpack-deps
+bionic-curl
+['electron-builder_docker_base_Dockerfile201911270.dockerfile', 'electron-builder_docker_base_Dockerfile201911271.dockerfile']

@@ -1,0 +1,3 @@
+kibana
+5.2.1
+['docker-elk_kibana_Dockerfile201703010.dockerfile', 'docker-elk_kibana_Dockerfile201703150.dockerfile']

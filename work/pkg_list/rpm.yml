@@ -1,0 +1,157 @@
+command:
+  providerFor:
+    - rpm
+  prefix: SC-RPM
+  optionsAll: &optionsAll
+    booleans:
+      - --quiet
+      - -v
+      - -vv
+    strings:
+      - -D. --define
+      - -E, --eval
+      - --pipe
+    paths:
+      - --dbpath
+      - --root
+    arrays:
+      - --rcfile
+  optionsInstall: &optionsInstall
+    booleans:
+      - --aid
+      - --allfiles
+      - --badreloc
+      - --excludedocs
+      - --force
+      - -h,--hash
+      - --ignoresize
+      - --ignorearch
+      - --ignoreos
+      - --includedocs
+      - --justdb
+      - --nodeps
+      - --nodigest
+      - --nosignature
+      - --nosuggest
+      - --noorder
+      - --noscripts
+      - --notriggers
+      - --oldpackage
+      - --percent
+      - --replacefiles
+      - --replacepkgs
+      - --test
+    strings:
+      - --relocate
+    paths:
+      - --excludepath
+      - --prefix
+  optionsVerify: &optionsVerify
+    booleans:
+      - --nodeps
+      - --nofiles
+      - --noscripts
+      - --nodigest
+      - --nosignature
+      - --nolinkto
+      - --nofiledigest
+      - --nosize
+      - --nouser
+      - --nogroup
+      - --nomtime
+      - --nomode
+      - --nordev
+      - --nocaps
+  optionsQuery: &optionsQuery
+    booleans:
+      - --changelog
+      - -c, --configfiles
+      - -d, --docfiles
+      - --dump
+      - --filesbypkg
+      - -i, --info
+      - --last
+      - -l, --list
+      - --provides
+      - -R, --requires
+      - --scripts
+      - -s, --state
+      - --triggers, --triggerscripts
+    strings:
+      - --qf, --queryformat
+  optionsSelect: &optionsSelect
+    booleans:
+      - -a,--all
+    strings:
+      - -g, --group
+      - --fileid
+      - --hdrid
+      - --pkgid
+      - --tid
+      - --querybynumber
+      - --triggeredby
+      - --whatprovides
+      - --whatrequires
+    paths:
+      - -f, --file
+      - -p, --package
+  scenarios:
+    - cmd: $0 <PACKAGE>
+      mustHave:
+        - -q, --query
+      options:
+        merge: [ *optionsAll, *optionsQuery, *optionsSelect ]
+      name: SC-RPM-QUERY
+    - cmd: $0 <PACKAGE>
+      mustHave:
+        - -V, --verify
+      options:
+        merge: [ *optionsAll, *optionsVerify, *optionsSelect ]
+      name: SC-RPM-VERIFY
+    - cmd: $0 [PUBKEY...]
+      mustHave:
+        - --import
+      options: {}
+      name: SC-RPM-IMPORT
+    - cmd: $0 [PACKAGE...]
+      mustHave:
+        - -K
+        - --checksig
+      options:
+        booleans:
+          - --nosignature
+          - --nodigest
+      name: SC-RPM-VERIFY
+    - cmd: $0 [PACKAGE...]
+      mustHave:
+        - -i, --install
+      options:
+        merge: [ *optionsAll, *optionsInstall ]
+      name: SC-RPM-INSTALL
+    - cmd: $0 [PACKAGE...]
+      mustHave:
+        - -U, --upgrade
+      options:
+        merge: [ *optionsAll, *optionsInstall ]
+      name: SC-RPM-UPGRADE
+    - cmd: $0 [PACKAGE...]
+      mustHave:
+        - -F, --freshen
+      options:
+        merge: [ *optionsAll, *optionsInstall ]
+      name: SC-RPM-FRESH
+    - cmd: $0 [PACKAGE...]
+      mustHave:
+        - -e, --erase
+      options:
+        booleans:
+          - --allmatches
+          - --nodeps
+          - --noscripts
+          - --notriggers
+          - --test
+      name: SC-RPM-ERASE
+    - cmd: $0 [PACKAGE...]
+      options:
+        merge: [ *optionsAll, *optionsInstall, *optionsQuery, *optionsVerify, *optionsSelect ]
+      name: SC-RPM

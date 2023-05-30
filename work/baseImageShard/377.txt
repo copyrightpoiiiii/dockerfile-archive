@@ -1,0 +1,3 @@
+node
+16.17.1
+['overleaf_services_chat_Dockerfile202210040.dockerfile', 'overleaf_services_clsi_Dockerfile202210040.dockerfile', 'overleaf_services_contacts_Dockerfile202210040.dockerfile', 'overleaf_services_docstore_Dockerfile202210040.dockerfile', 'overleaf_services_document-updater_Dockerfile202210040.dockerfile', 'overleaf_services_filestore_Dockerfile202210040.dockerfile', 'overleaf_services_notifications_Dockerfile202210040.dockerfile', 'overleaf_services_real-time_Dockerfile202210040.dockerfile', 'overleaf_services_web_scripts_translations_Dockerfile202210040.dockerfile']

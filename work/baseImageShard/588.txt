@@ -1,0 +1,3 @@
+ruby
+2.7.1
+['cheatsheets__Dockerfile202006140.dockerfile', 'sanic_examples_Dockerfile201610100.dockerfile', 'zipline__Dockerfile201705240.dockerfile', 'zipline__Dockerfile201707030.dockerfile', 'zipline__Dockerfile201911190.dockerfile']

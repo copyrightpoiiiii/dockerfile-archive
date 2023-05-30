@@ -1,0 +1,3 @@
+eclipse-temurin
+11-jdk-alpine
+['docker-gradle_jdk11-alpine_Dockerfile202110310.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202111110.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202111150.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202112020.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202112150.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202112220.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202202090.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202203100.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202204010.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202207150.dockerfile', 'docker-gradle_jdk11-alpine_Dockerfile202208070.dockerfile']

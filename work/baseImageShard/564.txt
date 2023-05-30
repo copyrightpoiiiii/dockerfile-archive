@@ -1,0 +1,3 @@
+python
+alpine
+['YYeTsBot__Dockerfile202006200.dockerfile', 'YYeTsBot__Dockerfile202009100.dockerfile', 'YYeTsBot__Dockerfile202011050.dockerfile', 'YYeTsBot__Dockerfile202012230.dockerfile', 'YYeTsBot__Dockerfile202012240.dockerfile']

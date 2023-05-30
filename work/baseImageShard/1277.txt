@@ -1,0 +1,3 @@
+cc
+latest
+['spacedrive_apps_server_Dockerfile202204231.dockerfile', 'surrealdb__Dockerfile202207130.dockerfile']

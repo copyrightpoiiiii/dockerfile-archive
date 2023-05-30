@@ -1,0 +1,3 @@
+node
+16.14.2-alpine
+['trilium__Dockerfile202204100.dockerfile', 'trilium__Dockerfile202205210.dockerfile', 'trilium__Dockerfile202205220.dockerfile', 'verdaccio__Dockerfile202203210.dockerfile']

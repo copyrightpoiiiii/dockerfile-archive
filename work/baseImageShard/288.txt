@@ -1,0 +1,3 @@
+openjdk
+$JDK_VERSION
+['druid_integration-tests-ex_image_docker_Dockerfile202208240.dockerfile', 'druid_integration-tests-ex_image_docker_Dockerfile202208300.dockerfile', 'druid_integration-tests_docker_Dockerfile202102010.dockerfile', 'druid_integration-tests_docker_Dockerfile202103120.dockerfile', 'druid_integration-tests_docker_Dockerfile202104240.dockerfile', 'druid_integration-tests_docker_Dockerfile202105180.dockerfile', 'druid_integration-tests_docker_Dockerfile202105260.dockerfile', 'druid_integration-tests_docker_Dockerfile202107090.dockerfile', 'druid_integration-tests_docker_Dockerfile202108140.dockerfile', 'druid_integration-tests_docker_Dockerfile202108310.dockerfile', 'druid_integration-tests_docker_Dockerfile202201060.dockerfile']

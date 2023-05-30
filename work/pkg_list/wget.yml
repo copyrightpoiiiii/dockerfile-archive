@@ -1,0 +1,55 @@
+command:
+  providerFor:
+    - wget
+  prefix: SC-WGET
+  options: &options
+    booleans:
+      - -d, --debug
+      - -q, --quiet
+      - -v, --verbose
+      - --span-hosts
+      - --no-check-certificate
+      - -N, --timestamping
+      - -c, --continue
+      - --nc, --no-clobber
+      - --nv, --no-verbose
+      - --content-disposition
+      - -nd, --no-directories
+      - -x, --force-directories
+      - -nH, --no-host-directories
+      - -r, --recursive
+      - -V, --version
+      - -b, --background
+      - -F, --force-html
+      - -S, --server-response
+      - --spider
+      - -4, --inet4-only
+      - -6, --inet6-only
+      - --no-cache
+    strings:
+      - --progress
+      - -U, --user-agent
+      - -B, --base
+      - -t, --tries, --retry-connrefused
+      - -T, --timeout
+      - --dns-timeout
+      - --connect-timeout
+      - --read-timeout
+      - -w, --wait
+      - --waitretry
+      - --random-wait
+      - --no-proxy
+      - -Q, --quota
+      - -P, --directory-prefix=PREFIX
+      - --http-user
+      - --http-user
+    paths:
+      - -O, --output-document
+      - -a, --append-output 
+      - -o, --output-file
+      - -i, --input-file
+  scenarios:
+    - cmd: $0 <url>
+      options: *options
+      name: SC-WGET
+      fixBadLongNames: [ '-nc', '-nv' ]

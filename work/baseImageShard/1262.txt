@@ -1,0 +1,3 @@
+cross
+x86_64-unknown-linux-musl
+['ripgrep_ci_docker_x86_64-unknown-linux-musl_Dockerfile202001110.dockerfile', 'ripgrep_ci_docker_x86_64-unknown-linux-musl_Dockerfile202002210.dockerfile']

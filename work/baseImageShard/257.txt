@@ -1,0 +1,3 @@
+debian
+8
+['grpc_tools_dockerfile_interoptest_grpc_interop_java_Dockerfile202108250.dockerfile', 'jq__Dockerfile201507100.dockerfile', 'jq__Dockerfile201509060.dockerfile', 'jq__Dockerfile201509061.dockerfile', 'jq__Dockerfile201509062.dockerfile', 'jq__Dockerfile201511180.dockerfile', 'jq__Dockerfile201702230.dockerfile', 'jq__Dockerfile201702240.dockerfile', 'jq__Dockerfile201902270.dockerfile', 'jq__Dockerfile201903293.dockerfile', 'jq__Dockerfile201903294.dockerfile', 'jq__Dockerfile201903295.dockerfile']

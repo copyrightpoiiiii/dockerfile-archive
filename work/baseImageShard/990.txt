@@ -1,0 +1,3 @@
+tooljet-ce
+latest
+['ToolJet_docker_try-tooljet202205310.dockerfile', 'ToolJet_docker_try-tooljet202208300.dockerfile']

@@ -1,0 +1,3 @@
+node-frontend
+10
+['full-stack-fastapi-postgresql_{{cookiecutter.project_slug}}_frontend_Dockerfile201902090.dockerfile', 'full-stack-fastapi-postgresql_{{cookiecutter.project_slug}}_frontend_Dockerfile201904120.dockerfile']

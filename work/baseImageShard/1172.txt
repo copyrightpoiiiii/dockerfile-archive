@@ -1,0 +1,3 @@
+grafana
+4.4.3
+['keycloak_testsuite_performance_monitoring_grafana_Dockerfile201709260.dockerfile', 'keycloak_testsuite_performance_monitoring_grafana_Dockerfile201711300.dockerfile']

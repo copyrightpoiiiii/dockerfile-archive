@@ -1,0 +1,3 @@
+kube-cross
+${KUBE_BUILD_IMAGE_CROSS_TAG}
+['kubernetes_build_build-image_Dockerfile202102140.dockerfile', 'kubernetes_build_build-image_Dockerfile202103110.dockerfile']

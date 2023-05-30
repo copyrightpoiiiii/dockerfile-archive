@@ -1,0 +1,3 @@
+vim-testbed
+10
+['SpaceVim_bundle_rust.vim_test_Dockerfile202204220.dockerfile', 'vimrc_sources_non_forked_rust.vim_test_Dockerfile201911170.dockerfile']

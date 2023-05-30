@@ -1,0 +1,3 @@
+cuda
+8.0-cudnn5-devel
+['CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201612070.dockerfile', 'CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201701110.dockerfile', 'CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201701111.dockerfile', 'CNTK_Tools_docker_CNTK-GPU-Image_Dockerfile201701190.dockerfile', 'face_recognition__Dockerfile201903052.dockerfile', 'incubator-mxnet_docker_Dockerfiles_Dockerfile.in.lib.gpu201703270.dockerfile', 'incubator-mxnet_docker_Dockerfiles_Dockerfile.in.lib.gpu201704190.dockerfile', 'incubator-mxnet_docker_Dockerfiles_Dockerfile.in.lib.gpu201902140.dockerfile', 'incubator-mxnet_docker_Dockerfiles_Dockerfile.in.lib.gpu202109280.dockerfile']

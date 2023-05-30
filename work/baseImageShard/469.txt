@@ -1,0 +1,3 @@
+node
+12.18.0
+['overleaf_services_filestore_Dockerfile202006030.dockerfile', 'overleaf_services_filestore_Dockerfile202008110.dockerfile', 'signoz_frontend_Dockerfile202107150.dockerfile', 'signoz_frontend_Dockerfile202202090.dockerfile', 'wp-calypso__Dockerfile202009150.dockerfile', 'wp-calypso__Dockerfile202009170.dockerfile', 'wp-calypso_packages_wp-babel-makepot_Dockerfile202008050.dockerfile']

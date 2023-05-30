@@ -1,0 +1,76 @@
+command:
+  providerFor:
+    - composer
+  prefix: SC-COMPOSER
+  options: &options
+    booleans:
+      - -h, --help
+      - -q, --quiet
+      - -V, --version
+      - --ansi
+      - --no-ansi
+      - -n, --no-interaction
+      - --profile
+      - --no-plugins
+      - --no-cache
+      - -v, -vv, -vvv, --verbose
+    paths:
+      - -d, --working-dir
+  scenarios:
+    - cmd: $0 about [argument...]
+      options: *options
+      name: SC-COMPOSER-ABOUT
+    - cmd: $0 archive [argument...]
+      options: *options
+      name: SC-COMPOSER-ARCHIVE
+    - cmd: $0 browse [argument...]
+      options: *options
+      name: SC-COMPOSER-BROWSE
+    - cmd: $0 check-platform-reqs [argument...]
+      options: *options
+      name: SC-COMPOSER-CHECK-PLATFORM-REQS
+    - cmd: $0 clear-cache [argument...]
+      options: *options
+      name: SC-COMPOSER-CLEAR-CACHE
+    - cmd: $0 config [argument...]
+      options: *options
+      name: SC-COMPOSER-CONFIG
+    - cmd: $0 create-project [argument...]
+      options: *options
+      name: SC-COMPOSER-CREATE-PROJECT
+    - cmd: $0 depends [argument...]
+      options: *options
+      name: SC-COMPOSER-DEPENDS
+    - cmd: $0 diagnose [argument...]
+      options: *options
+      name: SC-COMPOSER-DIAGNOSE
+    - cmd: $0 exec [argument...]
+      options: *options
+      name: SC-COMPOSER-EXEC
+    - cmd: $0 fund [argument...]
+      options: *options
+      name: SC-COMPOSER-FUND
+    - cmd: $0 init [argument...]
+      options: *options
+      name: SC-COMPOSER-INIT
+    - cmd: $0 install [argument...]
+      options: *options
+      name: SC-COMPOSER-INSTALL
+    - cmd: $0 list [argument...]
+      options: *options
+      name: SC-COMPOSER-LIST
+    - cmd: $0 remove [argument...]
+      options: *options
+      name: SC-COMPOSER-REMOVE
+    - cmd: $0 require [argument...]
+      options: *options
+      name: SC-COMPOSER-REQUIRE
+    - cmd: $0 run-script [argument...]
+      options: *options
+      name: SC-COMPOSER-RUN-SCRIPT
+    - cmd: $0 update [argument...]
+      options: *options
+      name: SC-COMPOSER-UPDATE
+    - cmd: $0 validate [argument...]
+      options: *options
+      name: SC-COMPOSER-VALIDATE

@@ -1,0 +1,3 @@
+golang
+1.16-buster
+['hydra_test_conformance_hydra_Dockerfile202103090.dockerfile', 'hydra_test_conformance_hydra_Dockerfile202109080.dockerfile']

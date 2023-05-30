@@ -1,0 +1,3 @@
+ruby
+2.6.2-alpine3.9
+['metasploit-framework__Dockerfile201903170.dockerfile', 'metasploit-framework__Dockerfile201909090.dockerfile', 'metasploit-framework__Dockerfile201909100.dockerfile']

@@ -1,0 +1,3 @@
+fedora
+35
+['asciinema_tests_distros_Dockerfile.fedora202202141.dockerfile', 'etcd_tests_functional_Dockerfile202201120.dockerfile', 'etcd_tests_functional_Dockerfile202201121.dockerfile', 'etcd_tests_functional_Dockerfile202202020.dockerfile', 'etcd_tests_functional_Dockerfile202203240.dockerfile', 'etcd_tests_functional_Dockerfile202209220.dockerfile', 'etcd_tests_functional_Dockerfile202210280.dockerfile', 'pi-hole_test__fedora_35202209300.dockerfile', 'pi-hole_test__fedora_35202210010.dockerfile']

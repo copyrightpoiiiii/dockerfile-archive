@@ -1,0 +1,3 @@
+golang
+1.14-alpine3.11
+['gitea__Dockerfile202003200.dockerfile', 'gitea__Dockerfile202005110.dockerfile', 'harbor_src_vendor_github.com_golang-migrate_migrate_v4_Dockerfile202006050.dockerfile', 'lazygit__Dockerfile202003040.dockerfile', 'lazygit__Dockerfile202007120.dockerfile', 'webrtc_e2e_Dockerfile202002280.dockerfile']

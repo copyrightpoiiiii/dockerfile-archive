@@ -1,0 +1,19 @@
+command:
+  providerFor:
+    - gradle
+  prefix: SC-GRADLE
+  options: &options
+    booleans:
+      - -a, --no-rebuild
+      - -a, --no-rebuild
+      - -m, --preserve-environment, -p
+      - -I
+    strings:
+      - -c, --command
+      - --session-command
+      - -s, --shell
+  scenarios:
+    - cmd: $0
+      options: *options
+      name: SC-SUDO
+      captureAfterFirstNonOption: args

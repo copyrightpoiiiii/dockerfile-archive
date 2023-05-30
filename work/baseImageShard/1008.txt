@@ -1,0 +1,3 @@
+node
+17-alpine
+['authelia_internal_suites_example_compose_duo-api_Dockerfile202110210.dockerfile', 'simple-icons__Dockerfile202111290.dockerfile']

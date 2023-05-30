@@ -1,0 +1,50 @@
+command:
+  prefix: SC-APT-MARK
+  providerFor:
+    - apt-mark
+  options: &options
+    booleans:
+      - -v, --version
+      - -h, --help
+    paths:
+      - -f
+  scenarios:
+    - cmd: $0 auto [pkgs...]
+      options: *options
+      name: SC-APT-MARK-AUTO
+    - cmd: $0 manual [pkgs...]
+      options: *options
+      name: SC-APT-MARK-MANUAL
+    - cmd: $0 showauto [pkgs...]
+      options: *options
+      name: SC-APT-MARK-SHOW-AUTO
+    - cmd: $0 showmanual [pkgs...]
+      options: *options
+      name: SC-APT-MARK-SHOW-MANUAL
+    - cmd: $0 hold [pkgs...]
+      options: {}
+      name: SC-APT-MARK-HOLD
+    - cmd: $0 unhold [pkgs...]
+      options: {}
+      name: SC-APT-MARK-UNHOLD
+    - cmd: $0 install [pkgs...]
+      options: {}
+      name: SC-APT-MARK-INSTALL
+    - cmd: $0 remove [pkgs...]
+      options: {}
+      name: SC-APT-MARK-REMOVE
+    - cmd: $0 purge [pkgs...]
+      options: {}
+      name: SC-APT-MARK-PURGE
+    - cmd: $0 showhold [pkgs...]
+      options: {}
+      name: SC-APT-MARK-SHOWHOLD
+    - cmd: $0 showinstall [pkgs...]
+      options: {}
+      name: SC-APT-MARK-SHOWINSTALL
+    - cmd: $0 showremove [pkgs...]
+      options: {}
+      name: SC-APT-MARK-SHOWREMOVE
+    - cmd: $0 showpurge [pkgs...]
+      options: {}
+      name: SC-APT-MARK-SHOWPURGE

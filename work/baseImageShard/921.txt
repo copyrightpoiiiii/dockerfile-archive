@@ -1,0 +1,3 @@
+ubuntu
+trusty-20160914
+['spring-boot_spring-boot-tests_spring-boot-integration-tests_spring-boot-launch-script-tests_src_intTest_resources_conf_Ubuntu_trusty-20160914_Dockerfile202001100.dockerfile', 'spring-boot_spring-boot-tests_spring-boot-integration-tests_spring-boot-launch-script-tests_src_intTest_resources_conf_Ubuntu_trusty-20160914_Dockerfile202008040.dockerfile', 'spring-boot_spring-boot-tests_spring-boot-integration-tests_spring-boot-launch-script-tests_src_intTest_resources_conf_Ubuntu_trusty-20160914_Dockerfile202201040.dockerfile']

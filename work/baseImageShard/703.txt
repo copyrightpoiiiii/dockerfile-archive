@@ -1,0 +1,3 @@
+node
+8.4-alpine
+['f8app_server_graphql_Dockerfile201712050.dockerfile', 'f8app_server_graphql_Dockerfile201804050.dockerfile', 'f8app_server_parse-dashboard_Dockerfile201712050.dockerfile', 'f8app_server_parse-server_Dockerfile201712050.dockerfile']

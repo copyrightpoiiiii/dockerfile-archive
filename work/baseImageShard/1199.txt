@@ -1,0 +1,3 @@
+pytorch
+21.05-py3
+['lightning_dockers_nvidia_Dockerfile202106010.dockerfile', 'lightning_dockers_nvidia_Dockerfile202106070.dockerfile']

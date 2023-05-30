@@ -1,0 +1,3 @@
+appsmith-editor
+latest
+['appsmith_deploy_heroku_Dockerfile202011180.dockerfile', 'appsmith_deploy_heroku_Dockerfile202012020.dockerfile']

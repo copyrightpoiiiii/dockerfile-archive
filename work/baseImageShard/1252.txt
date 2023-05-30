@@ -1,0 +1,3 @@
+pio-testing-base
+latest
+['predictionio__Dockerfile201702180.dockerfile', 'predictionio__Dockerfile201710210.dockerfile']

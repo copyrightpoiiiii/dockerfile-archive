@@ -1,0 +1,3 @@
+ruby
+onbuild
+['slate__Dockerfile201601020.dockerfile', 'slate__Dockerfile201601021.dockerfile']

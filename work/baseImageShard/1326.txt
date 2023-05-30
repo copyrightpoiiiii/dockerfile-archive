@@ -1,0 +1,3 @@
+${DOCKER_YII2_PHP_IMAGE}
+latest
+['yii2__Dockerfile201802050.dockerfile', 'yii2__Dockerfile202010020.dockerfile']

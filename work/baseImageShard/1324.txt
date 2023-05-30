@@ -1,0 +1,3 @@
+tomcat
+latest
+['xxl-job_xxl-job-admin_Dockerfile201710090.dockerfile', 'xxl-job_xxl-job-admin_Dockerfile201810052.dockerfile']

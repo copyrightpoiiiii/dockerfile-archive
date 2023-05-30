@@ -1,0 +1,3 @@
+tensorflow
+2.2.0-gpu
+['models_research_object_detection_dockerfiles_tf2_Dockerfile202006270.dockerfile', 'models_research_object_detection_dockerfiles_tf2_Dockerfile202007110.dockerfile']

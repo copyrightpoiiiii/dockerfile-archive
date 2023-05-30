@@ -1,0 +1,3 @@
+miniconda
+latest
+['mlflow__Dockerfile201806060.dockerfile', 'mlflow__Dockerfile201806080.dockerfile', 'mlflow__Dockerfile201808090.dockerfile', 'mlflow__Dockerfile201808300.dockerfile', 'mlflow__Dockerfile201901210.dockerfile', 'mlflow__Dockerfile201905310.dockerfile']

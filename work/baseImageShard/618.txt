@@ -1,0 +1,3 @@
+php
+${PHP_VERSION}-alpine
+['laradock_laravel-horizon_Dockerfile202001140.dockerfile', 'laradock_laravel-horizon_Dockerfile202001141.dockerfile', 'laradock_laravel-horizon_Dockerfile202002040.dockerfile', 'laradock_laravel-horizon_Dockerfile202002050.dockerfile', 'laradock_laravel-horizon_Dockerfile202002051.dockerfile']

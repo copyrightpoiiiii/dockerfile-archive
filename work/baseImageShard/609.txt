@@ -1,0 +1,3 @@
+ruby
+2.7.1-alpine3.10
+['forem__Dockerfile202004070.dockerfile', 'forem__Dockerfile202004090.dockerfile', 'forem__Dockerfile202004130.dockerfile', 'forem__Dockerfile202004150.dockerfile', 'forem__Dockerfile202004240.dockerfile']

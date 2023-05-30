@@ -1,0 +1,3 @@
+alpine-node
+10
+['leon__Dockerfile201902121.dockerfile', 'n8n_docker_images_n8n_Dockerfile201906230.dockerfile', 'n8n_docker_images_n8n_Dockerfile201908100.dockerfile']

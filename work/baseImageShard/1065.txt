@@ -1,0 +1,3 @@
+dotnet
+2.2-aspnetcore-runtime
+['eShopOnContainers_src_Services_Webhooks_Webhooks.API_Dockerfile201901170.dockerfile', 'eShopOnContainers_src_Web_WebhookClient_Dockerfile201901170.dockerfile']

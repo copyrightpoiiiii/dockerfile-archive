@@ -1,0 +1,3 @@
+rockylinux
+8
+['rethinkdb-dockerfiles_rocky8_aarch64_Dockerfile202205100.dockerfile', 'rethinkdb-dockerfiles_rocky8_x86_64_Dockerfile202205100.dockerfile']

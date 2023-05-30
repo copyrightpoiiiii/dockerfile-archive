@@ -1,0 +1,3 @@
+debian-bullseye-ruby-2.7
+bundler-2.3-git-2.33-lfs-2.9-chrome-${CHROME_VERSION}-docker-${DOCKER_VERSION}-gcloud-383-kubectl-1.23
+['gitlabhq_qa_Dockerfile202206070.dockerfile', 'gitlabhq_qa_Dockerfile202206080.dockerfile', 'gitlabhq_qa_Dockerfile202206082.dockerfile', 'gitlabhq_qa_Dockerfile202206280.dockerfile', 'gitlabhq_qa_Dockerfile202206281.dockerfile', 'gitlabhq_qa_Dockerfile202207050.dockerfile', 'gitlabhq_qa_Dockerfile202207080.dockerfile', 'gitlabhq_qa_Dockerfile202207081.dockerfile', 'gitlabhq_qa_Dockerfile202208030.dockerfile']

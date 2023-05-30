@@ -1,0 +1,3 @@
+zsh
+latest
+['spaceship-prompt__Dockerfile202109230.dockerfile', 'spaceship-prompt__Dockerfile202109231.dockerfile', 'spaceship-prompt__Dockerfile202109232.dockerfile', 'spaceship-prompt__Dockerfile202109233.dockerfile', 'spaceship-prompt__Dockerfile202109234.dockerfile']

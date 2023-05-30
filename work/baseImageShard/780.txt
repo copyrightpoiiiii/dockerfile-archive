@@ -1,0 +1,3 @@
+pytorch
+22.07-py3
+['yolov5_utils_docker_Dockerfile202207310.dockerfile', 'yolov5_utils_docker_Dockerfile202208020.dockerfile', 'yolov5_utils_docker_Dockerfile202208180.dockerfile', 'yolov5_utils_docker_Dockerfile202208230.dockerfile']

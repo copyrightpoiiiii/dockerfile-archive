@@ -1,0 +1,3 @@
+ubuntu
+kinetic
+['buildpack-deps_ubuntu_kinetic_Dockerfile202205160.dockerfile', 'buildpack-deps_ubuntu_kinetic_curl_Dockerfile202205160.dockerfile', 'buildpack-deps_ubuntu_kinetic_scm_Dockerfile202205160.dockerfile']

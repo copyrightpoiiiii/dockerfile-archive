@@ -1,0 +1,3 @@
+nginx
+1.13.0-alpine
+['MFE-starter__Dockerfile201706020.dockerfile', 'MFE-starter__Dockerfile201712170.dockerfile', 'MFE-starter__Dockerfile201802260.dockerfile', 'mean__Dockerfile201706120.dockerfile']

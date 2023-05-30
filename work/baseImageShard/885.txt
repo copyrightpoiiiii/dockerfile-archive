@@ -1,0 +1,3 @@
+ruby
+2-alpine3.13
+['linguist__Dockerfile202107110.dockerfile', 'linguist__Dockerfile202109080.dockerfile', 'linguist__Dockerfile202209150.dockerfile']

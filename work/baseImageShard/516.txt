@@ -1,0 +1,3 @@
+golang
+1.17.5-alpine
+['goreleaser__Dockerfile202112120.dockerfile', 'goreleaser__Dockerfile202112121.dockerfile', 'microservices-demo_src_checkoutservice_Dockerfile202112230.dockerfile', 'microservices-demo_src_productcatalogservice_Dockerfile202112230.dockerfile', 'microservices-demo_src_shippingservice_Dockerfile202112230.dockerfile', 'nuclei__Dockerfile202112130.dockerfile']

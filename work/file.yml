@@ -1,0 +1,97 @@
+pkg:
+    - name: curl
+      cmd:
+        - SC-CURL
+      options: 
+        - -o
+        - --output
+        - -O
+        - --remote-name
+      multifile: false
+      target-last: false
+      path:
+        -
+      source:
+        - SC-CURL-URL
+      target:
+        - SC-CURL-OUTPUT
+    - name: git
+      cmd:
+        - SC-GIT-CLONE
+      multifile: false
+      target-last: false
+      path:
+        -
+      source:
+        - SC-GIT-URL
+      target:
+        - SC-GIT-DIRECTORY
+    - name: wget
+      cmd:
+        - SC-WGET
+      multifile: false
+      target-last: false
+      path:
+        -
+      source:
+        - SC-WGET-URL
+      target:
+        - SC-WGET-OUTPUT
+    - name: mkdir
+      cmd:
+        - SC-MKDIR
+      multifile: true
+      target-last: true
+      path :
+        - SC-MKDIR-PATHS
+      source:
+        - 
+      target:
+        - 
+    - name: mv
+      cmd:
+        - SC-MV
+      multifile: true
+      target-last: true
+      path:
+        - SC-MV-PATHS
+      source:
+        - 
+      target:
+        - SC-MV-DESTINATION
+    - name: cp
+      cmd:
+        - SC-CP
+      multifile: true
+      target-last: true
+      path:
+        - SC-CP-PATHS
+      source:
+        - SC-CP-SOURCE
+      target:
+        - SC-CP-DESTINATION
+        - SC-CP-DEST
+    - name: tar
+      cmd:
+        - SC-TAR
+      multifile: false
+      target-last: false
+      path:
+        -
+      source:
+        - SC-TAR-FILE
+        - SC-TAR-F
+      target:
+        - SC-TAR-OUTPUT
+    - name: unzip
+      cmd:
+        - SC-UNZIP
+      multifile: false
+      target-last: false
+      path:
+        -
+      source:
+        - SC-UNZIP-FILE
+        - SC-UNZIP-E
+      target:
+        - SC-UNZIP-D

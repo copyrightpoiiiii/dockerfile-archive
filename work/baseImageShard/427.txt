@@ -1,0 +1,3 @@
+stackedit-base
+latest
+['stackedit__Dockerfile201711050.dockerfile', 'stackedit__Dockerfile201801190.dockerfile', 'stackedit__Dockerfile201801200.dockerfile', 'stackedit__Dockerfile201801201.dockerfile', 'stackedit__Dockerfile201801202.dockerfile', 'stackedit__Dockerfile201802020.dockerfile', 'stackedit__Dockerfile201808170.dockerfile', 'stackedit__Dockerfile202103300.dockerfile']

@@ -1,0 +1,3 @@
+caffe2
+snapshot-py2-cuda9.0-cudnn7-ubuntu16.04
+['Detectron_docker_Dockerfile201802010.dockerfile', 'Detectron_docker_Dockerfile201802020.dockerfile', 'Detectron_docker_Dockerfile201805080.dockerfile', 'Detectron_docker_Dockerfile201805240.dockerfile']

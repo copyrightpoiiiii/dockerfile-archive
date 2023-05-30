@@ -1,0 +1,3 @@
+jina
+${JINA_VERSION}-py38-standard
+['clip-as-service_Dockerfiles_base202205110.dockerfile', 'clip-as-service_Dockerfiles_base202205200.dockerfile', 'clip-as-service_Dockerfiles_base202205230.dockerfile', 'clip-as-service_Dockerfiles_base202206150.dockerfile', 'clip-as-service_Dockerfiles_base202206200.dockerfile', 'clip-as-service_Dockerfiles_base202207290.dockerfile']

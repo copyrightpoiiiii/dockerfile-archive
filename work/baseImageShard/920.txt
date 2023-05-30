@@ -1,0 +1,3 @@
+eclipse-temurin
+${java_image_tag}
+['spark_resource-managers_kubernetes_docker_src_main_dockerfiles_spark_Dockerfile202208310.dockerfile', 'spark_resource-managers_kubernetes_docker_src_main_dockerfiles_spark_Dockerfile202210200.dockerfile', 'spark_resource-managers_kubernetes_docker_src_main_dockerfiles_spark_Dockerfile202210280.dockerfile']

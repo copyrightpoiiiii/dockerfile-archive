@@ -1,0 +1,3 @@
+chatwoot
+development
+['chatwoot_docker_dockerfiles_rails201912230.dockerfile', 'chatwoot_docker_dockerfiles_webpack201912230.dockerfile']

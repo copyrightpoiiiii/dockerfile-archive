@@ -1,0 +1,3 @@
+golang
+1.6.3
+['codis__Dockerfile201609220.dockerfile', 'codis__Dockerfile201609221.dockerfile']

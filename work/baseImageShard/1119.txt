@@ -1,0 +1,3 @@
+${ARCH}python
+3.9-slim-buster
+['glances_docker-files_debian202105155.dockerfile', 'glances_docker-files_debian202105156.dockerfile']

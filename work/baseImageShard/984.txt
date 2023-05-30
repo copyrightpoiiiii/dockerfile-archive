@@ -1,0 +1,3 @@
+centos7_64_qt_llvm
+qt5126-llvm1000
+['Sourcetrail_deployment_dockerfiles_linux_travis_ci_Dockerfile202006070.dockerfile', 'Sourcetrail_deployment_dockerfiles_linux_travis_ci_Dockerfile202006071.dockerfile']

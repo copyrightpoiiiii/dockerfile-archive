@@ -1,0 +1,3 @@
+node
+12.18.1-slim
+['istio_samples_bookinfo_src_ratings_Dockerfile202006300.dockerfile', 'istio_samples_bookinfo_src_ratings_Dockerfile202209020.dockerfile']

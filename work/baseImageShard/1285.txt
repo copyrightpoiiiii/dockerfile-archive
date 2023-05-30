@@ -1,0 +1,3 @@
+node
+0.10
+['stf__Dockerfile201408040.dockerfile', 'stf__Dockerfile201408050.dockerfile']
